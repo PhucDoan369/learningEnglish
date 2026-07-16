@@ -1,0 +1,183 @@
+Medicine + /ˈmedɪsn/ + Thuốc + Take this medicine twice a day.
+Doctor + /ˈdɑːktər/ + Bác sĩ + The doctor will see you now.
+Patient + /ˈpeɪʃnt/ + Bệnh nhân + The patient is recovering well.
+Hospital + /ˈhɑːspɪtl/ + Bệnh viện + She was rushed to the hospital.
+Clinic + /ˈklɪnɪk/ + Phòng khám + I have an appointment at the clinic.
+Nurse + /nɜːrs/ + Y tá + The nurse checked my blood pressure.
+Surgery + /ˈsɜːrdʒəri/ + Phẫu thuật + He underwent a minor surgery.
+Treatment + /ˈtriːtmənt/ + Sự điều trị + The treatment takes six weeks.
+Diagnosis + /ˌdaɪəɡˈnoʊsɪs/ + Chẩn đoán + The diagnosis was very accurate.
+Symptom + /ˈsɪmptəm/ + Triệu chứng + Do you have any flu symptoms?
+Disease + /dɪˈziːz/ + Bệnh tật + They are studying this rare disease.
+Illness + /ˈɪlnəs/ + Sự ốm đau + Her illness was quite serious.
+Condition + /kənˈdɪʃn/ + Tình trạng + His heart condition is stable.
+Health + /helθ/ + Sức khỏe + Eating well is good for health.
+Injection + /ɪnˈdʒekʃn/ + Tiêm + I am afraid of getting an injection.
+Prescription + /prɪˈskrɪpʃn/ + Đơn thuốc + The doctor wrote a prescription.
+Pharmacy + /ˈfɑːrməsi/ + Hiệu thuốc + Go to the pharmacy for medicine.
+Tablet + /ˈtæblət/ + Viên thuốc + Take one tablet after meals.
+Capsule + /ˈkæpsjuːl/ + Viên nang + Swallow the capsule with water.
+Syrup + /ˈsɪrəp/ + Thuốc dạng siro + This syrup is for your cough.
+Check-up + /ˈtʃek ʌp/ + Kiểm tra sức khỏe + I need a regular check-up.
+Examination + /ɪɡˌzæmɪˈneɪʃn/ + Sự thăm khám + The physical examination is complete.
+Anesthesia + /ˌænəsˈθiːziə/ + Gây mê + They used local anesthesia.
+Antibiotic + /ˌæntibaɪˈɑːtɪk/ + Kháng sinh + Finish all your antibiotics.
+Painkiller + /ˈpeɪnkɪlər/ + Thuốc giảm đau + This painkiller works quickly.
+Recovery + /rɪˈkʌvəri/ + Sự hồi phục + He is on the road to recovery.
+Allergy + /ˈælərdʒi/ + Dị ứng + I have an allergy to peanuts.
+Infection + /ɪnˈfekʃn/ + Nhiễm trùng + The cut is showing signs of infection.
+Virus + /ˈvaɪrəs/ + Vi-rút + The virus spreads very fast.
+Bacteria + /bækˈtɪriə/ + Vi khuẩn + Wash hands to kill bacteria.
+Fever + /ˈfiːvər/ + Sốt + She has a high fever today.
+Cough + /kɔːf/ + Ho + I have a persistent cough.
+Headache + /ˈhedeɪk/ + Đau đầu + I took something for my headache.
+Sore throat + /sɔːr θroʊt/ + Đau họng + Drink honey for a sore throat.
+Backache + /ˈbækeɪk/ + Đau lưng + He suffers from chronic backache.
+Stomachache + /ˈstʌməkeɪk/ + Đau bụng + Avoid spicy food if you have a stomachache.
+Rash + /ræʃ/ + Phát ban + The rash looks very red.
+Dizzy + /ˈdɪzi/ + Chóng mặt + I feel a little dizzy now.
+Nausea + /ˈnɔːziə/ + Buồn nôn + Nausea is a common side effect.
+Pulse + /pʌls/ + Mạch + Her pulse is slow but steady.
+Blood pressure + /blʌd ˈpreʃər/ + Huyết áp + Check your blood pressure daily.
+Heart rate + /hɑːrt reɪt/ + Nhịp tim + The resting heart rate is normal.
+X-ray + /ˈeks reɪ/ + Chụp X-quang + The doctor ordered an X-ray.
+Scan + /skæn/ + Quét hình ảnh + The MRI scan showed the injury.
+Blood test + /blʌd test/ + Xét nghiệm máu + A blood test reveals the problem.
+Laboratory + /ˈlæbrətɔːri/ + Phòng thí nghiệm + Send the sample to the laboratory.
+Ambulance + /ˈæmbjələns/ + Xe cứu thương + Call an ambulance for help.
+Emergency + /ɪˈmɜːrdʒənsi/ + Khẩn cấp + Go to the emergency room.
+Ward + /wɔːrd/ + Khu phòng bệnh + He was moved to the surgical ward.
+Specialist + /ˈspeʃəlɪst/ + Bác sĩ chuyên khoa + See a skin specialist.
+Surgeon + /ˈsɜːrdʒən/ + Bác sĩ phẫu thuật + The surgeon is very skilled.
+Therapy + /ˈθerəpi/ + Trị liệu + Physical therapy helps the injury.
+Anatomy + /əˈnætəmi/ + Giải phẫu + Study human anatomy in detail.
+Physiology + /ˌfɪziˈɑːlədʒi/ + Sinh lý học + It relates to human physiology.
+Genetic + /dʒəˈnetɪk/ + Di truyền + It is a genetic disorder.
+Immunity + /ɪˈmjuːnəti/ + Miễn dịch + Vitamin C boosts your immunity.
+Vaccine + /ˈvæksiːn/ + Vắc-xin + Have you received the vaccine?
+Immunization + /ˌɪmjunaɪˈzeɪʃn/ + Sự tiêm chủng + Keep track of your immunization.
+Chronic + /ˈkrɑːnɪk/ + Mãn tính + He has chronic pain issues.
+Acute + /əˈkjuːt/ + Cấp tính + The pain was sudden and acute.
+Contagious + /kənˈteɪdʒəs/ + Truyền nhiễm + This flu is very contagious.
+Dehydration + /ˌdiːhaɪˈdreɪʃn/ + Mất nước + Drink water to avoid dehydration.
+Inflammation + /ˌɪnfləˈmeɪʃn/ + Viêm + The inflammation caused the swelling.
+Fatigue + /fəˈtiːɡ/ + Mệt mỏi + Extreme fatigue is a symptom.
+Insomnia + /ɪnˈsɑːmniə/ + Mất ngủ + She is struggling with insomnia.
+Asthma + /ˈæzmə/ + Hen suyễn + He uses an inhaler for asthma.
+Diabetes + /ˌdaɪəˈbiːtiːz/ + Tiểu đường + Watch your sugar intake for diabetes.
+Cancer + /ˈkænsər/ + Ung thư + Early detection is vital for cancer.
+Arthritis + /ɑːrˈθraɪtɪs/ + Viêm khớp + She has arthritis in her hands.
+Hypertension + /ˌhaɪpərˈtenʃn/ + Cao huyết áp + Manage hypertension with diet.
+Obesity + /oʊˈbiːsəti/ + Béo phì + Obesity can cause many health issues.
+Anemia + /əˈniːmiə/ + Thiếu máu + Eat iron-rich foods for anemia.
+Dermatology + /ˌdɜːrməˈtɑːlədʒi/ + Da liễu + Refer to the dermatology clinic.
+Cardiology + /ˌkɑːrdiˈɑːlədʒi/ + Tim mạch + He works in cardiology.
+Neurology + /nʊˈrɑːlədʒi/ + Thần kinh học + The neurology test went well.
+Pediatrics + /ˌpiːdiˈætrɪks/ + Nhi khoa + She is studying pediatrics.
+Oncology + /ɑːnˈkɑːlədʒi/ + Ung bướu học + The oncology ward is busy.
+Radiology + /ˌreɪdiˈɑːlədʒi/ + Chẩn đoán hình ảnh + The radiology unit is modern.
+Orthopedics + /ˌɔːrθəˈpiːdɪks/ + Chỉnh hình + He went to the orthopedics unit.
+Gynecology + /ˌɡaɪnəˈkɑːlədʒi/ + Phụ khoa + Schedule a gynecology check-up.
+Psychiatry + /saɪˈkaɪətri/ + Tâm thần học + She is pursuing psychiatry.
+Optometry + /ɑːpˈtɑːmətri/ + Nhãn khoa + See the optometry specialist.
+Dentistry + /ˈdentɪstri/ + Nha khoa + Dentistry is a precise field.
+Recovery + /rɪˈkʌvəri/ + Hồi phục + A full recovery is expected.
+Rehabilitation + /ˌriːhəˌbɪlɪˈteɪʃn/ + Phục hồi chức năng + She needs intensive rehabilitation.
+Prognosis + /prɑːɡˈnoʊsɪs/ + Tiên lượng + The doctor is positive about prognosis.
+Screening + /ˈskriːnɪŋ/ + Sàng lọc + Routine screening saves lives.
+Check-up + /ˈtʃek ʌp/ + Kiểm tra + A yearly physical check-up.
+First-aid + /ˈfɜːrst eɪd/ + Sơ cứu + Apply basic first-aid techniques.
+Bandage + /ˈbændɪdʒ/ + Băng gạc + Change the bandage carefully.
+Stitches + /ˈstɪtʃɪz/ + Khâu (vết thương) + The wound required five stitches.
+Gauze + /ɡɔːz/ + Gạc y tế + Use clean gauze for the wound.
+Crutches + /ˈkrʌtʃɪz/ + Nạng + He is walking with crutches.
+Wheelchair + /ˈwiːltʃer/ + Xe lăn + She uses a wheelchair temporarily.
+Thermometer + /θərˈmɑːmɪtər/ + Nhiệt kế + The thermometer shows 38 degrees.
+Stethoscope + /ˈsteθəskoʊp/ + Ống nghe + The doctor uses a stethoscope.
+Syringe + /ˈsɪrɪndʒ/ + Kim tiêm + Dispose of the syringe safely.
+Scalpel + /ˈskælpl/ + Dao mổ + The surgeon requested a scalpel.
+Splint + /splɪnt/ + Nẹp + He wears a splint on his arm.
+Plaster + /ˈplæstər/ + Băng thạch cao + The arm is in a plaster cast.
+Gown + /ɡaʊn/ + Áo choàng bệnh viện + Please wear this hospital gown.
+Mask + /mæsk/ + Khẩu trang + Wear a mask in the hospital.
+Glove + /ɡlʌv/ + Găng tay + The doctor put on sterile gloves.
+Fluid + /ˈfluːɪd/ + Dịch lỏng + Increase your daily fluid intake.
+Serum + /ˈsɪrəm/ + Huyết thanh + Analyze the serum for antibodies.
+Organ + /ˈɔːrɡən/ + Cơ quan (nội tạng) + Protect your vital organs.
+Tissue + /ˈtɪʃuː/ + Mô + The tissue sample was tested.
+Cell + /sel/ + Tế bào + Cancer affects the body cells.
+Bone + /boʊn/ + Xương + The bone is fractured badly.
+Muscle + /ˈmʌsl/ + Cơ + I have a strained back muscle.
+Joint + /dʒɔɪnt/ + Khớp + The knee joint is very painful.
+Ligament + /ˈlɪɡəmənt/ + Dây chằng + She tore a ligament today.
+Artery + /ˈɑːrtəri/ + Động mạch + The artery carries oxygenated blood.
+Vein + /veɪn/ + Tĩnh mạch + Take blood from the arm vein.
+Nerve + /nɜːrv/ + Dây thần kinh + The nerve damage is healing.
+Heart + /hɑːrt/ + Tim + Take care of your heart health.
+Lung + /lʌŋ/ + Phổi + Smoking damages your lungs.
+Liver + /ˈlɪvər/ + Gan + The liver processes toxins.
+Kidney + /ˈkɪdni/ + Thận + Drink water to help the kidneys.
+Stomach + /ˈstʌmək/ + Dạ dày + The stomach digests the food.
+Brain + /breɪn/ + Não + Protect the brain from injuries.
+Intestine + /ɪnˈtestɪn/ + Ruột + Exercise aids intestine function.
+Skin + /skɪn/ + Da + Protect your skin from sun.
+Eye + /aɪ/ + Mắt + Have your eyes checked yearly.
+Ear + /ɪr/ + Tai + The ear infection hurts.
+Nose + /noʊz/ + Mũi + The nose is blocked up.
+Throat + /θroʊt/ + Họng + Keep the throat moist and warm.
+Mouth + /maʊθ/ + Miệng + Rinse your mouth with water.
+Tooth + /tuːθ/ + Răng + Brush your tooth twice daily.
+Tongue + /tʌŋ/ + Lưỡi + The tongue helps taste food.
+Lip + /lɪp/ + Môi + My lip is very dry.
+Neck + /nek/ + Cổ + I have a stiff neck.
+Chest + /tʃest/ + Ngực + Deep breathing expands the chest.
+Shoulder + /ˈʃoʊldər/ + Vai + I have a sore shoulder.
+Arm + /ɑːrm/ + Cánh tay + Move the arm gently.
+Hand + /hænd/ + Bàn tay + Wash your hand thoroughly.
+Finger + /ˈfɪŋɡər/ + Ngón tay + Cut my finger while cooking.
+Leg + /leg/ + Chân + The leg muscles are tired.
+Foot + /fʊt/ + Bàn chân + My foot hurts from walking.
+Toe + /toʊ/ + Ngón chân + Stubbed my big toe today.
+Back + /bæk/ + Lưng + Rest your back on chair.
+Waist + /weɪst/ + Eo + Tighten the belt at waist.
+Stiffness + /ˈstɪfnəs/ + Sự cứng đơ + Relieve joint stiffness with heat.
+Swelling + /ˈswelɪŋ/ + Sự sưng tấy + Apply ice to reduce swelling.
+Numbness + /ˈnʌmnəs/ + Sự tê liệt + Numbness in feet is worrying.
+Tenderness + /ˈtendərnəs/ + Sự đau nhói + The area feels a tenderness.
+Itchiness + /ˈɪtʃinəs/ + Sự ngứa ngáy + The cream stops the itchiness.
+Weakness + /ˈwiːknəs/ + Sự suy yếu + Muscle weakness is a sign.
+Chills + /tʃɪlz/ + Ớn lạnh + You have chills and fever.
+Sneezing + /ˈsniːzɪŋ/ + Sự hắt hơi + Sneezing spreads the germs.
+Wheezing + /ˈwiːzɪŋ/ + Tiếng thở khò khè + Wheezing indicates breathing issues.
+Bleeding + /ˈbliːdɪŋ/ + Sự chảy máu + Stop the bleeding with cloth.
+Bruise + /bruːz/ + Vết bầm + The bruise will fade away.
+Burn + /bɜːrn/ + Vết bỏng + Treat the burn with cold water.
+Fracture + /ˈfræktʃər/ + Gãy xương + The fracture needs a cast.
+Dislocation + /ˌdɪsloʊˈkeɪʃn/ + Sự trật khớp + A shoulder dislocation is painful.
+Sprain + /spreɪn/ + Bong gân + A wrist sprain needs rest.
+Concussion + /kənˈkʌʃn/ + Chấn động não + He has a mild concussion.
+Recovery + /rɪˈkʌvəri/ + Sự hồi phục + A steady recovery is vital.
+Wellness + /ˈwel nəs/ + Sự khỏe mạnh + Focus on overall body wellness.
+Hygiene + /ˈhaɪdʒiːn/ + Vệ sinh + Maintain good personal hygiene.
+Diet + /ˈdaɪet/ + Chế độ ăn + Follow a balanced diet plan.
+Nutrition + /nuˈtrɪʃn/ + Dinh dưỡng + Proper nutrition is very important.
+Exercise + /ˈeksərsaɪz/ + Tập thể dục + Daily exercise is highly recommended.
+Well-being + /ˈwel biːɪŋ/ + Sự an lạc + Your well-being is our goal.
+Prophylaxis + /ˌproʊfəˈlæksɪs/ + Phòng bệnh + Practice prophylaxis against flu.
+Screening + /ˈskriːnɪŋ/ + Tầm soát + Annual cancer screening is advised.
+Checkup + /ˈtʃek ʌp/ + Khám sức khỏe + Schedule a routine physical checkup.
+Diagnosis + /ˌdaɪəɡˈnoʊsɪs/ + Chẩn đoán + Confirm the diagnosis with tests.
+Prognosis + /prɑːɡˈnoʊsɪs/ + Tiên lượng + A positive prognosis for patient.
+Medication + /ˌmedɪˈkeɪʃn/ + Dược phẩm + Follow medication instructions carefully.
+Dosage + /ˈdoʊsɪdʒ/ + Liều lượng + Do not exceed the recommended dosage.
+Side-effect + /ˈsaɪd ɪfekt/ + Tác dụng phụ + Common side-effects include sleepiness.
+Administration + /ədˌmɪnɪˈstreɪʃn/ + Cách dùng thuốc + Proper administration of drugs.
+Clinical + /ˈklɪnɪkl/ + Lâm sàng + The clinical trials were successful.
+Pathology + /pəˈθɑːlədʒi/ + Bệnh học + He specializes in pathology study.
+Epidemiology + /ˌepɪˌdiːmiˈɑːlədʒi/ + Dịch tễ học + Study epidemiology to track viruses.
+Public health + /ˈpʌblɪk helθ/ + Y tế công cộng + Promote better public health standards.
+Geriatrics + /ˌdʒeriˈætrɪks/ + Lão khoa + Geriatrics care is very specialized.
+Emergency room + /ɪˈmɜːrdʒənsi ruːm/ + Phòng cấp cứu + Rush them to the emergency room.
+Intensive care + /ɪnˈtensɪv ker/ + Hồi sức tích cực + Moved to the intensive care unit.
+Outpatient + /ˈaʊtpeɪʃnt/ + Bệnh nhân ngoại trú + Outpatient care is very convenient.
+Inpatient + /ˈɪnpeɪʃnt/ + Bệnh nhân nội trú + Inpatient services are very costly.

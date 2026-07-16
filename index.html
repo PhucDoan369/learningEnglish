@@ -3,18 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Học Từ Vựng Tiếng Anh - Flashcard</title>
+    <title>Flashcard Từ Vựng Tiếng Anh</title>
+    <link rel="icon" type="image/png" href="title.png">
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
-        body { background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px; color: #333; }
+        body { background: linear-gradient(135deg, #28346b 0%, #764ba2 100%); min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 20px; color: #333; }
         .container { width: 100%; max-width: 520px; text-align: center; }
         .example { margin-top: 15px; font-size: 1rem; color: #718096; font-style: italic; text-align: center; line-height: 1.5; }
         h1 { color: white; margin-bottom: 10px; font-size: 1.8rem; text-shadow: 0 2px 4px rgba(0,0,0,0.2); }
         .subtitle { color: rgba(255, 255, 255, 0.8); margin-bottom: 25px; font-size: 0.95rem; }
 
         /* --- GIAO DIỆN MENU --- */
-        #menu-view { background: rgba(255, 255, 255, 0.95); padding: 25px; border-radius: 20px; box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2); text-align: left; max-height: 85vh; overflow-y: auto; }
-        .menu-section { margin-bottom: 20px; }
+       #menu-view { 
+    background: rgba(255, 255, 255, 0.95); 
+    padding: 25px; 
+    border-radius: 20px; 
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2); 
+    text-align: left; 
+    /* Đã xóa max-height và overflow-y */
+}
         .menu-section h2 { font-size: 1.1rem; color: #4c51bf; border-bottom: 2px solid #e2e8f0; padding-bottom: 5px; margin-bottom: 12px; }
         .menu-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
         .menu-btn { background: #f7fafc; color: #2d3748; border: 1px solid #e2e8f0; padding: 12px; font-size: 0.9rem; font-weight: 600; border-radius: 10px; cursor: pointer; text-align: center; transition: all 0.2s ease; box-shadow: none; }
@@ -69,20 +76,39 @@
                     <button class="menu-btn" onclick="selectTopic('taichinh.txt', 'Tài chính')">💰 Tài chính</button>
                 </div>
             </div>
+            <div class="menu-section">
+                <h2>3. Từ vựng nâng cao theo trình độ</h2>
+                <div class="menu-grid">
+                    <button class="menu-btn" onclick="selectTopic('easy.txt', 'Trình độ Easy (A1-A2)')">🌱 Easy (A1–A2)</button>
+                    <button class="menu-btn" onclick="selectTopic('medium.txt', 'Trình độ Medium (B1-B2)')">📈 Medium (B1–B2)</button>
+                    <button class="menu-btn" onclick="selectTopic('hard.txt', 'Trình độ Hard (C1)')">🔥 Hard (C1)</button>
+                     <button class="menu-btn" onclick="openDonate()" style="background: #0dc3db; color: white;">💰 Donate</button>
+                </div>
+            </div>
         </div>
-
+<div id="donate-modal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 1000; justify-content: center; align-items: center;">
+    <div style="background: white; padding: 20px; border-radius: 15px; position: relative; max-width: 90%; text-align: center;">
+        <span onclick="closeDonate()" style="position: absolute; top: 10px; right: 15px; cursor: pointer; font-size: 24px; font-weight: bold;">&times;</span>
+        <h3>Ủng hộ tác giả</h3>
+        <img src="donate.jpg" alt="QR Code" style="width: 250px; margin: 15px 0;">
+        <p>Website này được duy trì hoàn toàn bằng tâm huyết cá nhân và không quảng cáo </p>
+            <p>Để mình có thể tiếp tục hoàn thiện và giữ cho trang web miễn phí mãi mãi </p>
+            <p>Sự ủng hộ nhỏ từ bạn sẽ là nguồn năng lượng tuyệt vời nhất</p>
+            <p> Cảm ơn bạn đã trân trọng công sức của mình!</p>
+    </div>
+</div>
         <div id="flashcard-view">
             <div class="card-container">
                 <div class="card" id="card" onclick="flipCard()">
                     <div class="card-face card-front">
                         <div class="word" id="front-word">Loading...</div>
                         <div class="phonetic" id="front-phonetic"></div>
-                        <div class="hint">Chạm để xem nghĩa 🔄</div>
+                        <div class="hint">Chạm để xem nghĩa</div>
                     </div>
                     <div class="card-face card-back">
                         <div class="meaning" id="back-meaning">...</div>
                         <div class="example" id="back-example"></div>
-                        <div class="hint">Chạm để xem từ 🔄</div>
+                        <div class="hint">Chạm để xem từ</div>
                     </div>
                 </div>
             </div>
@@ -90,9 +116,9 @@
             <div class="controls">
                 <button onclick="prevWord()">⬅ Trước</button>
                 <button onclick="speakWord()">🔊 Phát âm</button>
-                <button onclick="nextWord()">Tiếp ➡</button>
+           <button onclick="searchImages()">🌄 Tìm ảnh liên tưởng</button> <button onclick="nextWord()">Tiếp ➡</button>
             </div>
-
+<div id="image-results" style="margin-top: 15px; display: flex; gap: 10px; justify-content: center;"></div>
             <div class="progress" id="progress">0 / 0</div>
             <button class="btn-back-menu" onclick="backToMenu()">⬅ Quay lại Menu</button>
         </div>
@@ -110,7 +136,18 @@
             utterance.lang = 'en-US';
             window.speechSynthesis.speak(utterance);
         }
+function searchImages() {
+    const word = vocabulary[currentIndex].word;
+    // Mở trang kết quả Google Image của từ đó trong tab mới
+    window.open(`https://www.google.com/search?tbm=isch&q=${encodeURIComponent(word)}`, '_blank');
+}
+function openDonate() {
+    document.getElementById('donate-modal').style.display = 'flex';
+}
 
+function closeDonate() {
+    document.getElementById('donate-modal').style.display = 'none';
+}
         function flipCard() { card.classList.toggle('flipped'); }
 
         function updateCard() {
@@ -139,12 +176,20 @@
             updateCard();
         }
 
-        function parseTextToVocab(text) {
-            return text.split('\n').filter(line => line.trim() !== "").map(line => {
-                const parts = line.split('-').map(p => p.trim());
-                return { word: parts[0] || "", phonetic: parts[1] || "", meaning: parts[2] || "", example: parts.slice(3).join(" - ") || "" };
-            });
-        }
+function parseTextToVocab(text) {
+    return text.split('\n').filter(line => line.trim() !== "").map(line => {
+        // Đổi dấu '-' thành dấu '+' ở đây
+        const parts = line.split('+').map(p => p.trim());
+        
+        // Cập nhật lại phần ghép ví dụ nếu cần dùng dấu '+'
+        return { 
+            word: parts[0] || "", 
+            phonetic: parts[1] || "", 
+            meaning: parts[2] || "", 
+            example: parts.slice(3).join(" + ") || "" 
+        };
+    });
+}
 
         async function selectTopic(fileName, topicName) {
             document.getElementById('current-topic-title').innerText = `Chủ đề: ${topicName}`;

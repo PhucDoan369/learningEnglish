@@ -1,0 +1,196 @@
+This morning + /ðɪs ˈmɔːrnɪŋ/ + Sáng nay + I drank coffee this morning.
+This afternoon + /ðɪs ˌæftərˈnuːn/ + Chiều nay + We met this afternoon.
+This evening + /ðɪs ˈiːvnɪŋ/ + Tối nay + I will study this evening.
+Last night + /læst naɪt/ + Tối qua + I slept well last night.
+Next week + /nekst wiːk/ + Tuần tới + We will travel next week.
+Last week + /læst wiːk/ + Tuần trước + She was busy last week.
+Every day + /ˈevri deɪ/ + Mỗi ngày + I exercise every day.
+Right now + /raɪt naʊ/ + Ngay bây giờ + She is working right now.
+At home + /æt hoʊm/ + Ở nhà + My parents are at home.
+At school + /æt skuːl/ + Ở trường + The students are at school.
+At work + /æt wɜːrk/ + Ở chỗ làm + My father is at work.
+In class + /ɪn klæs/ + Trong lớp học + We are quiet in class.
+On time + /ɑːn taɪm/ + Đúng giờ + He always arrives on time.
+Late again + /leɪt əˈɡen/ + Lại muộn + She is late again.
+Very happy + /ˈveri ˈhæpi/ + Rất vui + They are very happy.
+Very tired + /ˈveri ˈtaɪərd/ + Rất mệt + I feel very tired.
+A little + /ə ˈlɪtl/ + Một chút + I need a little help.
+A lot + /ə lɑːt/ + Rất nhiều + We learned a lot today.
+Good idea + /ɡʊd aɪˈdiːə/ + Ý hay + That's a good idea.
+Good job + /ɡʊd dʒɑːb/ + Làm tốt lắm + You did a good job.
+Good luck + /ɡʊd lʌk/ + Chúc may mắn + Good luck on your test.
+No problem + /noʊ ˈprɑːbləm/ + Không vấn đề + No problem, I can help.
+Of course + /əv kɔːrs/ + Tất nhiên + Of course I remember.
+For example + /fɔːr ɪɡˈzæmpl/ + Ví dụ + For example, apples are healthy.
+By myself + /baɪ maɪˈself/ + Một mình + I finished it by myself.
+With friends + /wɪð frendz/ + Với bạn bè + I went out with friends.
+In the morning + /ɪn ðə ˈmɔːrnɪŋ/ + Vào buổi sáng + I run in the morning.
+In the afternoon + /ɪn ðə ˌæftərˈnuːn/ + Vào buổi chiều + We study in the afternoon.
+In the evening + /ɪn ði ˈiːvnɪŋ/ + Vào buổi tối + They watch TV in the evening.
+After school + /ˈæftər skuːl/ + Sau giờ học + We play football after school.
+Before dinner + /bɪˈfɔːr ˈdɪnər/ + Trước bữa tối + Wash your hands before dinner.
+After dinner + /ˈæftər ˈdɪnər/ + Sau bữa tối + We take a walk after dinner.
+Every weekend + /ˈevri ˌwiːkˈend/ + Mỗi cuối tuần + We visit grandma every weekend.
+Next month + /nekst mʌnθ/ + Tháng tới + I will move next month.
+Last month + /læst mʌnθ/ + Tháng trước + We were busy last month.
+Next year + /nekst jɪr/ + Năm tới + I will graduate next year.
+Last year + /læst jɪr/ + Năm ngoái + We traveled last year.
+Long time + /lɔːŋ taɪm/ + Thời gian dài + I waited a long time.
+Short time + /ʃɔːrt taɪm/ + Thời gian ngắn + It takes a short time.
+All day + /ɔːl deɪ/ + Cả ngày + He worked all day.
+All night + /ɔːl naɪt/ + Cả đêm + The baby cried all night.
+Each other + /iːtʃ ˈʌðər/ + Lẫn nhau + They help each other.
+Take care + /teɪk ker/ + Giữ gìn nhé + Take care on your way home.
+Come here + /kʌm hɪr/ + Lại đây + Please come here.
+Go outside + /ɡoʊ ˌaʊtˈsaɪd/ + Ra ngoài + The kids want to go outside.
+Sit down + /sɪt daʊn/ + Ngồi xuống + Please sit down.
+Stand up + /stænd ʌp/ + Đứng lên + Everyone, stand up.
+Wake up + /weɪk ʌp/ + Thức dậy + I wake up at six.
+Go to bed + /ɡoʊ tə bed/ + Đi ngủ + I go to bed at ten.
+Get up + /ɡet ʌp/ + Thức dậy + She gets up early.
+Get dressed + /ɡet drest/ + Mặc quần áo + He gets dressed quickly.
+Take a shower + /teɪk ə ˈʃaʊər/ + Tắm vòi sen + I take a shower every morning.
+Brush my teeth + /brʌʃ maɪ tiːθ/ + Đánh răng + I brush my teeth twice a day.
+Wash my face + /wɑːʃ maɪ feɪs/ + Rửa mặt + She washes her face before bed.
+Comb my hair + /koʊm maɪ her/ + Chải tóc + He combs his hair every morning.
+Have breakfast + /hæv ˈbrekfəst/ + Ăn sáng + We have breakfast together.
+Have lunch + /hæv lʌntʃ/ + Ăn trưa + I have lunch at school.
+Have dinner + /hæv ˈdɪnər/ + Ăn tối + They have dinner at seven.
+Drink water + /drɪŋk ˈwɔːtər/ + Uống nước + Drink more water every day.
+Eat slowly + /iːt ˈsloʊli/ + Ăn chậm + You should eat slowly.
+Eat together + /iːt təˈɡeðər/ + Ăn cùng nhau + We eat together every Sunday.
+Cook dinner + /kʊk ˈdɪnər/ + Nấu bữa tối + My mother cooks dinner.
+Wash dishes + /wɑːʃ ˈdɪʃɪz/ + Rửa bát + I wash the dishes after dinner.
+Clean the room + /kliːn ðə ruːm/ + Dọn phòng + Please clean the room.
+Make the bed + /meɪk ðə bed/ + Dọn giường + She makes the bed every morning.
+Do homework + /duː ˈhoʊmwɜːrk/ + Làm bài tập + The children do homework after school.
+Read a book + /riːd ə bʊk/ + Đọc sách + I read a book before bed.
+Write a letter + /raɪt ə ˈletər/ + Viết thư + She writes a letter to her friend.
+Watch TV + /wɑːtʃ ˌtiːˈviː/ + Xem TV + We watch TV together.
+Listen to music + /ˈlɪsn tə ˈmjuːzɪk/ + Nghe nhạc + He listens to music every evening.
+Play games + /pleɪ ɡeɪmz/ + Chơi trò chơi + They play games after school.
+Play football + /pleɪ ˈfʊtbɔːl/ + Chơi bóng đá + We play football on Saturdays.
+Ride a bike + /raɪd ə baɪk/ + Đi xe đạp + She rides a bike to school.
+Drive a car + /draɪv ə kɑːr/ + Lái xe ô tô + My father drives a car.
+Catch a bus + /kætʃ ə bʌs/ + Bắt xe buýt + I catch a bus every morning.
+Miss the bus + /mɪs ðə bʌs/ + Lỡ xe buýt + He missed the bus today.
+Open the door + /ˈoʊpən ðə dɔːr/ + Mở cửa + Please open the door.
+Close the window + /kloʊz ðə ˈwɪndoʊ/ + Đóng cửa sổ + Close the window, please.
+Turn on + /tɜːrn ɑːn/ + Bật lên + Turn on the light.
+Turn off + /tɜːrn ɔːf/ + Tắt đi + Please turn off the fan.
+Look at + /lʊk æt/ + Nhìn vào + Look at the picture.
+Look for + /lʊk fɔːr/ + Tìm kiếm + I'm looking for my phone.
+Wait for + /weɪt fɔːr/ + Chờ đợi + Please wait for me.
+Talk about + /tɔːk əˈbaʊt/ + Nói về + We talked about school.
+Think about + /θɪŋk əˈbaʊt/ + Nghĩ về + I'm thinking about my future.
+Ask for + /æsk fɔːr/ + Xin, yêu cầu + She asked for help.
+Learn English + /lɜːrn ˈɪŋɡlɪʃ/ + Học tiếng Anh + I learn English every day.
+Speak English + /spiːk ˈɪŋɡlɪʃ/ + Nói tiếng Anh + They speak English well.
+Study hard + /ˈstʌdi hɑːrd/ + Học chăm chỉ + She studies hard.
+Work hard + /wɜːrk hɑːrd/ + Làm việc chăm chỉ + My father works hard.
+Help me + /help miː/ + Giúp tôi + Can you help me?
+Help others + /help ˈʌðərz/ + Giúp đỡ người khác + We should help others.
+Be careful + /biː ˈkerfəl/ + Cẩn thận + Be careful on the stairs.
+Be quiet + /biː ˈkwaɪət/ + Giữ yên lặng + Please be quiet.
+Be kind + /biː kaɪnd/ + Tử tế + Always be kind to others.
+Feel better + /fiːl ˈbetər/ + Cảm thấy khá hơn + I feel better now.
+Feel hungry + /fiːl ˈhʌŋɡri/ + Cảm thấy đói + The baby feels hungry.
+Feel sleepy + /fiːl ˈsliːpi/ + Cảm thấy buồn ngủ + I feel sleepy after lunch.
+Go shopping + /ɡoʊ ˈʃɑːpɪŋ/ + Đi mua sắm + We go shopping on Sundays.
+Buy food + /baɪ fuːd/ + Mua đồ ăn + I need to buy food.
+Buy clothes + /baɪ kloʊðz/ + Mua quần áo + She wants to buy clothes.
+Sell fruit + /sel fruːt/ + Bán trái cây + They sell fresh fruit.
+Pay cash + /peɪ kæʃ/ + Trả bằng tiền mặt + I paid cash.
+Use a card + /juːz ə kɑːrd/ + Dùng thẻ + He uses a card.
+Save money + /seɪv ˈmʌni/ + Tiết kiệm tiền + We save money every month.
+Spend money + /spend ˈmʌni/ + Tiêu tiền + Don't spend too much money.
+Cost a lot + /kɔːst ə lɑːt/ + Giá rất đắt + This phone costs a lot.
+Very cheap + /ˈveri tʃiːp/ + Rất rẻ + These shoes are very cheap.
+Need help + /niːd help/ + Cần giúp đỡ + Do you need help?
+Need more + /niːd mɔːr/ + Cần thêm + We need more chairs.
+Need time + /niːd taɪm/ + Cần thời gian + I need more time.
+Have time + /hæv taɪm/ + Có thời gian + Do you have time?
+Free time + /friː taɪm/ + Thời gian rảnh + I read books in my free time.
+Busy day + /ˈbɪzi deɪ/ + Một ngày bận rộn + Today is a busy day.
+Good weather + /ɡʊd ˈweðər/ + Thời tiết đẹp + We have good weather today.
+Bad weather + /bæd ˈweðər/ + Thời tiết xấu + Bad weather stopped us.
+Heavy rain + /ˈhevi reɪn/ + Mưa lớn + We stayed home because of heavy rain.
+Strong wind + /strɔːŋ wɪnd/ + Gió mạnh + The strong wind is cold.
+Hot coffee + /hɑːt ˈkɔːfi/ + Cà phê nóng + I like hot coffee.
+Cold water + /koʊld ˈwɔːtər/ + Nước lạnh + Please give me cold water.
+Warm milk + /wɔːrm mɪlk/ + Sữa ấm + The baby drinks warm milk.
+Fresh air + /freʃ er/ + Không khí trong lành + Let's get some fresh air.
+Clean water + /kliːn ˈwɔːtər/ + Nước sạch + Clean water is important.
+Dirty hands + /ˈdɜːrti hændz/ + Tay bẩn + Wash your dirty hands.
+Open your book + /ˈoʊpən jʊr bʊk/ + Mở sách ra + Open your book, please.
+Close your eyes + /kloʊz jʊr aɪz/ + Nhắm mắt + Close your eyes for a minute.
+Raise your hand + /reɪz jʊr hænd/ + Giơ tay + Raise your hand if you know.
+Take notes + /teɪk noʊts/ + Ghi chép + Students should take notes.
+Answer questions + /ˈænsər ˈkwestʃənz/ + Trả lời câu hỏi + She answered the questions.
+Ask questions + /æsk ˈkwestʃənz/ + Đặt câu hỏi + Don't be afraid to ask questions.
+Make friends + /meɪk frendz/ + Kết bạn + It's easy to make friends.
+Keep smiling + /kiːp ˈsmaɪlɪŋ/ + Luôn mỉm cười + Keep smiling every day.
+Say hello + /seɪ həˈloʊ/ + Chào hỏi + Say hello to your teacher.
+Say goodbye + /seɪ ˌɡʊdˈbaɪ/ + Tạm biệt + We said goodbye.
+Thank you + /θæŋk juː/ + Cảm ơn + Thank you for your help.
+You're welcome + /jʊr ˈwelkəm/ + Không có gì + You're welcome.
+Excuse me + /ɪkˈskjuːz miː/ + Xin lỗi (gây chú ý) + Excuse me, where is the station?
+I'm sorry + /aɪm ˈsɑːri/ + Tôi xin lỗi + I'm sorry I'm late.
+No worries + /noʊ ˈwɜːriz/ + Không sao đâu + No worries, it's okay.
+That's right + /ðæts raɪt/ + Đúng rồi + That's right!
+I agree + /aɪ əˈɡriː/ + Tôi đồng ý + I agree with you.
+I don't know + /aɪ doʊnt noʊ/ + Tôi không biết + I don't know the answer.
+I think so + /aɪ θɪŋk soʊ/ + Tôi nghĩ vậy + I think so.
+Maybe later + /ˈmeɪbi ˈleɪtər/ + Có lẽ sau + Maybe later.
+Not yet + /nɑːt jet/ + Chưa + I'm not ready yet.
+Just a minute + /dʒʌst ə ˈmɪnɪt/ + Chờ một chút + Just a minute, please.
+Come in + /kʌm ɪn/ + Mời vào + Please come in.
+Go ahead + /ɡoʊ əˈhed/ + Cứ tự nhiên + Go ahead and start.
+Take a seat + /teɪk ə siːt/ + Mời ngồi + Please take a seat.
+Have a seat + /hæv ə siːt/ + Mời ngồi + Have a seat over there.
+Stand still + /stænd stɪl/ + Đứng yên + Please stand still.
+Come back + /kʌm bæk/ + Quay lại + Come back tomorrow.
+Go away + /ɡoʊ əˈweɪ/ + Đi chỗ khác + The bird flew away.
+Hurry up + /ˈhɜːri ʌp/ + Nhanh lên + Hurry up or we'll be late.
+Slow down + /sloʊ daʊn/ + Đi chậm lại + Please slow down.
+Calm down + /kɑːm daʊn/ + Bình tĩnh + Calm down and listen.
+Cheer up + /tʃɪr ʌp/ + Vui lên + Cheer up! Everything is fine.
+Give up + /ɡɪv ʌp/ + Từ bỏ + Don't give up.
+Try again + /traɪ əˈɡen/ + Thử lại + Please try again.
+Keep trying + /kiːp ˈtraɪɪŋ/ + Tiếp tục cố gắng + Keep trying every day.
+Come inside + /kʌm ˌɪnˈsaɪd/ + Vào trong + It's raining. Come inside.
+Go upstairs + /ɡoʊ ˌʌpˈsterz/ + Lên tầng + Go upstairs carefully.
+Go downstairs + /ɡoʊ ˌdaʊnˈsterz/ + Xuống tầng + She went downstairs.
+Turn left + /tɜːrn left/ + Rẽ trái + Turn left at the corner.
+Turn right + /tɜːrn raɪt/ + Rẽ phải + Turn right after the bank.
+Go straight + /ɡoʊ streɪt/ + Đi thẳng + Go straight for two blocks.
+Cross the street + /krɔːs ðə striːt/ + Băng qua đường + Cross the street carefully.
+Wait here + /weɪt hɪr/ + Đợi ở đây + Wait here for me.
+Follow me + /ˈfɑːloʊ miː/ + Đi theo tôi + Follow me to the office.
+Come with me + /kʌm wɪð miː/ + Đi cùng tôi + Come with me, please.
+Take a photo + /teɪk ə ˈfoʊtoʊ/ + Chụp ảnh + Let's take a photo.
+Take a break + /teɪk ə breɪk/ + Nghỉ giải lao + We need to take a break.
+Take a walk + /teɪk ə wɔːk/ + Đi dạo + They take a walk every evening.
+Have fun + /hæv fʌn/ + Chúc vui vẻ + Have fun at the party.
+Enjoy yourself + /ɪnˈdʒɔɪ jərˈself/ + Chúc vui vẻ + Enjoy yourself tonight.
+Good morning + /ɡʊd ˈmɔːrnɪŋ/ + Chào buổi sáng + Good morning, everyone.
+Good afternoon + /ɡʊd ˌæftərˈnuːn/ + Chào buổi chiều + Good afternoon, sir.
+Good evening + /ɡʊd ˈiːvnɪŋ/ + Chào buổi tối + Good evening, everyone.
+See you + /siː juː/ + Hẹn gặp lại + See you tomorrow.
+See you later + /siː juː ˈleɪtər/ + Hẹn gặp lại sau + See you later.
+See you soon + /siː juː suːn/ + Hẹn sớm gặp lại + See you soon.
+Take it easy + /teɪk ɪt ˈiːzi/ + Thư giãn nhé + Take it easy today.
+How are you? + /haʊ ɑːr juː/ + Bạn khỏe không? + How are you today?
+I'm fine + /aɪm faɪn/ + Tôi khỏe + I'm fine, thanks.
+Nice to meet you + /naɪs tə miːt juː/ + Rất vui được gặp bạn + Nice to meet you.
+Nice to see you + /naɪs tə siː juː/ + Rất vui được gặp lại bạn + Nice to see you again.
+What's your name? + /wʌts jʊr neɪm/ + Bạn tên gì? + What's your name?
+My name is... + /maɪ neɪm ɪz/ + Tên tôi là... + My name is Tom.
+Where are you from? + /wer ɑːr juː frʌm/ + Bạn đến từ đâu? + Where are you from?
+I'm from Vietnam. + /aɪm frʌm ˌviːetˈnɑːm/ + Tôi đến từ Việt Nam. + I'm from Vietnam.
+How old are you? + /haʊ oʊld ɑːr juː/ + Bạn bao nhiêu tuổi? + How old are you?
+I'm twenty years old. + /aɪm ˈtwenti jɪrz oʊld/ + Tôi 20 tuổi. + I'm twenty years old.
+What time is it? + /wʌt taɪm ɪz ɪt/ + Mấy giờ rồi? + What time is it now?
+It's seven o'clock. + /ɪts ˈsevən əˈklɑːk/ + Bây giờ là 7 giờ. + It's seven o'clock.
+Where is the bathroom? + /wer ɪz ðə ˈbæθruːm/ + Nhà vệ sinh ở đâu? + Where is the bathroom?
+How much is it? + /haʊ mʌtʃ ɪz ɪt/ + Cái này bao nhiêu tiền? + How much is it?

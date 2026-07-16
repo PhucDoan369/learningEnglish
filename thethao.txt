@@ -1,0 +1,188 @@
+Athletics + /æθˈletɪks/ + Điền kinh + She is a star in athletics.
+Football + /ˈfʊtbɔːl/ + Bóng đá + Football is the world's most popular sport.
+Basketball + /ˈbæskɪtbɔːl/ + Bóng rổ + He practices basketball every weekend.
+Volleyball + /ˈvɑːlibɔːl/ + Bóng chuyền + The volleyball team won the match.
+Tennis + /ˈtenɪs/ + Quần vợt + She plays tennis with her brother.
+Badminton + /ˈbædmɪntən/ + Cầu lông + We play badminton in the park.
+Swimming + /ˈswɪmɪŋ/ + Bơi lội + Swimming is excellent for health.
+Cycling + /ˈsaɪklɪŋ/ + Đạp xe + Cycling helps improve leg strength.
+Boxing + /ˈbɑːksɪŋ/ + Quyền anh + Boxing requires great physical endurance.
+Judo + /ˈdʒuːdoʊ/ + Nhu đạo + He earned a black belt in Judo.
+Karate + /kəˈrɑːti/ + Võ Karate + She studies Karate at a local gym.
+Gymnastics + /dʒɪmˈnæstɪks/ + Thể dục dụng cụ + Gymnastics demands extreme flexibility.
+Wrestling + /ˈreslɪŋ/ + Đấu vật + The wrestling match was very intense.
+Fencing + /ˈfensɪŋ/ + Đấu kiếm + Fencing is a very elegant sport.
+Archery + /ˈɑːrtʃəri/ + Bắn cung + Archery requires a steady hand.
+Shooting + /ˈʃuːtɪŋ/ + Bắn súng + The shooting competition is tomorrow.
+Rowing + /ˈroʊɪŋ/ + Đua thuyền + Rowing is a great team sport.
+Weightlifting + /ˈweɪtlɪftɪŋ/ + Cử tạ + Weightlifting builds powerful muscles.
+Skiing + /ˈskiːɪŋ/ + Trượt tuyết + Skiing is popular in winter.
+Surfing + /ˈsɜːrfɪŋ/ + Lướt sóng + Surfing is a thrilling water sport.
+Match + /mætʃ/ + Trận đấu + The match ended in a draw.
+Tournament + /ˈtɜːrnəmənt/ + Giải đấu + We are entering a big tournament.
+Championship + /ˈtʃæmpiənʃɪp/ + Giải vô địch + She won the national championship.
+Competition + /ˌkɑːmpəˈtɪʃn/ + Cuộc thi + He is training for the competition.
+League + /liːɡ/ + Giải đấu + The league matches start next week.
+Season + /ˈsiːzn/ + Mùa giải + This has been a great season.
+Round + /raʊnd/ + Vòng đấu + They reached the final round.
+Final + /ˈfaɪnl/ + Chung kết + The final will be played tonight.
+Score + /skɔːr/ + Tỉ số/Điểm + What is the current score?
+Victory + /ˈvɪktəri/ + Chiến thắng + Their victory was well deserved.
+Defeat + /dɪˈfiːt/ + Thất bại + They suffered a painful defeat.
+Referee + /ˌrefəˈriː/ + Trọng tài + The referee blew the whistle.
+Coach + /koʊtʃ/ + Huấn luyện viên + Our coach is very experienced.
+Captain + /ˈkæptɪn/ + Đội trưởng + The captain led the team well.
+Stadium + /ˈsteɪdiəm/ + Sân vận động + The stadium was packed with fans.
+Court + /kɔːrt/ + Sân (tennis/rổ) + We booked the tennis court.
+Pitch + /pɪtʃ/ + Sân (bóng đá) + The players ran onto the pitch.
+Racket + /ˈrækɪt/ + Vợt + My racket needs new strings.
+Helmet + /ˈhelmɪt/ + Mũ bảo hiểm + Always wear a helmet while cycling.
+Jersey + /ˈdʒɜːrzi/ + Áo đấu + He wears his team's jersey.
+Sneakers + /ˈsniːkərz/ + Giày thể thao + These sneakers are perfect for running.
+Whistle + /ˈwɪsl/ + Còi + The referee used his whistle.
+Net + /net/ + Lưới + The ball went into the net.
+Goal + /ɡoʊl/ + Bàn thắng + He scored the winning goal.
+Medal + /ˈmedl/ + Huy chương + She won a gold medal today.
+Trophy + /ˈtroʊfi/ + Cúp + They lifted the trophy proudly.
+Train + /treɪn/ + Huấn luyện + They train six days a week.
+Practice + /ˈpræktɪs/ + Thực hành + Practice makes perfect in sports.
+Compete + /kəmˈpiːt/ + Thi đấu + Many athletes compete for honor.
+Win + /wɪn/ + Thắng + We hope to win this game.
+Lose + /luːz/ + Thua + It is hard to lose a match.
+Pass + /pæs/ + Chuyền bóng + Pass the ball to your teammate.
+Shoot + /ʃuːt/ + Sút/Bắn + He had a chance to shoot.
+Dribble + /ˈdrɪbl/ + Dẫn bóng + He can dribble past defenders.
+Defend + /dɪˈfend/ + Phòng ngự + The team defended very well.
+Attack + /əˈtæk/ + Tấn công + We need a stronger attack.
+Warm-up + /ˈwɔːrm ʌp/ + Khởi động + Do a proper warm-up before exercising.
+Foul + /faʊl/ + Phạm lỗi + That was a very bad foul.
+Penalty + /ˈpenlti/ + Phạt đền + They were awarded a penalty kick.
+Substitution + /ˌsʌbstɪˈtuːʃn/ + Thay người + The coach made a smart substitution.
+Amateur + /ˈæmətər/ + Nghiệp dư + He is an talented amateur golfer.
+Professional + /prəˈfeʃənl/ + Chuyên nghiệp + She became a professional swimmer.
+Record + /ˈrekərd/ + Kỷ lục + He broke the world record.
+Fitness + /ˈfɪtnəs/ + Thể lực + Regular exercise improves your fitness.
+Stamina + /ˈstæmɪnə/ + Sức bền + Long distance running builds stamina.
+Agility + /əˈdʒɪləti/ + Sự nhanh nhẹn + Boxing requires great agility.
+Strength + /streŋkθ/ + Sức mạnh + She works hard on her strength.
+Injury + /ˈɪndʒəri/ + Chấn thương + A knee injury ended his career.
+Athlete + /ˈæθliːt/ + Vận động viên + Every athlete dreams of Olympic gold.
+Spectator + /spekˈteɪtər/ + Khán giả + Thousands of spectators watched the game.
+Marathon + /ˈmærəθɑːn/ + Chạy marathon + He completed the marathon in three hours.
+High jump + /haɪ dʒʌmp/ + Nhảy cao + The high jump bar was raised.
+Long jump + /lɔːŋ dʒʌmp/ + Nhảy xa + She landed perfectly in the long jump.
+Discus + /ˈdɪskəs/ + Ném đĩa + The discus thrower is very strong.
+Javelin + /ˈdʒævlɪn/ + Ném lao + He threw the javelin quite far.
+Hurdle + /ˈhɜːrdl/ + Chạy vượt rào + She tripped over the last hurdle.
+Relay + /ˈriːleɪ/ + Chạy tiếp sức + The relay team won the race.
+Decathlon + /dɪˈkæθlən/ + Mười môn phối hợp + The decathlon is a tough event.
+Striker + /ˈstraɪkər/ + Tiền đạo + The striker scored a hat-trick.
+Defender + /dɪˈfendər/ + Hậu vệ + Our defender blocked the shot.
+Midfielder + /ˌmɪdˈfiːldər/ + Tiền vệ + The midfielder controlled the game.
+Goalkeeper + /ˈɡoʊlkiːpər/ + Thủ môn + The goalkeeper made a great save.
+Corner kick + /ˈkɔːrnər kɪk/ + Phạt góc + They scored from a corner kick.
+Offside + /ˌɔːfˈsaɪd/ + Việt vị + The referee ruled it was offside.
+Yellow card + /ˈjeloʊ kɑːrd/ + Thẻ vàng + He received a yellow card.
+Red card + /red kɑːrd/ + Thẻ đỏ + A red card means he is sent off.
+Free kick + /friː kɪk/ + Đá phạt + He curled the free kick into the goal.
+Smash + /smæʃ/ + Cú đập cầu + His smash was too fast to return.
+Serve + /sɜːrv/ + Giao bóng + It is your turn to serve.
+Backhand + /ˈbækhænd/ + Cú đánh trái tay + She has a powerful backhand.
+Forehand + /ˈfɔːrhænd/ + Cú đánh thuận tay + He improved his forehand stroke.
+Volley + /ˈvɑːli/ + Cú đánh trên không + He scored with a perfect volley.
+Deuce + /duːs/ + Điểm đều + The game reached a deuce.
+Freestyle + /ˈfriːstaɪl/ + Bơi tự do + Freestyle is the fastest swimming style.
+Breaststroke + /ˈbreststroʊk/ + Bơi ếch + She won the breaststroke race.
+Backstroke + /ˈbækstroʊk/ + Bơi ngửa + He is practicing the backstroke.
+Butterfly + /ˈbʌtərflaɪ/ + Bơi bướm + The butterfly stroke is very tiring.
+Diving + /ˈdaɪvɪŋ/ + Nhảy cầu + Her diving form was excellent.
+Goggles + /ˈɡɑːɡlz/ + Kính bơi + Don't forget your swimming goggles.
+Knockout + /ˈnɑːkaʊt/ + Đo ván + The fight ended in a knockout.
+Ring + /rɪŋ/ + Đài đấu + The boxers entered the ring.
+Punch + /pʌntʃ/ + Đấm + She threw a quick punch.
+Uppercut + /ˈʌpərkʌt/ + Đấm móc + He used a strong uppercut.
+Dumbbell + /ˈdʌmbel/ + Tạ đơn + Lift the dumbbell slowly.
+Barbell + /ˈbɑːrbel/ + Tạ đòn + He added weights to the barbell.
+Bench press + /bentʃ pres/ + Đẩy tạ nằm + Bench press builds your chest.
+Squat + /skwɑːt/ + Bài tập squat + Do ten squats to start.
+Deadlift + /ˈdedlɪft/ + Nâng tạ từ đất + Deadlift is good for back.
+Cardio + /ˈkɑːrdioʊ/ + Tập tim mạch + Cardio helps burn body fat.
+Yoga + /ˈjoʊɡə/ + Yoga + I do yoga every morning.
+Treadmill + /ˈtredmɪl/ + Máy chạy bộ + I run on the treadmill daily.
+Handlebars + /ˈhændlbɑːrz/ + Tay lái + Hold the handlebars firmly.
+Pedal + /ˈpedl/ + Bàn đạp + Push the pedal with force.
+Gear + /ɡɪr/ + Bộ số xe + Shift the gear for hills.
+Ski + /skiː/ + Ván trượt + My new ski is very fast.
+Pole + /poʊl/ + Gậy trượt + Use the pole to balance.
+Binding + /ˈbaɪndɪŋ/ + Khóa trượt + Check your binding before starting.
+Slope + /sloʊp/ + Dốc trượt + This is a steep slope.
+Surfboard + /ˈsɜːrfbɔːrd/ + Ván lướt sóng + Clean your surfboard regularly.
+Wetsuit + /ˈwetsuːt/ + Đồ lặn + A wetsuit keeps you warm.
+Wipeout + /ˈwaɪpaʊt/ + Ngã sóng + That was a spectacular wipeout.
+Archer + /ˈɑːrtʃər/ + Cung thủ + The archer took his aim.
+Bow + /boʊ/ + Cung + He drew the bow back.
+Arrow + /ˈæroʊ/ + Tên + The arrow hit the target.
+Target + /ˈtɑːrɡɪt/ + Bia + Aim for the center target.
+Bullseye + /ˈbʊlzaɪ/ + Hồng tâm + He hit the bullseye perfectly.
+Stance + /stæns/ + Tư thế + Adopt a correct stance.
+Doping + /ˈdoʊpɪŋ/ + Chất cấm + Doping is banned in sports.
+Physiotherapy + /ˌfɪziəʊˈθerəpi/ + Vật lý trị liệu + He needs regular physiotherapy.
+Venue + /ˈvenjuː/ + Địa điểm + The venue is ready for games.
+Broadcasting + /ˈbrɔːdkæstɪŋ/ + Phát sóng + The game is broadcasting live.
+Relay + /ˈriːleɪ/ + Chạy tiếp sức + The relay baton was dropped.
+Heptathlon + /hepˈtæθlən/ + 7 môn phối hợp + She won the heptathlon event.
+Cross-country + /ˌkrɔːs ˈkʌntri/ + Chạy việt dã + Cross-country requires great stamina.
+Corner + /ˈkɔːrnər/ + Góc đài + The boxer returned to his corner.
+Sparring + /ˈspɑːrɪŋ/ + Đấu tập + He enjoyed the light sparring.
+Tumble turn + /ˈtʌmbl tɜːrn/ + Xoay vòng bơi + His tumble turn was smooth.
+Starting block + /ˈstɑːrtɪŋ blɑːk/ + Bục xuất phát + Get ready on the starting block.
+Lane + /leɪn/ + Làn đường + Stay in your assigned lane.
+Cap + /kæp/ + Mũ bơi + Wear your swim cap.
+Jab + /dʒæb/ + Đấm thẳng + A jab keeps the opponent away.
+Hook + /hʊk/ + Đấm ngang + The hook was very powerful.
+Referee count + /ˌrefəˈriː kaʊnt/ + Trọng tài đếm + The referee count reached eight.
+Bench press + /bentʃ pres/ + Đẩy tạ + Bench press is a basic exercise.
+Aerobics + /eəˈroʊbɪks/ + Thể dục nhịp điệu + She loves joining aerobics classes.
+Saddle + /ˈsædl/ + Yên xe + Adjust the saddle height.
+Chain + /tʃeɪn/ + Xích xe + Oil the chain regularly.
+Frame + /freɪm/ + Khung xe + The bike frame is lightweight.
+Tire + /ˈtaɪər/ + Lốp xe + Check the tire pressure.
+Lift + /lɪft/ + Cáp treo + The ski lift is crowded.
+Powder + /ˈpaʊdər/ + Tuyết mịn + Skiing on powder is great.
+Carving + /ˈkɑːrvɪŋ/ + Kỹ thuật cắt tuyết + He is learning carving now.
+Resort + /rɪˈzɔːrt/ + Khu nghỉ dưỡng + We visited a famous ski resort.
+Leash + /liːʃ/ + Dây buộc + Connect the surfboard leash.
+Wax + /wæks/ + Sáp trượt + Apply wax to your board.
+Wave + /weɪv/ + Sóng + A big wave is coming.
+Break + /breɪk/ + Sóng vỡ + The break is perfect today.
+Peak + /piːk/ + Đỉnh sóng + Catch the wave at its peak.
+Lineup + /ˈlaɪnʌp/ + Hàng đợi + Wait your turn in the lineup.
+Paddle + /ˈpædl/ + Chèo + Paddle hard towards the waves.
+Quiver + /ˈkwɪvər/ + Ống tên + He reached into his quiver.
+Draw + /drɔː/ + Kéo dây cung + Draw the bow steadily.
+Release + /rɪˈliːs/ + Thả dây + Release the arrow smoothly.
+Range + /reɪndʒ/ + Trường bắn + The range is open daily.
+Olympic + /əˈlɪmpɪk/ + Thế vận hội + He is training for the Olympic games.
+World Cup + /wɜːrld kʌp/ + Cúp thế giới + Everyone watches the World Cup.
+Ranking + /ˈræŋkɪŋ/ + Bảng xếp hạng + She climbed the world ranking.
+Pilates + /pəˈlɑːtiːz/ + Pilates + Pilates focuses on core strength.
+Equipment + /ɪˈkwɪpmənt/ + Thiết bị + Maintain your sports equipment well.
+Uniform + /ˈjuːnɪfɔːrm/ + Đồng phục + The team wore new uniforms.
+Substitute + /ˈsʌbstɪtuːt/ + Cầu thủ dự bị + The substitute came on later.
+Captaincy + /ˈkæptɪnsi/ + Băng đội trưởng + He accepted the captaincy.
+Draw + /drɔː/ + Hòa + The match resulted in a draw.
+Break + /breɪk/ + Nghỉ giữa hiệp + The players took a short break.
+Performance + /pərˈfɔːrməns/ + Phong độ + His performance was very consistent.
+Flexibility + /ˌfleksəˈbɪləti/ + Độ dẻo dai + Improve flexibility with stretching.
+Endurance + /ɪnˈdʊrəns/ + Sự bền bỉ + Endurance is key for cycling.
+Professionalism + /prəˈfeʃənəlɪzəm/ + Sự chuyên nghiệp + He is known for professionalism.
+Scoreboard + /ˈskɔːrbɔːrd/ + Bảng điểm + Look at the scoreboard now.
+Umpire + /ˈʌmpaɪər/ + Trọng tài tennis + The umpire called the score.
+Supporter + /səˈpɔːrtər/ + Cổ động viên + The supporters cheered very loudly.
+Stadium + /ˈsteɪdiəm/ + Sân vận động + The stadium holds huge crowds.
+Venue + /ˈvenjuː/ + Địa điểm thi đấu + The venue is world-class quality.
+Sub-event + /sʌb ɪˈvent/ + Sự kiện phụ + The sub-event starts at noon.
+Timekeeper + /ˈtaɪmkiːpər/ + Người bấm giờ + The timekeeper signaled the end.
+Winner + /ˈwɪnər/ + Người thắng + The winner gets the prize.
+Loser + /ˈluːzər/ + Người thua + Even the loser showed respect.
+Tiebreaker + /ˈtaɪbreɪkər/ + Loạt đấu loại + We are in a tiebreaker now.

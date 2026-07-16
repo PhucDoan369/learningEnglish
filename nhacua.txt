@@ -1,0 +1,175 @@
+House + /haʊs/ + Ngôi nhà + This is my childhood house.
+Apartment + /əˈpɑːrtmənt/ + Căn hộ + She lives in a small apartment.
+Bedroom + /ˈbedruːm/ + Phòng ngủ + The bedroom is upstairs.
+Kitchen + /ˈkɪtʃɪn/ + Nhà bếp + We cook meals in the kitchen.
+Bathroom + /ˈbæθruːm/ + Phòng tắm + The bathroom was recently renovated.
+Living room + /ˈlɪvɪŋ ruːm/ + Phòng khách + We have a large living room.
+Dining room + /ˈdaɪnɪŋ ruːm/ + Phòng ăn + The dining room is next to the kitchen.
+Hallway + /ˈhɔːlweɪ/ + Hành lang + Please leave your shoes in the hallway.
+Garage + /ˈɡærɑːʒ/ + Nhà để xe + He parks his car in the garage.
+Garden + /ˈɡɑːrdn/ + Khu vườn + They are working in the garden.
+Roof + /ruːf/ + Mái nhà + There are solar panels on the roof.
+Floor + /flɔːr/ + Sàn nhà + The wooden floor is very beautiful.
+Ceiling + /ˈsiːlɪŋ/ + Trần nhà + The ceiling is painted white.
+Wall + /wɔːl/ + Tường + There are photos on the wall.
+Window + /ˈwɪndoʊ/ + Cửa sổ + Open the window for fresh air.
+Door + /dɔːr/ + Cửa ra vào + Please lock the front door.
+Furniture + /ˈfɜːrnɪtʃər/ + Đồ nội thất + We bought new furniture today.
+Sofa + /ˈsoʊfə/ + Ghế sofa + Relax on the comfortable sofa.
+Table + /ˈteɪbl/ + Cái bàn + The family eats at the table.
+Chair + /tʃer/ + Cái ghế + Please take a chair and sit down.
+Bed + /bed/ + Cái giường + I need a new mattress for my bed.
+Cupboard + /ˈkʌbərd/ + Tủ chén + Keep the plates in the cupboard.
+Wardrobe + /ˈwɔːrdroʊb/ + Tủ quần áo + Hang your clothes in the wardrobe.
+Refrigerator + /rɪˈfrɪdʒəreɪtər/ + Tủ lạnh + The refrigerator is full of food.
+Stove + /stoʊv/ + Bếp lò + Turn off the stove after cooking.
+Sink + /sɪŋk/ + Bồn rửa + Clean the dishes in the sink.
+Toilet + /ˈtɔɪlət/ + Nhà vệ sinh + The toilet is in the bathroom.
+Shower + /ˈʃaʊər/ + Vòi hoa sen + I take a shower every morning.
+Mirror + /ˈmɪrər/ + Cái gương + Look at yourself in the mirror.
+Balcony + /ˈbælkəni/ + Ban công + She grows flowers on the balcony.
+Basement + /ˈbeɪsmənt/ + Tầng hầm + We store boxes in the basement.
+Attic + /ˈætɪk/ + Gác mái + There are old books in the attic.
+Stairs + /sterz/ + Cầu thang + Be careful when walking down the stairs.
+Chimney + /ˈtʃɪmni/ + Ống khói + Smoke rises from the chimney.
+Fence + /fens/ + Hàng rào + The dog jumped over the fence.
+Gate + /ɡeɪt/ + Cổng + Close the gate behind you.
+Pillow + /ˈpɪloʊ/ + Cái gối + Put your head on the pillow.
+Blanket + /ˈblæŋkɪt/ + Chăn + It is cold, use a blanket.
+Curtain + /ˈkɜːrtn/ + Rèm cửa + Close the curtains at night.
+Carpet + /ˈkɑːrpɪt/ + Thảm + The carpet is very soft.
+Rug + /rʌɡ/ + Tấm thảm nhỏ + Place a rug by the bed.
+Shelf + /ʃelf/ + Kệ + There are many books on the shelf.
+Drawer + /drɔːr/ + Ngăn kéo + Keep your keys in the drawer.
+Lamp + /læmp/ + Đèn bàn + Turn on the lamp to read.
+Light + /laɪt/ + Đèn + Please switch off the light.
+Switch + /swɪtʃ/ + Công tắc + Flip the switch to turn it on.
+Socket + /ˈsɑːkɪt/ + Ổ cắm điện + Plug the phone into the socket.
+Backyard + /ˈbækˌjɑːrd/ + Sân sau + The children play in the backyard.
+Porch + /pɔːrʈʃ/ + Hiên nhà + We sat on the porch to relax.
+Entryway + /ˈentriweɪ/ + Lối vào + The entryway is very spacious.
+Pantry + /ˈpæntri/ + Tủ để đồ ăn + Store the cans in the pantry.
+Laundry + /ˈlɔːndri/ + Phòng giặt + We have a machine in the laundry.
+Study + /ˈstʌdi/ + Phòng làm việc + He is working in his study.
+Office + /ˈɔːfɪs/ + Văn phòng tại nhà + I set up an office in the corner.
+Patio + /ˈpætioʊ/ + Sân trong + We eat outside on the patio.
+Terrace + /ˈterəs/ + Sân thượng + The view from the terrace is nice.
+Driveway + /ˈdraɪvweɪ/ + Lối xe vào + Park your car on the driveway.
+Corner + /ˈkɔːrnər/ + Góc tường + There is a plant in the corner.
+Ceiling fan + /ˈsiːlɪŋ fæn/ + Quạt trần + The ceiling fan cools the room.
+Air conditioner + /ˈer kəndɪʃənər/ + Điều hòa + Turn on the air conditioner.
+Heater + /ˈhiːtər/ + Máy sưởi + The heater warms the room.
+Fireplace + /ˈfaɪərpleɪs/ + Lò sưởi + We sit by the fireplace in winter.
+Mattress + /ˈmætrəs/ + Nệm + A firm mattress is good for health.
+Cabinet + /ˈkæbɪnət/ + Tủ đựng + Kitchen cabinets are made of wood.
+Countertop + /ˈkaʊntərtɒp/ + Mặt bàn bếp + Clean the countertop after cooking.
+Faucet + /ˈfɔːsɪt/ + Vòi nước + Tighten the faucet to stop the drip.
+Drain + /dreɪn/ + Cống/lỗ thoát nước + The drain is blocked.
+Handle + /ˈhændl/ + Tay nắm cửa + The door handle is loose.
+Keyhole + /ˈkiːhoʊl/ + Lỗ khóa + Put the key in the keyhole.
+Mailbox + /ˈmeɪlbɒks/ + Hộp thư + Check the mailbox for letters.
+Alarm + /əˈlɑːrm/ + Báo động + The house alarm is activated.
+Blinds + /blaɪndz/ + Mành che nắng + Adjust the blinds to block sun.
+Cushion + /ˈkʊʃn/ + Đệm lót ghế + I have colorful cushions on the sofa.
+Dresser + /ˈdresər/ + Tủ trang điểm + She keeps jewelry on the dresser.
+Armchair + /ˈɑːrmtʃer/ + Ghế bành + I read in my favorite armchair.
+Bookshelf + /ˈbʊkʃelf/ + Kệ sách + The bookshelf is full of novels.
+Nightstand + /ˈnaɪtstænd/ + Tủ đầu giường + I put water on the nightstand.
+Ottoman + /ˈɑːtəmən/ + Ghế gác chân + Use the ottoman to rest feet.
+Coat rack + /koʊt ræk/ + Giá treo áo + Hang your coat on the rack.
+Shoe rack + /ʃuː ræk/ + Giá để giày + Place shoes on the rack.
+Wastebasket + /ˈweɪstˌbæskɪt/ + Thùng rác + Empty the wastebasket daily.
+Television + /ˈtelɪvɪʒn/ + Tivi + The television is in the living room.
+Remote + /rɪˈmoʊt/ + Điều khiển từ xa + Where is the remote control?
+Speaker + /ˈspiːkər/ + Loa + The speakers are on the shelf.
+Router + /ˈraʊtər/ + Bộ định tuyến + The wifi router is in the hall.
+Curtain rod + /ˈkɜːrtn rɒd/ + Thanh treo rèm + The curtain rod is broken.
+Key + /kiː/ + Chìa khóa + Do you have the house key?
+Hinge + /hɪndʒ/ + Bản lề + Oil the door hinge to stop noise.
+Lock + /lɑːk/ + Khóa + Make sure to lock the gate.
+Tile + /taɪl/ + Gạch lát + Clean the bathroom tiles.
+Plank + /plæŋk/ + Ván gỗ + The wooden plank is sturdy.
+Beam + /biːm/ + Xà ngang + The roof is supported by beams.
+Brick + /brɪk/ + Gạch xây + The house is built of brick.
+Concrete + /ˈkɑːnkriːt/ + Bê tông + The driveway is made of concrete.
+Mortar + /ˈmɔːrtər/ + Vữa + The mortar between bricks is dry.
+Wallpaper + /ˈwɔːlpeɪpər/ + Giấy dán tường + We picked modern wallpaper.
+Skirting board + /ˈskɜːrtɪŋ bɔːrd/ + Len chân tường + Paint the skirting board.
+Ventilation + /ˌventɪˈleɪʃn/ + Sự thông gió + Proper ventilation is important.
+Insulation + /ˌɪnsjʊˈleɪʃn/ + Lớp cách nhiệt + Check the insulation in the attic.
+Foundation + /faʊnˈdeɪʃn/ + Nền móng + The foundation must be strong.
+Structure + /ˈstrʌktʃər/ + Cấu trúc + The house has a solid structure.
+Renovation + /ˌrenəˈveɪʃn/ + Sự cải tạo + We are planning a home renovation.
+Maintenance + /ˈmeɪntənəns/ + Sự bảo trì + Regular maintenance is needed.
+Household + /ˈhaʊshoʊld/ + Hộ gia đình + Every household has a chores list.
+Dwelling + /ˈdwelɪŋ/ + Nơi ở + It is a comfortable dwelling.
+Residence + /ˈrezɪdəns/ + Nơi cư trú + This is his private residence.
+Shelter + /ˈʃeltər/ + Nơi trú ẩn + The house is our shelter.
+Accommodation + /əˌkɑːməˈdeɪʃn/ + Chỗ ở + We found good accommodation.
+Estate + /ɪˈsteɪt/ + Khu bất động sản + He lives in a large estate.
+Property + /ˈprɑːpərti/ + Tài sản/bất động sản + This is my private property.
+Homeowner + /ˈhoʊmoʊnər/ + Chủ nhà + The homeowner is responsible.
+Tenant + /ˈtenənt/ + Người thuê nhà + The tenant pays rent monthly.
+Landlord + /ˈlændlɔːrd/ + Chủ nhà cho thuê + Contact the landlord for repairs.
+Lease + /liːs/ + Hợp đồng thuê + Please sign the lease agreement.
+Rent + /rent/ + Tiền thuê + The rent is due on Monday.
+Mortgage + /ˈmɔːrɡɪdʒ/ + Khoản thế chấp + They paid off their mortgage.
+Utilities + /juːˈtɪlətiz/ + Tiện ích (điện, nước) + Utilities are not included.
+Plumbing + /ˈplʌmɪŋ/ + Hệ thống ống nước + Call a plumber for plumbing issues.
+Electrical + /ɪˈlektrɪkl/ + Thuộc điện + Check the electrical wiring.
+Decor + /ˈdeɪkɔːr/ + Trang trí + The decor is very modern.
+Furnishing + /ˈfɜːrnɪʃɪŋ/ + Sự trang bị đồ đạc + The furnishing took a week.
+Architecture + /ˈɑːrkɪtektʃər/ + Kiến trúc + The architecture is classic.
+Interior + /ɪnˈtɪriər/ + Nội thất + The interior is spacious.
+Exterior + /ɪkˈstɪriər/ + Ngoại thất + The exterior needs painting.
+Roomy + /ˈruːmi/ + Rộng rãi + The kitchen is very roomy.
+Cozy + /ˈkoʊzi/ + Ấm cúng + It is a cozy living room.
+Spacious + /ˈspeɪʃəs/ + Rộng lớn + I love having a spacious home.
+Compact + /ˈkɑːmpækt/ + Nhỏ gọn + The design is very compact.
+Modern + /ˈmɑːdərn/ + Hiện đại + The house has modern features.
+Traditional + /trəˈdɪʃənl/ + Truyền thống + We prefer a traditional style.
+Comfortable + /ˈkʌmftəbl/ + Thoải mái + This house is very comfortable.
+Functional + /ˈfʌŋkʃənl/ + Tiện dụng + Every room is highly functional.
+Accessible + /əkˈsesəbl/ + Dễ tiếp cận + The house is easily accessible.
+Detached + /dɪˈtætʃt/ + Nhà riêng lẻ + We moved to a detached house.
+Semi-detached + /ˌsemi dɪˈtætʃt/ + Nhà song lập + It is a semi-detached property.
+Terraced + /ˈterəst/ + Nhà liền kề + They live in a terraced house.
+Cottage + /ˈkɑːtɪdʒ/ + Nhà tranh + We stayed in a small cottage.
+Villa + /ˈvɪlə/ + Biệt thự + They own a beautiful villa.
+Mansion + /ˈmænʃn/ + Dinh thự + The mansion is very large.
+Studio + /ˈstjuːdioʊ/ + Căn hộ studio + She lives in a city studio.
+Penthouse + /ˈpenthaʊs/ + Căn hộ áp mái + The penthouse has a great view.
+Bungalow + /ˈbʌŋɡəloʊ/ + Nhà một tầng + The bungalow is easy to clean.
+Cabin + /ˈkæbɪn/ + Nhà gỗ nhỏ + We spent time in a mountain cabin.
+Shack + /ʃæk/ + Lều lán + It is just a small shack.
+Compound + /ˈkɑːmpaʊnd/ + Khu nhà ở + Several houses form the compound.
+Annex + /ˈæneks/ + Tòa nhà phụ + We built an annex for guests.
+Extension + /ɪkˈstenʃn/ + Phần mở rộng + We added an extension to the back.
+Porch swing + /pɔːrʈʃ swɪŋ/ + Xích đu hiên + We have a porch swing outside.
+Window sill + /ˈwɪndoʊ sɪl/ + Bệ cửa sổ + Put flowers on the window sill.
+Light fixture + /laɪt ˈfɪkstʃər/ + Thiết bị chiếu sáng + The light fixture is elegant.
+Ceiling beam + /ˈsiːlɪŋ biːm/ + Dầm trần + Exposed ceiling beams look nice.
+Wall art + /wɔːl ɑːrt/ + Tranh treo tường + I love the new wall art.
+Doorbell + /ˈdɔːrbel/ + Chuông cửa + The doorbell is ringing.
+Doormat + /ˈdɔːrmæt/ + Thảm chùi chân + Place a doormat by the door.
+Coat hanger + /koʊt ˈhæŋər/ + Móc treo áo + Buy more coat hangers.
+Dustpan + /ˈdʌstˌpæn/ + Đồ hốt rác + Use the dustpan to clean up.
+Mop + /mɑːp/ + Cây lau nhà + Use a mop for the floor.
+Broom + /bruːm/ + Cái chổi + Sweep the floor with a broom.
+Bucket + /ˈbʌkɪt/ + Cái xô + Fill the bucket with water.
+Ladder + /ˈlædər/ + Cái thang + Use a ladder to reach the top.
+Hammer + /ˈhæmər/ + Cái búa + Need a hammer to fix it.
+Nail + /neɪl/ + Cái đinh + Use a nail to hang the frame.
+Screw + /skruː/ + Đinh vít + Tighten the screw with a driver.
+Toolbox + /ˈtuːlbɒks/ + Hộp dụng cụ + Keep tools in the toolbox.
+Garden hose + /ˈɡɑːrdn hoʊz/ + Vòi nước vườn + Use the hose to water plants.
+Lawnmower + /ˈlɔːnˌmoʊər/ + Máy cắt cỏ + The lawnmower is in the garage.
+Shovel + /ˈʃʌvl/ + Cái xẻng + Use a shovel for the soil.
+Watering can + /ˈwɔːtərɪŋ kæn/ + Bình tưới cây + Water the plants with a can.
+Rake + /reɪk/ + Cái cào + Rake the leaves in the yard.
+Birdhouse + /ˈbɜːrdhaʊs/ + Chuồng chim + We put a birdhouse in the tree.
+Patio furniture + /ˈpætioʊ ˈfɜːrnɪtʃər/ + Bàn ghế sân vườn + We love patio furniture.
+Outdoor light + /ˈaʊtdɔːr laɪt/ + Đèn ngoài trời + Install an outdoor light.
+Home decor + /hoʊm ˈdeɪkɔːr/ + Trang trí nhà + I enjoy shopping for home decor.
+Interior design + /ɪnˈtɪriər dɪˈzaɪn/ + Thiết kế nội thất + She studies interior design.
+Homeowner association + /ˈhoʊmoʊnər əˌsoʊsiˈeɪʃn/ + Hiệp hội chủ nhà + Check the rules with the association.

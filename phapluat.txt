@@ -1,0 +1,172 @@
+Law + /lɔː/ + Luật + Everyone must obey the law.
+Legal + /ˈliːɡl/ + Hợp pháp + Is this action strictly legal?
+Justice + /ˈdʒʌstɪs/ + Công lý + Seeking justice in court.
+Court + /kɔːrt/ + Tòa án + He appeared in court today.
+Judge + /dʒʌdʒ/ + Thẩm phán + The judge made a fair decision.
+Lawyer + /ˈlɔːjər/ + Luật sư + I need to hire a lawyer.
+Attorney + /əˈtɜːrni/ + Luật sư đại diện + My attorney will contact you.
+Prosecutor + /ˈprɑːsɪkjuːtər/ + Công tố viên + The prosecutor presented the case.
+Defendant + /dɪˈfendənt/ + Bị cáo + The defendant pleaded not guilty.
+Plaintiff + /ˈpleɪntɪf/ + Nguyên đơn + The plaintiff filed a lawsuit.
+Trial + /ˈtraɪəl/ + Phiên tòa + The trial lasted for weeks.
+Verdict + /ˈvɜːrdɪkt/ + Phán quyết + The jury reached a verdict.
+Sentence + /ˈsentəns/ + Bản án + He received a five-year sentence.
+Guilty + /ˈɡɪlti/ + Có tội + The evidence proves he is guilty.
+Innocent + /ˈɪnəsnt/ + Vô tội + He claimed he was innocent.
+Crime + /kraɪm/ + Tội phạm + Serious crime is on the rise.
+Criminal + /ˈkrɪmɪnl/ + Tội phạm (người) + The criminal escaped from prison.
+Felony + /ˈfeləni/ + Trọng tội + He was charged with a felony.
+Misdemeanor + /ˌmɪsdɪˈmiːnər/ + Khinh tội + It was only a minor misdemeanor.
+Offense + /əˈfens/ + Vi phạm + This is a first-time offense.
+Evidence + /ˈevɪdəns/ + Chứng cứ + There is no evidence for this.
+Testimony + /ˈtestɪmoʊni/ + Lời khai + Her testimony changed the case.
+Witness + /ˈwɪtnəs/ + Nhân chứng + The witness saw the accident.
+Jury + /ˈdʒʊri/ + Bồi thẩm đoàn + The jury retired to deliberate.
+Lawsuit + /ˈlɔːsuːt/ + Vụ kiện + They filed a lawsuit for damages.
+Legislation + /ˌledʒɪˈsleɪʃn/ + Luật lệ + The government passed new legislation.
+Regulation + /ˌreɡjuˈleɪʃn/ + Quy định + Follow the safety regulations strictly.
+Constitution + /ˌkɑːnstɪˈtuːʃn/ + Hiến pháp + The constitution protects our rights.
+Statute + /ˈstætʃuːt/ + Đạo luật + The statute was enacted last year.
+Contract + /ˈkɑːntrækt/ + Hợp đồng + Both parties signed the contract.
+Agreement + /əˈɡriːmənt/ + Thỏa thuận + We have reached a written agreement.
+Liability + /ˌlaɪəˈbɪləti/ + Trách nhiệm pháp lý + The company has limited liability.
+Negligence + /ˈneɡlɪdʒəns/ + Sự cẩu thả + He was sued for professional negligence.
+Damages + /ˈdæmɪdʒɪz/ + Khoản bồi thường + She won damages for her loss.
+Justice + /ˈdʒʌstɪs/ + Ngành tư pháp + He dedicated his life to justice.
+Litigation + /ˌlɪtɪˈɡeɪʃn/ + Sự tranh tụng + The case is currently under litigation.
+Prosecution + /ˌprɑːsɪˈkjuːʃn/ + Sự truy tố + The prosecution failed to prove guilt.
+Defense + /dɪˈfens/ + Sự bào chữa + The defense attorney is brilliant.
+Appeal + /əˈpiːl/ + Kháng cáo + He filed an appeal to the court.
+Judgment + /ˈdʒʌdʒmənt/ + Phán quyết + The court delivered its final judgment.
+Testify + /ˈtestɪfaɪ/ + Làm chứng + He was called to testify today.
+Cross-examine + /ˌkrɔːs ɪɡˈzæmɪn/ + Thẩm vấn chéo + The lawyer started to cross-examine.
+Subpoena + /səˈpiːnə/ + Trát tòa + He received a subpoena to appear.
+Affidavit + /ˌæfɪˈdeɪvɪt/ + Bản khai có tuyên thệ + She signed the legal affidavit.
+Bail + /beɪl/ + Tiền bảo lãnh + He was released on bail.
+Custody + /ˈkʌstədi/ + Sự giam giữ/quyền nuôi con + She has sole child custody.
+Parole + /pəˈroʊl/ + Sự ân xá/phóng thích sớm + He was released on parole.
+Pardon + /ˈpɑːrdn/ + Sự ân xá + The president granted a formal pardon.
+Settlement + /ˈsetlmənt/ + Sự hòa giải/dàn xếp + They reached an out-of-court settlement.
+Compliance + /kəmˈplaɪəns/ + Sự tuân thủ + Ensure compliance with the law.
+Contractor + /ˈkɑːntræktər/ + Nhà thầu + The contractor broke the agreement.
+Clause + /klɔːz/ + Điều khoản + Read every clause in the contract.
+Statutory + /ˈstætʃətɔːri/ + Theo luật định + It is a statutory requirement.
+Void + /vɔɪd/ + Vô hiệu + The contract was declared void.
+Binding + /ˈbaɪndɪŋ/ + Ràng buộc + The signed agreement is legally binding.
+Arbitration + /ˌɑːrbɪˈtreɪʃn/ + Trọng tài phân xử + We chose arbitration over court.
+Mediation + /ˌmiːdiˈeɪʃn/ + Sự hòa giải + Mediation solved the conflict.
+Jurisdiction + /ˌdʒʊrɪsˈdɪkʃn/ + Thẩm quyền + This court has no jurisdiction here.
+Code + /koʊd/ + Bộ luật + Consult the criminal code for details.
+Rights + /raɪts/ + Quyền lợi + Everyone has basic human rights.
+Duty + /ˈduːti/ + Nghĩa vụ + It is his civic duty.
+Injunction + /ɪnˈdʒʌŋkʃn/ + Lệnh cấm + The court issued an injunction.
+Tort + /tɔːrt/ + Sai phạm dân sự + The case involves tort law.
+Statute of limitations + /ˈstætʃuːt əv ˌlɪmɪˈteɪʃnz/ + Thời hiệu khởi kiện + The statute of limitations expired.
+Perjury + /ˈpɜːrdʒəri/ + Tội khai man + He was charged with perjury.
+Contempt + /kənˈtempt/ + Khinh thường tòa án + He was fined for contempt of court.
+Due process + /duː ˈprɑːses/ + Quy trình pháp lý đúng đắn + Everyone deserves due process.
+Probation + /proʊˈbeɪʃn/ + Sự quản chế + He is on three years' probation.
+Indictment + /ɪnˈdaɪtmənt/ + Bản cáo trạng + The indictment was served yesterday.
+Plea + /pliː/ + Lời biện hộ + He entered a plea of guilty.
+Testimony + /ˈtestɪmoʊni/ + Lời chứng + Her testimony was very powerful.
+Burden of proof + /ˈbɜːrdn əv pruːf/ + Nghĩa vụ chứng minh + The burden of proof lies with them.
+Acquit + /əˈkwɪt/ + Xử trắng án + The jury decided to acquit him.
+Convict + /kənˈvɪkt/ + Kết án + They will convict him of fraud.
+Conviction + /kənˈvɪkʃn/ + Sự kết án + This is his third conviction.
+Alibi + /ˈæləbaɪ/ + Bằng chứng ngoại phạm + He has a solid alibi.
+Statutory law + /ˈstætʃətɔːri lɔː/ + Luật thành văn + Statutory law is clearly defined.
+Common law + /ˈkɑːmən lɔː/ + Thông luật + Common law relies on precedents.
+Precedent + /ˈpresɪdənt/ + Án lệ + This case sets a new precedent.
+Civil law + /ˈsɪvl lɔː/ + Luật dân sự + Civil law handles private disputes.
+Criminal law + /ˈkrɪmɪnl lɔː/ + Luật hình sự + He specializes in criminal law.
+International law + /ˌɪntərˈnæʃnəl lɔː/ + Luật quốc tế + International law governs states.
+Property law + /ˈprɑːpərti lɔː/ + Luật tài sản + Property law deals with land.
+Contract law + /ˈkɑːntrækt lɔː/ + Luật hợp đồng + Contract law is very complex.
+Labor law + /ˈleɪbər lɔː/ + Luật lao động + Consult labor law for worker rights.
+Family law + /ˈfæməli lɔː/ + Luật gia đình + Family law involves divorce cases.
+Intellectual property + /ˌɪntəˈlektʃuəl ˈprɑːpərti/ + Sở hữu trí tuệ + Protect your intellectual property.
+Copyright + /ˈkɑːpiraɪt/ + Bản quyền + Copyright law protects creators.
+Trademark + /ˈtreɪdmɑːrk/ + Nhãn hiệu + Register your trademark today.
+Patent + /ˈpætnt/ + Bằng sáng chế + They secured a new patent.
+Liability + /ˌlaɪəˈbɪləti/ + Nghĩa vụ + Limited liability protects the owner.
+Tax law + /tæks lɔː/ + Luật thuế + Tax law is updated annually.
+Environmental law + /ɪnˌvaɪrənˈmentl lɔː/ + Luật môi trường + Environmental law protects nature.
+Constitutional law + /ˌkɑːnstɪˈtuːʃənl lɔː/ + Luật hiến pháp + Constitutional law is the foundation.
+Public law + /ˈpʌblɪk lɔː/ + Luật công + Public law involves government.
+Administrative law + /ədˈmɪnɪstrətɪv lɔː/ + Luật hành chính + Administrative law governs agencies.
+Corporate law + /ˈkɔːrpərət lɔː/ + Luật doanh nghiệp + Corporate law governs companies.
+Real estate law + /riːl ɪˈsteɪt lɔː/ + Luật bất động sản + Real estate law handles sales.
+Criminal justice + /ˈkrɪmɪnl ˈdʒʌstɪs/ + Tư pháp hình sự + Improving the criminal justice system.
+Legal advice + /ˈliːɡl ədˈvaɪs/ + Lời khuyên pháp lý + Seek legal advice before acting.
+Attorney-at-law + /əˈtɜːrni ət lɔː/ + Luật sư thực hành + He is a licensed attorney-at-law.
+Barrister + /ˈbærɪstər/ + Luật sư tranh tụng + The barrister addressed the court.
+Solicitor + /səˈlɪsɪtər/ + Luật sư tư vấn + Consult your solicitor for help.
+Magistrate + /ˈmædʒɪstreɪt/ + Quan tòa cấp thấp + The magistrate presided over court.
+Clerk + /klɜːrk/ + Thư ký tòa + The court clerk filed documents.
+Paralegal + /ˈpærəliːɡl/ + Trợ lý luật sư + The paralegal prepared the files.
+Plaintiff's attorney + /ˈpleɪntɪf əˈtɜːrni/ + Luật sư nguyên đơn + The plaintiff's attorney spoke first.
+Defense counsel + /dɪˈfens ˈkaʊnsl/ + Luật sư bào chữa + The defense counsel challenged facts.
+Expert witness + /ˈekspɜːrt ˈwɪtnəs/ + Nhân chứng chuyên gia + An expert witness testified today.
+Character witness + /ˈkærəktər ˈwɪtnəs/ + Nhân chứng về nhân phẩm + He was a character witness.
+Courtroom + /ˈkɔːrtruːm/ + Phòng xử án + Silence in the courtroom please.
+Chambers + /ˈtʃeɪmbərz/ + Phòng làm việc thẩm phán + The judge invited us to chambers.
+Docket + /ˈdɑːkɪt/ + Danh sách vụ án + The case is on the docket.
+Affidavit + /ˌæfɪˈdeɪvɪt/ + Bản cam kết + Submit an affidavit for proof.
+Petition + /pəˈtɪʃn/ + Đơn kiến nghị + We filed a formal petition.
+Summons + /ˈsʌmənz/ + Lệnh triệu tập + He received a court summons.
+Brief + /briːf/ + Bản tóm tắt vụ việc + File the legal brief today.
+Deposition + /ˌdepəˈzɪʃn/ + Lời khai ngoài tòa + The deposition was recorded live.
+Discovery + /dɪˈskʌvəri/ + Giai đoạn thu thập chứng cứ + Discovery is a long process.
+Motion + /ˈmoʊʃn/ + Đề nghị (của luật sư) + The motion was denied by judge.
+Oral argument + /ˈɔːrəl ˈɑːrɡjumənt/ + Tranh luận miệng + Prepare for your oral argument.
+Stay of execution + /steɪ əv ˌeksɪˈkjuːʃn/ + Lệnh hoãn thi hành án + The court granted a stay.
+Felon + /ˈfelən/ + Kẻ phạm trọng tội + A convicted felon has restrictions.
+Recidivist + /rɪˈsɪdɪvɪst/ + Tội phạm tái phạm + He is a known recidivist.
+Accomplice + /əˈkɑːmplɪs/ + Đồng phạm + The accomplice was caught later.
+Accessory + /ækˈsesəri/ + Kẻ tòng phạm + Charged as an accessory to crime.
+Complainant + /kəmˈpleɪnənt/ + Người khiếu nại + The complainant reported the crime.
+Respondent + /rɪˈspɑːndənt/ + Bị đơn (trong ly hôn/hành chính) + The respondent filed a reply.
+Appellant + /əˈpelənt/ + Người kháng cáo + The appellant argued the point.
+Appellee + /ˌæpəˈliː/ + Bên bị kháng cáo + The appellee answered the appeal.
+Statute of limitations + /ˈstætʃuːt əv ˌlɪmɪˈteɪʃnz/ + Thời hạn luật định + The case failed on limitations.
+Double jeopardy + /ˈdʌbl ˈdʒepərdi/ + Tội bị xét xử hai lần + You cannot claim double jeopardy.
+Habeas corpus + /ˈheɪbiəs ˈkɔːrpəs/ + Lệnh yêu cầu trình diện người bị bắt + File for a habeas corpus.
+Mens rea + /menz ˈriːə/ + Ý định phạm tội + Prove the defendant had mens rea.
+Pro bono + /proʊ ˈboʊnoʊ/ + Việc làm miễn phí + The firm does pro bono work.
+Prima facie + /ˌpraɪmə ˈfeɪʃi/ + Bằng chứng hiển nhiên + There is prima facie evidence.
+Quid pro quo + /ˌkwɪd proʊ ˈkwoʊ/ + Sự trao đổi + It was a quid pro quo deal.
+Stare decisis + /ˌsteɪri dɪˈsaɪsɪs/ + Án lệ (theo nguyên tắc cũ) + Courts follow stare decisis.
+Ultra vires + /ˌʌltrə ˈvaɪriːz/ + Vượt quá thẩm quyền + The action was ultra vires.
+Impeachment + /ɪmˈpiːtʃmənt/ + Sự buộc tội/truất phế + They called for his impeachment.
+Extradition + /ˌekstrəˈdɪʃn/ + Dẫn độ + Extradition process is very slow.
+Immunity + /ɪˈmjuːnəti/ + Quyền miễn trừ + He was granted legal immunity.
+Perpetrator + /ˈpɜːrpətreɪtər/ + Kẻ thực hiện hành vi + The perpetrator was identified soon.
+Plaintiff's case + /ˈpleɪntɪf keɪs/ + Vụ kiện nguyên đơn + The plaintiff's case is strong.
+Defense case + /dɪˈfens keɪs/ + Lập luận bào chữa + The defense case was built well.
+Verdict reached + /ˈvɜːrdɪkt riːtʃt/ + Đã đạt phán quyết + A verdict reached after hours.
+Court order + /kɔːrt ˈɔːrdər/ + Lệnh tòa + Obey the court order immediately.
+Legal counsel + /ˈliːɡl ˈkaʊnsl/ + Cố vấn pháp lý + Need professional legal counsel today.
+Filing + /ˈfaɪlɪŋ/ + Sự nộp hồ sơ + Filing the documents is essential.
+Transcript + /ˈtrænskrɪpt/ + Bản ghi chép tòa án + Review the trial transcript later.
+Exhibit + /ɪɡˈzɪbɪt/ + Vật chứng + The knife is exhibit number one.
+Testimony + /ˈtestɪmoʊni/ + Lời làm chứng + Her testimony was very honest.
+Summation + /səˈmeɪʃn/ + Bản tổng kết luận tội + The lawyer gave a summation.
+Chambers + /ˈtʃeɪmbərz/ + Văn phòng tòa + See the judge in chambers.
+Bench + /bentʃ/ + Bục xét xử (thẩm phán) + The judge sat on the bench.
+Bar + /bɑːr/ + Đoàn luật sư + He was admitted to the bar.
+Case law + /keɪs lɔː/ + Luật án lệ + Case law is constantly growing.
+Statute law + /ˈstætʃuːt lɔː/ + Luật theo đạo luật + Statute law overrides old precedents.
+Ordinance + /ˈɔːrdɪnəns/ + Pháp lệnh/Sắc lệnh + The city passed an ordinance.
+Regulation + /ˌreɡjuˈleɪʃn/ + Điều lệ + Follow all government regulations today.
+Bylaw + /ˈbaɪlɔː/ + Quy chế địa phương + Check the municipal bylaws carefully.
+Decree + /dɪˈkriː/ + Nghị định + The president signed a decree.
+Legislation + /ˌledʒɪˈsleɪʃn/ + Quá trình lập pháp + Debating the new legislation now.
+Amendment + /əˈmendmənt/ + Sự sửa đổi + The constitution had an amendment.
+Ratification + /ˌrætɪfɪˈkeɪʃn/ + Sự phê chuẩn + The treaty awaits final ratification.
+Enactment + /ɪˈnæktmənt/ + Sự ban hành + Enactment of the law happened.
+Repeal + /rɪˈpiːl/ + Sự bãi bỏ + The people demanded a repeal.
+Validity + /vəˈlɪdəti/ + Hiệu lực + Check the validity of documents.
+Enforceability + /ɪnˌfɔːrsəˈbɪləti/ + Tính thi hành được + Discuss the contract's enforceability.
+Nullity + /ˈnʌləti/ + Sự vô hiệu + The court declared it a nullity.
+Jurisprudence + /ˌdʒʊrɪsˈpruːdns/ + Lý luận về luật + Study of law is jurisprudence.
+Legal system + /ˈliːɡl ˈsɪstəm/ + Hệ thống pháp luật + The legal system is complex.

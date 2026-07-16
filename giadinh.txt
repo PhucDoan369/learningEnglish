@@ -1,101 +1,101 @@
-Family - /ˈfæməli/ - Gia đình - I love my family.
-Father - /ˈfɑːðər/ - Bố - My father is a doctor.
-Mother - /ˈmʌðər/ - Mẹ - My mother cooks delicious food.
-Dad - /dæd/ - Bố - My dad is funny.
-Mom - /mɑːm/ - Mẹ - My mom helps me every day.
-Parents - /ˈperənts/ - Bố mẹ - My parents work hard.
-Son - /sʌn/ - Con trai - Their son is five years old.
-Daughter - /ˈdɔːtər/ - Con gái - Their daughter loves drawing.
-Brother - /ˈbrʌðər/ - Anh/em trai - My brother plays football.
-Sister - /ˈsɪstər/ - Chị/em gái - My sister is kind.
-Sibling - /ˈsɪblɪŋ/ - Anh chị em ruột - I have two siblings.
-Grandfather - /ˈɡrænfɑːðər/ - Ông - My grandfather tells stories.
-Grandmother - /ˈɡrænmʌðər/ - Bà - My grandmother loves flowers.
-Grandpa - /ˈɡrændpɑː/ - Ông - Grandpa is reading.
-Grandma - /ˈɡrændmɑː/ - Bà - Grandma bakes cookies.
-Uncle - /ˈʌŋkl/ - Chú/Bác/Cậu - My uncle lives in Hanoi.
-Aunt - /ænt/ - Cô/Dì/Bác gái/Mợ - My aunt is a teacher.
-Cousin - /ˈkʌzn/ - Anh chị em họ - My cousin is very friendly.
-Nephew - /ˈnefjuː/ - Cháu trai - My nephew is one year old.
-Niece - /niːs/ - Cháu gái - My niece likes singing.
-Husband - /ˈhʌzbənd/ - Chồng - Her husband is an engineer.
-Wife - /waɪf/ - Vợ - His wife is a nurse.
-Child - /tʃaɪld/ - Đứa trẻ, con - Every child needs love.
-Children - /ˈtʃɪldrən/ - Những đứa trẻ - The children are playing.
-Baby - /ˈbeɪbi/ - Em bé - The baby is sleeping.
-Relative - /ˈrelətɪv/ - Họ hàng - We visited our relatives.
-Ancestor - /ˈænsestər/ - Tổ tiên - We respect our ancestors.
-Generation - /ˌdʒenəˈreɪʃn/ - Thế hệ - Three generations live together.
-Household - /ˈhaʊshoʊld/ - Hộ gia đình - Our household has five people.
-Home - /hoʊm/ - Nhà, mái ấm - Home is my favorite place.
-Marriage - /ˈmærɪdʒ/ - Hôn nhân - Their marriage is happy.
-Wedding - /ˈwedɪŋ/ - Đám cưới - The wedding was beautiful.
-Bride - /braɪd/ - Cô dâu - The bride looked amazing.
-Groom - /ɡruːm/ - Chú rể - The groom smiled happily.
-Couple - /ˈkʌpl/ - Cặp đôi - They are a happy couple.
-Parenting - /ˈperəntɪŋ/ - Việc nuôi dạy con - Parenting takes patience.
-Adopt - /əˈdɑːpt/ - Nhận nuôi - They decided to adopt a child.
-Adoption - /əˈdɑːpʃn/ - Việc nhận nuôi - Adoption changed his life.
-Twin - /twɪn/ - Sinh đôi - They are twin sisters.
-Elder - /ˈeldər/ - Người lớn tuổi - We should respect our elders.
-Youngest - /ˈjʌŋɡɪst/ - Em út - She is the youngest child.
-Oldest - /ˈoʊldɪst/ - Anh/chị cả - He is the oldest brother.
-Only child - /ˌoʊnli ˈtʃaɪld/ - Con một - She is an only child.
-Stepfather - /ˈstepfɑːðər/ - Bố dượng - His stepfather is kind.
-Stepmother - /ˈstepmʌðər/ - Mẹ kế - Her stepmother is friendly.
-Stepson - /ˈstepsʌn/ - Con riêng (nam) - He has a stepson.
-Stepdaughter - /ˈstepdɔːtər/ - Con riêng (nữ) - She loves her stepdaughter.
-Godfather - /ˈɡɑːdfɑːðər/ - Cha đỡ đầu - My godfather gave me a gift.
-Godmother - /ˈɡɑːdmʌðər/ - Mẹ đỡ đầu - My godmother visited us.
-Sibling rivalry - /ˈsɪblɪŋ ˈraɪvəlri/ - Sự ganh đua giữa anh chị em - Sibling rivalry is normal.
-Single parent - /ˌsɪŋɡl ˈperənt/ - Cha/mẹ đơn thân - She is a single parent.
-Nuclear family - /ˌnuːkliər ˈfæməli/ - Gia đình hạt nhân - They live in a nuclear family.
-Extended family - /ɪkˌstendɪd ˈfæməli/ - Đại gia đình - We often visit our extended family.
-Family tree - /ˈfæməli triː/ - Cây gia phả - We drew our family tree.
-Blood relative - /blʌd ˈrelətɪv/ - Họ hàng ruột thịt - He is my blood relative.
-Descendant - /dɪˈsendənt/ - Hậu duệ - She is a descendant of a famous king.
-Forefather - /ˈfɔːrfɑːðər/ - Tổ tiên - Our forefathers built this village.
-Great-grandfather - /ˌɡreɪt ˈɡrænfɑːðər/ - Cụ ông - My great-grandfather lived to 95.
-Great-grandmother - /ˌɡreɪt ˈɡrænmʌðər/ - Cụ bà - My great-grandmother was kind.
-Father-in-law - /ˈfɑːðər ɪn lɔː/ - Bố vợ/chồng - My father-in-law is retired.
-Mother-in-law - /ˈmʌðər ɪn lɔː/ - Mẹ vợ/chồng - My mother-in-law loves gardening.
-Brother-in-law - /ˈbrʌðər ɪn lɔː/ - Anh/em rể - My brother-in-law is friendly.
-Sister-in-law - /ˈsɪstər ɪn lɔː/ - Chị/em dâu - My sister-in-law is a nurse.
-Son-in-law - /ˈsʌn ɪn lɔː/ - Con rể - My son-in-law is hardworking.
-Daughter-in-law - /ˈdɔːtər ɪn lɔː/ - Con dâu - My daughter-in-law is kind.
-Fiancé - /fiˈɑːnseɪ/ - Chồng sắp cưới - Her fiancé works abroad.
-Fiancée - /fiˈɑːnseɪ/ - Vợ sắp cưới - His fiancée is beautiful.
-Engagement - /ɪnˈɡeɪdʒmənt/ - Lễ đính hôn - Their engagement was wonderful.
-Engaged - /ɪnˈɡeɪdʒd/ - Đính hôn - They got engaged last year.
-Divorce - /dɪˈvɔːrs/ - Ly hôn - Divorce is sometimes unavoidable.
-Divorced - /dɪˈvɔːrst/ - Đã ly hôn - He is divorced.
-Widow - /ˈwɪdoʊ/ - Góa phụ - The widow lives alone.
-Widower - /ˈwɪdoʊər/ - Góa vợ - The widower has two sons.
-Orphan - /ˈɔːrfən/ - Trẻ mồ côi - The orphan found a new home.
-Guardian - /ˈɡɑːrdiən/ - Người giám hộ - His guardian takes care of him.
-Godson - /ˈɡɑːdsʌn/ - Con đỡ đầu (nam) - My godson is ten.
-Goddaughter - /ˈɡɑːddɔːtər/ - Con đỡ đầu (nữ) - My goddaughter is very smart.
-Birth - /bɜːrθ/ - Sự sinh ra - We celebrated the baby's birth.
-Newborn - /ˈnuːbɔːrn/ - Trẻ sơ sinh - The newborn is healthy.
-Toddler - /ˈtɑːdlər/ - Trẻ mới biết đi - The toddler is learning to walk.
-Teenager - /ˈtiːneɪdʒər/ - Thiếu niên - The teenager studies hard.
-Adult - /ˈædʌlt/ - Người trưởng thành - Every adult has responsibilities.
-Childhood - /ˈtʃaɪldhʊd/ - Tuổi thơ - I had a happy childhood.
-Upbringing - /ˈʌpˌbrɪŋɪŋ/ - Sự nuôi dạy - Good upbringing is important.
-Inheritance - /ɪnˈherɪtəns/ - Di sản, thừa kế - He received a large inheritance.
-Heir - /er/ - Người thừa kế - She is the only heir.
-Legacy - /ˈleɡəsi/ - Di sản để lại - His legacy lives on.
-Surname - /ˈsɜːrneɪm/ - Họ - What is your surname?
-Last name - /ˈlæst neɪm/ - Họ - My last name is Nguyen.
-Maiden name - /ˈmeɪdn neɪm/ - Họ trước khi kết hôn - She kept her maiden name.
-Family name - /ˈfæməli neɪm/ - Họ - Family names are important.
-Housewife - /ˈhaʊswaɪf/ - Nội trợ - His mother is a housewife.
-Homemaker - /ˈhoʊmmeɪkər/ - Người quán xuyến gia đình - She is a full-time homemaker.
-Breadwinner - /ˈbredwɪnər/ - Trụ cột gia đình - He is the breadwinner.
-Caregiver - /ˈkerɡɪvər/ - Người chăm sóc - She is the caregiver for her parents.
-Relative by marriage - /ˈrelətɪv baɪ ˈmærɪdʒ/ - Họ hàng bên thông gia - They became relatives by marriage.
-Kin - /kɪn/ - Bà con, họ hàng - We invited all our kin.
-Next of kin - /ˌnekst əv ˈkɪn/ - Thân nhân gần nhất - Please contact my next of kin.
-Family reunion - /ˈfæməli riˈjuːniən/ - Họp mặt gia đình - Our family reunion was enjoyable.
-Household member - /ˈhaʊshoʊld ˈmembər/ - Thành viên trong hộ gia đình - Every household member helps with chores.
-In-law - /ˈɪn lɔː/ - Người bên thông gia - My in-laws are very kind.
+Family + /ˈfæməli/ + Gia đình + I love my family.
+Father + /ˈfɑːðər/ + Bố + My father is a doctor.
+Mother + /ˈmʌðər/ + Mẹ + My mother cooks delicious food.
+Dad + /dæd/ + Bố + My dad is funny.
+Mom + /mɑːm/ + Mẹ + My mom helps me every day.
+Parents + /ˈperənts/ + Bố mẹ + My parents work hard.
+Son + /sʌn/ + Con trai + Their son is five years old.
+Daughter + /ˈdɔːtər/ + Con gái + Their daughter loves drawing.
+Brother + /ˈbrʌðər/ + Anh/em trai + My brother plays football.
+Sister + /ˈsɪstər/ + Chị/em gái + My sister is kind.
+Sibling + /ˈsɪblɪŋ/ + Anh chị em ruột + I have two siblings.
+Grandfather + /ˈɡrænfɑːðər/ + Ông + My grandfather tells stories.
+Grandmother + /ˈɡrænmʌðər/ + Bà + My grandmother loves flowers.
+Grandpa + /ˈɡrændpɑː/ + Ông + Grandpa is reading.
+Grandma + /ˈɡrændmɑː/ + Bà + Grandma bakes cookies.
+Uncle + /ˈʌŋkl/ + Chú/Bác/Cậu + My uncle lives in Hanoi.
+Aunt + /ænt/ + Cô/Dì/Bác gái/Mợ + My aunt is a teacher.
+Cousin + /ˈkʌzn/ + Anh chị em họ + My cousin is very friendly.
+Nephew + /ˈnefjuː/ + Cháu trai + My nephew is one year old.
+Niece + /niːs/ + Cháu gái + My niece likes singing.
+Husband + /ˈhʌzbənd/ + Chồng + Her husband is an engineer.
+Wife + /waɪf/ + Vợ + His wife is a nurse.
+Child + /tʃaɪld/ + Đứa trẻ, con + Every child needs love.
+Children + /ˈtʃɪldrən/ + Những đứa trẻ + The children are playing.
+Baby + /ˈbeɪbi/ + Em bé + The baby is sleeping.
+Relative + /ˈrelətɪv/ + Họ hàng + We visited our relatives.
+Ancestor + /ˈænsestər/ + Tổ tiên + We respect our ancestors.
+Generation + /ˌdʒenəˈreɪʃn/ + Thế hệ + Three generations live together.
+Household + /ˈhaʊshoʊld/ + Hộ gia đình + Our household has five people.
+Home + /hoʊm/ + Nhà, mái ấm + Home is my favorite place.
+Marriage + /ˈmærɪdʒ/ + Hôn nhân + Their marriage is happy.
+Wedding + /ˈwedɪŋ/ + Đám cưới + The wedding was beautiful.
+Bride + /braɪd/ + Cô dâu + The bride looked amazing.
+Groom + /ɡruːm/ + Chú rể + The groom smiled happily.
+Couple + /ˈkʌpl/ + Cặp đôi + They are a happy couple.
+Parenting + /ˈperəntɪŋ/ + Việc nuôi dạy con + Parenting takes patience.
+Adopt + /əˈdɑːpt/ + Nhận nuôi + They decided to adopt a child.
+Adoption + /əˈdɑːpʃn/ + Việc nhận nuôi + Adoption changed his life.
+Twin + /twɪn/ + Sinh đôi + They are twin sisters.
+Elder + /ˈeldər/ + Người lớn tuổi + We should respect our elders.
+Youngest + /ˈjʌŋɡɪst/ + Em út + She is the youngest child.
+Oldest + /ˈoʊldɪst/ + Anh/chị cả + He is the oldest brother.
+Only child + /ˌoʊnli ˈtʃaɪld/ + Con một + She is an only child.
+Stepfather + /ˈstepfɑːðər/ + Bố dượng + His stepfather is kind.
+Stepmother + /ˈstepmʌðər/ + Mẹ kế + Her stepmother is friendly.
+Stepson + /ˈstepsʌn/ + Con riêng (nam) + He has a stepson.
+Stepdaughter + /ˈstepdɔːtər/ + Con riêng (nữ) + She loves her stepdaughter.
+Godfather + /ˈɡɑːdfɑːðər/ + Cha đỡ đầu + My godfather gave me a gift.
+Godmother + /ˈɡɑːdmʌðər/ + Mẹ đỡ đầu + My godmother visited us.
+Sibling rivalry + /ˈsɪblɪŋ ˈraɪvəlri/ + Sự ganh đua giữa anh chị em + Sibling rivalry is normal.
+Single parent + /ˌsɪŋɡl ˈperənt/ + Cha/mẹ đơn thân + She is a single parent.
+Nuclear family + /ˌnuːkliər ˈfæməli/ + Gia đình hạt nhân + They live in a nuclear family.
+Extended family + /ɪkˌstendɪd ˈfæməli/ + Đại gia đình + We often visit our extended family.
+Family tree + /ˈfæməli triː/ + Cây gia phả + We drew our family tree.
+Blood relative + /blʌd ˈrelətɪv/ + Họ hàng ruột thịt + He is my blood relative.
+Descendant + /dɪˈsendənt/ + Hậu duệ + She is a descendant of a famous king.
+Forefather + /ˈfɔːrfɑːðər/ + Tổ tiên + Our forefathers built this village.
+Great-grandfather + /ˌɡreɪt ˈɡrænfɑːðər/ + Cụ ông + My great-grandfather lived to 95.
+Great-grandmother + /ˌɡreɪt ˈɡrænmʌðər/ + Cụ bà + My great-grandmother was kind.
+Father-in-law + /ˈfɑːðər ɪn lɔː/ + Bố vợ/chồng + My father-in-law is retired.
+Mother-in-law + /ˈmʌðər ɪn lɔː/ + Mẹ vợ/chồng + My mother-in-law loves gardening.
+Brother-in-law + /ˈbrʌðər ɪn lɔː/ + Anh/em rể + My brother-in-law is friendly.
+Sister-in-law + /ˈsɪstər ɪn lɔː/ + Chị/em dâu + My sister-in-law is a nurse.
+Son-in-law + /ˈsʌn ɪn lɔː/ + Con rể + My son-in-law is hardworking.
+Daughter-in-law + /ˈdɔːtər ɪn lɔː/ + Con dâu + My daughter-in-law is kind.
+Fiancé + /fiˈɑːnseɪ/ + Chồng sắp cưới + Her fiancé works abroad.
+Fiancée + /fiˈɑːnseɪ/ + Vợ sắp cưới + His fiancée is beautiful.
+Engagement + /ɪnˈɡeɪdʒmənt/ + Lễ đính hôn + Their engagement was wonderful.
+Engaged + /ɪnˈɡeɪdʒd/ + Đính hôn + They got engaged last year.
+Divorce + /dɪˈvɔːrs/ + Ly hôn + Divorce is sometimes unavoidable.
+Divorced + /dɪˈvɔːrst/ + Đã ly hôn + He is divorced.
+Widow + /ˈwɪdoʊ/ + Góa phụ + The widow lives alone.
+Widower + /ˈwɪdoʊər/ + Góa vợ + The widower has two sons.
+Orphan + /ˈɔːrfən/ + Trẻ mồ côi + The orphan found a new home.
+Guardian + /ˈɡɑːrdiən/ + Người giám hộ + His guardian takes care of him.
+Godson + /ˈɡɑːdsʌn/ + Con đỡ đầu (nam) + My godson is ten.
+Goddaughter + /ˈɡɑːddɔːtər/ + Con đỡ đầu (nữ) + My goddaughter is very smart.
+Birth + /bɜːrθ/ + Sự sinh ra + We celebrated the baby's birth.
+Newborn + /ˈnuːbɔːrn/ + Trẻ sơ sinh + The newborn is healthy.
+Toddler + /ˈtɑːdlər/ + Trẻ mới biết đi + The toddler is learning to walk.
+Teenager + /ˈtiːneɪdʒər/ + Thiếu niên + The teenager studies hard.
+Adult + /ˈædʌlt/ + Người trưởng thành + Every adult has responsibilities.
+Childhood + /ˈtʃaɪldhʊd/ + Tuổi thơ + I had a happy childhood.
+Upbringing + /ˈʌpˌbrɪŋɪŋ/ + Sự nuôi dạy + Good upbringing is important.
+Inheritance + /ɪnˈherɪtəns/ + Di sản, thừa kế + He received a large inheritance.
+Heir + /er/ + Người thừa kế + She is the only heir.
+Legacy + /ˈleɡəsi/ + Di sản để lại + His legacy lives on.
+Surname + /ˈsɜːrneɪm/ + Họ + What is your surname?
+Last name + /ˈlæst neɪm/ + Họ + My last name is Nguyen.
+Maiden name + /ˈmeɪdn neɪm/ + Họ trước khi kết hôn + She kept her maiden name.
+Family name + /ˈfæməli neɪm/ + Họ + Family names are important.
+Housewife + /ˈhaʊswaɪf/ + Nội trợ + His mother is a housewife.
+Homemaker + /ˈhoʊmmeɪkər/ + Người quán xuyến gia đình + She is a full-time homemaker.
+Breadwinner + /ˈbredwɪnər/ + Trụ cột gia đình + He is the breadwinner.
+Caregiver + /ˈkerɡɪvər/ + Người chăm sóc + She is the caregiver for her parents.
+Relative by marriage + /ˈrelətɪv baɪ ˈmærɪdʒ/ + Họ hàng bên thông gia + They became relatives by marriage.
+Kin + /kɪn/ + Bà con, họ hàng + We invited all our kin.
+Next of kin + /ˌnekst əv ˈkɪn/ + Thân nhân gần nhất + Please contact my next of kin.
+Family reunion + /ˈfæməli riˈjuːniən/ + Họp mặt gia đình + Our family reunion was enjoyable.
+Household member + /ˈhaʊshoʊld ˈmembər/ + Thành viên trong hộ gia đình + Every household member helps with chores.
+In-law + /ˈɪn lɔː/ + Người bên thông gia + My in-laws are very kind.

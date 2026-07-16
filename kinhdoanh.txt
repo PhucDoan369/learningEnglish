@@ -1,0 +1,175 @@
+Business + /ˈbɪznəs/ + Kinh doanh + He runs a small business.
+Commerce + /ˈkɑːmɜːrs/ + Thương mại + International commerce is growing.
+Company + /ˈkʌmpəni/ + Công ty + She works for a big company.
+Enterprise + /ˈentərpraɪz/ + Doanh nghiệp + It is a large private enterprise.
+Corporation + /ˌkɔːrpəˈreɪʃn/ + Tập đoàn + The corporation has many branches.
+Startup + /ˈstɑːrtʌp/ + Doanh nghiệp khởi nghiệp + The startup raised much capital.
+Entrepreneur + /ˌɑːntrəprəˈnɜːr/ + Doanh nhân + She is a successful entrepreneur.
+Management + /ˈmænɪdʒmənt/ + Quản lý + Good management is essential.
+Leadership + /ˈliːdərʃɪp/ + Lãnh đạo + His leadership style is inspiring.
+Strategy + /ˈstrætədʒi/ + Chiến lược + We need a new marketing strategy.
+Market + /ˈmɑːrkɪt/ + Thị trường + The market is very competitive.
+Industry + /ˈɪndəstri/ + Ngành công nghiệp + He works in the tech industry.
+Profit + /ˈprɑːfɪt/ + Lợi nhuận + Our net profit increased significantly.
+Revenue + /ˈrevənuː/ + Doanh thu + The revenue exceeded our expectations.
+Capital + /ˈkæpɪtl/ + Vốn + They need capital to expand.
+Asset + /ˈæset/ + Tài sản + The company has valuable assets.
+Liability + /ˌlaɪəˈbɪləti/ + Nợ phải trả + Reduce liabilities to improve cash.
+Investment + /ɪnˈvestmənt/ + Đầu tư + This is a long-term investment.
+Shareholder + /ˈʃerhoʊldər/ + Cổ đông + The shareholders met last week.
+Dividend + /ˈdɪvɪdend/ + Cổ tức + The firm pays a yearly dividend.
+Equity + /ˈekwəti/ + Vốn chủ sở hữu + They hold equity in the firm.
+Budget + /ˈbʌdʒɪt/ + Ngân sách + Stick to your annual budget.
+Marketing + /ˈmɑːrkɪtɪŋ/ + Tiếp thị + Marketing drives our sales growth.
+Advertising + /ˈædvərtaɪzɪŋ/ + Quảng cáo + Online advertising is very effective.
+Sales + /seɪlz/ + Doanh số + Sales are up this quarter.
+Customer + /ˈkʌstəmər/ + Khách hàng + A loyal customer is valuable.
+Client + /ˈklaɪent/ + Khách hàng (dịch vụ) + We serve many international clients.
+Supplier + /səˈplaɪər/ + Nhà cung cấp + Choose a reliable local supplier.
+Vendor + /ˈvendər/ + Nhà bán hàng + The vendor offers competitive prices.
+Competitor + /kəmˈpetɪtər/ + Đối thủ cạnh tranh + Monitor your main competitor's moves.
+Negotiation + /nɪˌɡoʊʃiˈeɪʃn/ + Đàm phán + The negotiation ended in success.
+Contract + /ˈkɑːntrækt/ + Hợp đồng + We finalized the service contract.
+Proposal + /prəˈpoʊzl/ + Đề xuất + Present your business proposal clearly.
+Partnership + /ˈpɑːrtnərʃɪp/ + Quan hệ đối tác + We formed a strategic partnership.
+Acquisition + /ˌækwɪˈzɪʃn/ + Sự thâu tóm + The acquisition took six months.
+Merger + /ˈmɜːrdʒər/ + Sự sáp nhập + A merger between two banks.
+Bankruptcy + /ˈbæŋkrʌptsi/ + Phá sản + The store filed for bankruptcy.
+Product + /ˈprɑːdʌkt/ + Sản phẩm + This product is a best-seller.
+Service + /ˈsɜːrvɪs/ + Dịch vụ + Excellent customer service is key.
+Brand + /brænd/ + Thương hiệu + Build a strong global brand.
+Logistics + /ləˈdʒɪstɪks/ + Hậu cần + Logistics management is very complex.
+Inventory + /ˈɪnvəntɔːri/ + Hàng tồn kho + Check the current inventory levels.
+Warehouse + /ˈwerhaʊs/ + Kho hàng + The goods are in the warehouse.
+Distribution + /ˌdɪstrɪˈbjuːʃn/ + Phân phối + Distribution networks reach all areas.
+Supply chain + /səˈplaɪ tʃeɪn/ + Chuỗi cung ứng + The supply chain is disrupted.
+Export + /ˈekspɔːrt/ + Xuất khẩu + We export products to Europe.
+Import + /ˈɪmpɔːrt/ + Nhập khẩu + Import duties are quite high.
+Economy + /ɪˈkɑːnəmi/ + Nền kinh tế + The economy is showing growth.
+Inflation + /ɪnˈfleɪʃn/ + Lạm phát + High inflation affects our prices.
+Fiscal + /ˈfɪskl/ + Thuộc tài chính + The fiscal year ends in June.
+Monetary + /ˈmɑːnɪteri/ + Thuộc tiền tệ + The central bank sets monetary.
+Productivity + /ˌproʊdʌkˈtɪvəti/ + Năng suất + Higher productivity means more profit.
+Efficiency + /ɪˈfɪʃnsi/ + Hiệu quả + Improve the efficiency of operations.
+Innovation + /ˌɪnəˈveɪʃn/ + Đổi mới + Innovation keeps us ahead.
+Sustainable + /səˈsteɪnəbl/ + Bền vững + We focus on sustainable growth.
+Outsourcing + /ˈaʊtsɔːrsɪŋ/ + Thuê ngoài + Outsourcing reduces operational costs.
+Franchise + /ˈfræntʃaɪz/ + Nhượng quyền + They bought a coffee franchise.
+Startup + /ˈstɑːrtʌp/ + Công ty khởi nghiệp + The startup ecosystem is thriving.
+Revenue + /ˈrevənuː/ + Doanh thu + Increase revenue by new markets.
+Dividend + /ˈdɪvɪdend/ + Cổ tức + The dividend payout is high.
+Liquidity + /lɪˈkwɪdəti/ + Tính thanh khoản + Liquidity is crucial for survival.
+Solvency + /ˈsɑːlvənsi/ + Khả năng thanh toán + Check the firm's overall solvency.
+Turnover + /ˈtɜːrnoʊvər/ + Tốc độ luân chuyển + High staff turnover is problematic.
+Market share + /ˈmɑːrkɪt ʃer/ + Thị phần + We aim to gain market share.
+B2B + /biː tuː biː/ + Doanh nghiệp với doanh nghiệp + B2B sales are very stable.
+B2C + /biː tuː siː/ + Doanh nghiệp với người dùng + B2C needs strong marketing.
+E-commerce + /iː ˈkɑːmɜːrs/ + Thương mại điện tử + E-commerce changes how we shop.
+Retail + /ˈriːteɪl/ + Bán lẻ + The retail sector is recovering.
+Wholesale + /ˈhoʊlseɪl/ + Bán sỉ + We sell items at wholesale prices.
+Asset + /ˈæset/ + Tài sản + Fixed assets include all equipment.
+Liability + /ˌlaɪəˈbɪləti/ + Nợ + Short-term liability must be paid.
+Cash flow + /kæʃ floʊ/ + Dòng tiền + The cash flow is very positive.
+Accountant + /əˈkaʊntənt/ + Kế toán + An accountant handles the taxes.
+Audit + /ˈɔːdɪt/ + Kiểm toán + The yearly audit is starting.
+Statement + /ˈsteɪtmənt/ + Báo cáo + Check the monthly bank statement.
+Balance sheet + /ˈbæləns ʃiːt/ + Bảng cân đối kế toán + The balance sheet looks healthy.
+Tax + /tæks/ + Thuế + We paid all corporate taxes.
+Regulation + /ˌreɡjuˈleɪʃn/ + Quy định + Compliance with government regulation.
+Compliance + /kəmˈplaɪəns/ + Sự tuân thủ + Ensure full compliance with laws.
+Dividend + /ˈdɪvɪdend/ + Lợi tức cổ phần + Dividends attract many new investors.
+Bonus + /ˈboʊnəs/ + Tiền thưởng + The staff received a bonus.
+Commission + /kəˈmɪʃn/ + Hoa hồng + She earned a large commission.
+Salary + /ˈsæləri/ + Lương + The base salary is competitive.
+Wage + /weɪdʒ/ + Tiền công + The hourly wage was increased.
+Benefit + /ˈbenɪfɪt/ + Phúc lợi + Employees enjoy many company benefits.
+Recruitment + /rɪˈkruːtmənt/ + Tuyển dụng + The recruitment process takes time.
+Human resources + /ˈhjuːmən riˈsɔːrsɪz/ + Nhân sự + HR handles all hiring issues.
+Department + /dɪˈpɑːrtmənt/ + Phòng ban + The sales department is busy.
+Supervisor + /ˈsuːpərvaɪzər/ + Giám sát viên + Speak to your direct supervisor.
+Colleague + /ˈkɑːliːɡ/ + Đồng nghiệp + My colleague is very helpful.
+Workflow + /ˈwɜːrkfloʊ/ + Quy trình làm việc + The workflow is very efficient.
+Networking + /ˈnetwɜːrkɪŋ/ + Kết nối kinh doanh + Networking helps build your career.
+Meeting + /ˈmiːtɪŋ/ + Cuộc họp + We scheduled a weekly meeting.
+Agenda + /əˈdʒendə/ + Chương trình nghị sự + Follow the agenda for today.
+Briefing + /ˈbriːfɪŋ/ + Buổi họp nhanh + The morning briefing is starting.
+Project + /ˈprɑːdʒekt/ + Dự án + The project is almost finished.
+Milestone + /ˈmaɪlstoʊn/ + Cột mốc quan trọng + We reached a major project milestone.
+Deadline + /ˈdedlaɪn/ + Hạn chót + The deadline is this Friday.
+Productivity + /ˌproʊdʌkˈtɪvəti/ + Hiệu suất + Remote work improves productivity.
+Performance + /pərˈfɔːrməns/ + Hiệu quả làm việc + Review your performance last year.
+Evaluation + /ɪˌvæljuˈeɪʃn/ + Sự đánh giá + Performance evaluation happens annually.
+Promotion + /prəˈmoʊʃn/ + Sự thăng tiến + She earned a quick promotion.
+Resignation + /ˌrezɪɡˈneɪʃn/ + Sự từ chức + He submitted his formal resignation.
+Retirement + /rɪˈtaɪərmənt/ + Sự nghỉ hưu + Planning for retirement is vital.
+Contractor + /ˈkɑːntræktər/ + Nhà thầu + The independent contractor worked fast.
+Consultant + /kənˈsʌltənt/ + Tư vấn viên + The consultant suggested new ideas.
+Board of directors + /bɔːrd əv dɪˈrektərz/ + Hội đồng quản trị + The board met yesterday.
+Executive + /ɪɡˈzekjətɪv/ + Người điều hành + The executive team made decisions.
+Founder + /ˈfaʊndər/ + Người sáng lập + The founder started with nothing.
+Manager + /ˈmænɪdʒər/ + Quản lý + The store manager is responsible.
+CEO + /siː iː oʊ/ + Giám đốc điều hành + The CEO announced the plan.
+CFO + /siː ef oʊ/ + Giám đốc tài chính + The CFO oversees the budget.
+Marketing + /ˈmɑːrkɪtɪŋ/ + Tiếp thị + Use marketing to reach users.
+Branding + /ˈbrændɪŋ/ + Xây dựng thương hiệu + Great branding boosts the company.
+Advertising + /ˈædvərtaɪzɪŋ/ + Quảng cáo + Radio advertising is getting popular.
+Promotion + /prəˈmoʊʃn/ + Khuyến mãi + The store offers a huge promotion.
+Public relations + /ˈpʌblɪk riˈleɪʃnz/ + Quan hệ công chúng + PR improves our public image.
+Consumer + /kənˈsuːmər/ + Người tiêu dùng + The consumer demand is rising.
+Feedback + /ˈfiːdbæk/ + Phản hồi + Collect customer feedback to improve.
+Satisfaction + /ˌsætɪsˈfækʃn/ + Sự hài lòng + Customer satisfaction is our priority.
+Loyalty + /ˈlɔɪəlti/ + Sự trung thành + Brand loyalty brings repeat sales.
+Differentiator + /ˌdɪfəˈrenʃieɪtər/ + Yếu tố khác biệt + Quality is our key differentiator.
+USP + /juː es piː/ + Lợi điểm bán hàng độc nhất + Define your unique selling point.
+Niche + /niːʃ/ + Phân khúc thị trường + Find a profitable niche market.
+Growth + /ɡroʊθ/ + Sự phát triển + Rapid growth requires careful planning.
+Expansion + /ɪkˈspænʃn/ + Sự mở rộng + International expansion is the goal.
+Innovation + /ˌɪnəˈveɪʃn/ + Đổi mới + Constant innovation is the norm.
+Sustainability + /səˌsteɪnəˈbɪləti/ + Tính bền vững + Sustainability is good for brand.
+Scalability + /ˌskeɪləˈbɪləti/ + Khả năng mở rộng + Ensure the scalability of systems.
+Competitive advantage + /kəmˈpetətɪv ədˈvæntɪdʒ/ + Lợi thế cạnh tranh + Technology is our competitive advantage.
+Margin + /ˈmɑːrdʒɪn/ + Biên lợi nhuận + The profit margin is very thin.
+Cost + /kɔːst/ + Chi phí + The cost of goods rose.
+Overhead + /ˈoʊvərhed/ + Chi phí chung + Overhead expenses are too high.
+Break-even + /ˈbreɪk iːvən/ + Hòa vốn + We reached break-even point today.
+ROI + /ɑːr oʊ aɪ/ + Lợi tức đầu tư + The ROI is very promising.
+Credit + /ˈkredɪt/ + Tín dụng + Bank credit helps our business.
+Debit + /ˈdebɪt/ + Ghi nợ + The debit note was received.
+Balance + /ˈbæləns/ + Số dư + The bank balance is low.
+Transaction + /trænˈzækʃn/ + Giao dịch + Complete the online transaction now.
+Currency + /ˈkɜːrənsi/ + Tiền tệ + Global business uses many currencies.
+Exchange + /ɪksˈtʃeɪndʒ/ + Sự trao đổi + The exchange rate fluctuated today.
+Taxation + /tækˈseɪʃn/ + Thuế vụ + Taxation laws are changing quickly.
+Subsidiary + /səbˈsɪdiəri/ + Công ty con + The parent firm has subsidiaries.
+Affiliate + /əˈfɪlieɪt/ + Chi nhánh/liên kết + They work with local affiliates.
+Joint venture + /dʒɔɪnt ˈventʃər/ + Liên doanh + A joint venture with Japan.
+Monopoly + /məˈnɑːpəli/ + Độc quyền + No one wants a market monopoly.
+Oligopoly + /ˌɑːlɪˈɡɑːpəli/ + Độc quyền nhóm + The industry is an oligopoly.
+Startup capital + /ˈstɑːrtʌp ˈkæpɪtl/ + Vốn khởi nghiệp + Secure enough startup capital first.
+Venture capital + /ˈventʃər ˈkæpɪtl/ + Vốn đầu tư mạo hiểm + Venture capital helps grow fast.
+Angel investor + /ˈeɪndʒl ɪnˈvestər/ + Nhà đầu tư thiên thần + An angel investor provided funds.
+Initial Public Offering + /ɪˈnɪʃl ˈpʌblɪk ˈɔːfərɪŋ/ + IPO + They plan for an IPO soon.
+Stock + /stɑːk/ + Cổ phiếu + The stock price rose today.
+Bond + /bɑːnd/ + Trái phiếu + Government bonds are very safe.
+Dividend + /ˈdɪvɪdend/ + Lợi tức + Expect a dividend this month.
+Portfolio + /pɔːrtˈfoʊlioʊ/ + Danh mục đầu tư + Diversify your investment portfolio now.
+Risk + /rɪsk/ + Rủi ro + Every investment has some risk.
+Mitigation + /ˌmɪtɪˈɡeɪʃn/ + Sự giảm thiểu + Risk mitigation is very crucial.
+Supply + /səˈplaɪ/ + Nguồn cung + Supply meets the high demand.
+Demand + /dɪˈmænd/ + Nhu cầu + Consumer demand is very strong.
+Logistics + /ləˈdʒɪstɪks/ + Dịch vụ hậu cần + Logistics ensures timely delivery today.
+Freight + /freɪt/ + Hàng hóa vận chuyển + Air freight is very costly.
+Packaging + /ˈpækɪdʒɪŋ/ + Bao bì + Packaging affects the shipping cost.
+E-tailer + /iː ˈteɪlər/ + Nhà bán lẻ trực tuyến + Amazon is a top e-tailer.
+Wholesaler + /ˈhoʊlseɪlər/ + Nhà bán sỉ + Buy from the local wholesaler.
+Boutique + /buːˈtiːk/ + Cửa hàng nhỏ + The boutique sells unique items.
+Marketplace + /ˈmɑːrkɪtpleɪs/ + Sàn giao dịch + The online marketplace is busy.
+Commodity + /kəˈmɑːdəti/ + Hàng hóa cơ bản + The price of gold fluctuates.
+Contractual + /kənˈtræktʃuəl/ + Có tính hợp đồng + Fulfil all contractual obligations now.
+Legal entity + /ˈliːɡl ˈentəti/ + Thực thể pháp lý + The firm is a legal entity.
+Incorporation + /ɪnˌkɔːrpəˈreɪʃn/ + Sự thành lập + The incorporation date is set.
+Liquidation + /ˌlɪkwɪˈdeɪʃn/ + Sự thanh lý + The company is under liquidation.
+Merger + /ˈmɜːrdʒər/ + Sáp nhập + A merger creates market power.
+Diversification + /daɪˌvɜːrsɪfɪˈkeɪʃn/ + Đa dạng hóa + Business diversification reduces overall risk.
+Forecasting + /ˈfɔːrkæstɪŋ/ + Dự báo + Sales forecasting is quite difficult.
+Budgeting + /ˈbʌdʒɪtɪŋ/ + Lập ngân sách + Proper budgeting prevents overspending today.
