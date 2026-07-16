@@ -287,132 +287,99 @@
         </div>
     </div>
 
-    <script>
-        let vocabulary = [];
-        let currentIndex = 0;
-        const card = document.getElementById('card');
+<script>
+    let vocabulary = [];
+    let currentIndex = 0;
+    const card = document.getElementById('card');
+    
+    const fallbackWords = [
+        { word: "example", phonetic: "/ɪɡˈzæm.pəl/", meaning: "Từ mẫu (File .txt chưa tải được)", example: "This is an example." }
+    ];
+
+    function speakWord() {
+        if (vocabulary.length === 0) return;
+        const text = vocabulary[currentIndex].word;
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = 'en-US';
+        window.speechSynthesis.speak(utterance);
+    }
+
+    function flipCard() {
+        card.classList.toggle('flipped');
+    }
+
+    function updateCard() {
+        card.classList.remove('flipped');
+        // Sử dụng setTimeout để đợi hiệu ứng lật xong rồi mới đổi chữ
+        setTimeout(() => {
+            if (vocabulary.length > 0) {
+                const item = vocabulary[currentIndex];
+                document.getElementById('front-word').innerText = item.word;
+                document.getElementById('front-phonetic').innerText = item.phonetic || '';
+                document.getElementById('back-meaning').innerText = item.meaning;
+                document.getElementById('back-example').innerText = item.example || "";
+                document.getElementById('progress').innerText = `${currentIndex + 1} / ${vocabulary.length}`;
+            }
+        }, 150);
+    }
+
+    function nextWord() {
+        if (vocabulary.length === 0) return;
+        currentIndex = (currentIndex + 1) % vocabulary.length;
+        updateCard();
+    }
+
+    function prevWord() {
+        if (vocabulary.length === 0) return;
+        currentIndex = (currentIndex - 1 + vocabulary.length) % vocabulary.length;
+        updateCard();
+    }
+
+    function parseTextToVocab(text) {
+        const lines = text.split('\n');
+        return lines
+            .map(line => line.trim())
+            .filter(line => line !== "")
+            .map(line => {
+                const parts = line.split('-').map(p => p.trim());
+                return {
+                    word: parts[0] || "",
+                    phonetic: parts[1] || "",
+                    meaning: parts[2] || "",
+                    example: parts.slice(3).join(" - ") || ""
+                };
+            });
+    }
+
+    async function selectTopic(fileName, topicName) {
+        document.getElementById('current-topic-title').innerText = `Chủ đề: ${topicName}`;
         
-        // Danh sách từ dự phòng phòng khi file .txt bị lỗi/không tìm thấy
-        const fallbackWords = [
-            { word: "example", phonetic: "/ɪɡˈzæm.pəl/", meaning: "Từ mẫu (File .txt chưa tải được)" }
-        ];
-
-        function speakWord() {
-            if (vocabulary.length === 0) return;
-            const text = vocabulary[currentIndex].word;
-            const utterance = new SpeechSynthesisUtterance(text);
-            utterance.lang = 'en-US';
-            window.speechSynthesis.speak(utterance);
-        }
-
-        function flipCard() {
-            card.classList.toggle('flipped');
-        }
-
-        function updateCard() {
-            card.classList.remove('flipped');
-            setTimeout(() => {
-                if (vocabulary.length > 0) {
-                    const item = vocabulary[currentIndex];
-                    document.getElementById('front-word').innerText = item.word;
-                    document.getElementById('front-phonetic').innerText = item.phonetic || '';
-                    document.getElementById('back-meaning').innerText = item.meaning;
-
-document.getElementById('back-example').innerText =
-    item.example || "";
-
-document.getElementById('progress').innerText =
-    `Từ ${currentIndex + 1} / ${vocabulary.length}`;
-            }, 150);
-        }
-
-        function nextWord() {
-            if (vocabulary.length === 0) return;
-            currentIndex = (currentIndex + 1) % vocabulary.length;
-            updateCard();
-        }
-
-        function prevWord() {
-            if (vocabulary.length === 0) return;
-            currentIndex = (currentIndex - 1 + vocabulary.length) % vocabulary.length;
-            updateCard();
-        }
-
-        function parseTextToVocab(text) {
-    const lines = text.split('\n');
-    const parsed = [];
-
-    lines.forEach(line => {
-        const trimmed = line.trim();
-        if (!trimmed) return;
-
-        const parts = trimmed.split('-').map(p => p.trim());
-
-        if (parts.length >= 4) {
-            parsed.push({
-                word: parts[0],
-                phonetic: parts[1],
-                meaning: parts[2],
-                example: parts.slice(3).join(" - ")
-            });
-        } else if (parts.length === 3) {
-            parsed.push({
-                word: parts[0],
-                phonetic: parts[1],
-                meaning: parts[2],
-                example: ""
-            });
-        } else if (parts.length === 2) {
-            parsed.push({
-                word: parts[0],
-                phonetic: "",
-                meaning: parts[1],
-                example: ""
-            });
-        }
-    });
-
-    return parsed;
-}
-
-        // Hàm xử lý khi người dùng click vào một chủ đề
-        async function selectTopic(fileName, topicName) {
-            document.getElementById('current-topic-title').innerText = `Chủ đề: ${topicName}`;
-            
-            try {
-                // Tải file .txt tương ứng từ thư mục
-                let response = await fetch(fileName);
-                if (response.ok) {
-                    const text = await response.text();
-                    const parsedData = parseTextToVocab(text);
-                    if(parsedData.length > 0) {
-                        vocabulary = parsedData;
-                    } else {
-                        alert("File txt trống hoặc sai định dạng Từ - Nghĩa");
-                        vocabulary = fallbackWords;
-                    }
-                } else {
-                    alert(`Không tìm thấy file "${fileName}" trong thư mục! Hãy tạo file này.`);
-                    vocabulary = fallbackWords;
-                }
-            } catch (e) {
-                alert("Lỗi: Không thể fetch file. Hãy đảm bảo bạn đang chạy ứng dụng qua Live Server / Web Server.");
+        try {
+            let response = await fetch(fileName);
+            if (response.ok) {
+                const text = await response.text();
+                vocabulary = parseTextToVocab(text);
+            } else {
+                console.error("Không tìm thấy file");
                 vocabulary = fallbackWords;
             }
-
-            // Chuyển giao diện từ Menu sang Flashcard
-            currentIndex = 0;
-            document.getElementById('menu-view').style.display = 'none';
-            document.getElementById('flashcard-view').style.display = 'block';
-            updateCard();
+        } catch (e) {
+            console.error(e);
+            vocabulary = fallbackWords;
         }
 
-        // Quay lại màn hình chọn Menu
-        function backToMenu() {
-            document.getElementById('current-topic-title').innerText = 'Chọn chủ đề để bắt đầu học';
-            document.getElementById('flashcard-view').style.display = 'none';
-            document.getElementById('menu-view').style.display = 'block';
-        }
-    </script>
+        currentIndex = 0;
+        document.getElementById('menu-view').style.display = 'none';
+        document.getElementById('flashcard-view').style.display = 'block';
+        updateCard();
+    }
+
+    function backToMenu() {
+        document.getElementById('current-topic-title').innerText = 'Chọn chủ đề để bắt đầu học';
+        document.getElementById('flashcard-view').style.display = 'none';
+        document.getElementById('menu-view').style.display = 'block';
+    }
+</script>
+
 </body>
 </html>
