@@ -11,6 +11,7 @@
             padding: 0;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         }
+        
 
         body {
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -28,6 +29,15 @@
             max-width: 520px;
             text-align: center;
         }
+        
+        .example {
+    margin-top: 15px;
+    font-size: 1rem;
+    color: #718096;
+    font-style: italic;
+    text-align: center;
+    line-height: 1.5;
+}
 
         h1 {
             color: white;
@@ -259,11 +269,11 @@
                         <div class="phonetic" id="front-phonetic"></div>
                         <div class="hint">Chạm để xem nghĩa 🔄</div>
                     </div>
-                    <div class="card-face card-back">
-                        <div class="meaning" id="back-meaning">...</div>
-                        <div class="hint">Chạm để xem từ 🔄</div>
-                    </div>
-                </div>
+               <div class="card-face card-back">
+    <div class="meaning" id="back-meaning">...</div>
+    <div class="example" id="back-example"></div>
+    <div class="hint">Chạm để xem từ 🔄</div>
+</div>
             </div>
 
             <div class="controls">
@@ -307,8 +317,12 @@
                     document.getElementById('front-word').innerText = item.word;
                     document.getElementById('front-phonetic').innerText = item.phonetic || '';
                     document.getElementById('back-meaning').innerText = item.meaning;
-                    document.getElementById('progress').innerText = `Từ ${currentIndex + 1} / ${vocabulary.length}`;
-                }
+
+document.getElementById('back-example').innerText =
+    item.example || "";
+
+document.getElementById('progress').innerText =
+    `Từ ${currentIndex + 1} / ${vocabulary.length}`;
             }, 150);
         }
 
@@ -325,25 +339,41 @@
         }
 
         function parseTextToVocab(text) {
-            const lines = text.split('\n');
-            const parsed = [];
+    const lines = text.split('\n');
+    const parsed = [];
 
-            lines.forEach(line => {
-                const trimmed = line.trim();
-                if (!trimmed) return;
+    lines.forEach(line => {
+        const trimmed = line.trim();
+        if (!trimmed) return;
 
-                const parts = trimmed.split('-').map(p => p.trim());
-                if (parts.length >= 2) {
-                    if (parts.length === 2) {
-                        parsed.push({ word: parts[0], phonetic: '', meaning: parts[1] });
-                    } else {
-                        parsed.push({ word: parts[0], phonetic: parts[1], meaning: parts[2] });
-                    }
-                }
+        const parts = trimmed.split('-').map(p => p.trim());
+
+        if (parts.length >= 4) {
+            parsed.push({
+                word: parts[0],
+                phonetic: parts[1],
+                meaning: parts[2],
+                example: parts.slice(3).join(" - ")
             });
-
-            return parsed;
+        } else if (parts.length === 3) {
+            parsed.push({
+                word: parts[0],
+                phonetic: parts[1],
+                meaning: parts[2],
+                example: ""
+            });
+        } else if (parts.length === 2) {
+            parsed.push({
+                word: parts[0],
+                phonetic: "",
+                meaning: parts[1],
+                example: ""
+            });
         }
+    });
+
+    return parsed;
+}
 
         // Hàm xử lý khi người dùng click vào một chủ đề
         async function selectTopic(fileName, topicName) {
