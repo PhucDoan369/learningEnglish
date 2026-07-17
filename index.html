@@ -146,7 +146,7 @@
             utterance.lang = 'en-US';
             window.speechSynthesis.speak(utterance);
         }
-function searchImages() {
+async function searchImages() {
     if (vocabulary.length === 0) return;
     const word = vocabulary[currentIndex].word;
     
@@ -156,23 +156,36 @@ function searchImages() {
     const imgElement = document.getElementById('popup-image-display');
     imgElement.style.display = 'none';
     
-    // Hiển thị khung popup lên màn hình
+    // Hiển thị khung popup
     document.getElementById('image-modal').style.display = 'flex';
 
-    // Nạp ảnh tự động từ kho ảnh miễn phí Source Unsplash
-    imgElement.src = `https://source.unsplash.com/600x400/?${encodeURIComponent(word)}`;
+    try {
+        // Thay bằng API Key của bạn sau khi đăng ký miễn phí tại pixabay.com
+        const API_KEY = 'YOUR_PIXABAY_API_KEY'; 
+        const url = `https://pixabay.com/api/?key=${API_KEY}&q=${encodeURIComponent(word)}&image_type=photo&per_page=3&lang=en`;
+        
+        const response = await fetch(url);
+        const data = await response.json();
+        
+        if (data.hits && data.hits.length > 0) {
+            // Lấy ảnh đầu tiên (thường là ảnh chính xác nhất)
+            imgElement.src = data.hits[0].webformatURL;
+        } else {
+            // Nếu không tìm thấy ảnh nào, dùng ảnh mặc định "Không tìm thấy"
+            imgElement.src = 'https://placehold.co/600x400?text=No+Image+Found';
+        }
+    } catch (error) {
+        console.error("Lỗi khi tải ảnh từ API:", error);
+        // Dự phòng khi lỗi mạng
+        imgElement.src = `https://loremflickr.com/600/400/${encodeURIComponent(word)}`;
+    }
     
-    // Khi ảnh tải xong, ẩn chữ "Đang tải" và hiện ảnh lên
     imgElement.onload = function() {
         document.getElementById('image-loading').style.display = 'none';
         imgElement.style.display = 'block';
     };
-
-    // Dự phòng trường hợp nguồn ảnh Unsplash lỗi, chuyển sang nguồn LoremFlickr
-    imgElement.onerror = function() {
-        imgElement.src = `https://loremflickr.com/600/400/${encodeURIComponent(word)}`;
-    };
 }
+
 function openDonate() {
     document.getElementById('donate-modal').style.display = 'flex';
 }
