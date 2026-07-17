@@ -116,8 +116,18 @@
             <div class="controls">
                 <button onclick="prevWord()">⬅ Trước</button>
                 <button onclick="speakWord()">🔊 Phát âm</button>
-           <button onclick="searchImages()">🌄 Tìm ảnh liên tưởng</button> <button onclick="nextWord()">Tiếp ➡</button>
+           <button onclick="searchImages()" style="background: #4cbd7a; color: white;">🌄 Ảnh liên tưởng</button> <button onclick="nextWord()">Tiếp ➡</button>
             </div>
+            <!-- POPUP HÌNH ẢNH LIÊN TƯỞNG -->
+<div id="image-modal" style="display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 1000; justify-content: center; align-items: center;" onclick="if(event.target === this) this.style.display = 'none';">
+    <div style="background: white; padding: 20px; border-radius: 15px; position: relative; max-width: 90%; width: 400px; text-align: center;">
+        <span onclick="document.getElementById('image-modal').style.display = 'none'" style="position: absolute; top: 10px; right: 15px; cursor: pointer; font-size: 24px; font-weight: bold; color: #718096;">&times;</span>
+        <h3 id="image-modal-title">Hình ảnh liên tưởng</h3>
+        <div id="image-loading" style="margin-top: 20px; color: #718096;">Đang tìm ảnh...</div>
+        <img id="popup-image-display" src="" alt="Hình ảnh" style="display: none; width: 100%; max-height: 300px; object-fit: cover; border-radius: 10px; margin-top: 15px;">
+    </div>
+</div>
+
 <div id="image-results" style="margin-top: 15px; display: flex; gap: 10px; justify-content: center;"></div>
             <div class="progress" id="progress">0 / 0</div>
             <button class="btn-back-menu" onclick="backToMenu()">⬅ Quay lại Menu</button>
@@ -137,9 +147,31 @@
             window.speechSynthesis.speak(utterance);
         }
 function searchImages() {
+    if (vocabulary.length === 0) return;
     const word = vocabulary[currentIndex].word;
-    // Mở trang kết quả Google Image của từ đó trong tab mới
-    window.open(`https://www.google.com/search?tbm=isch&q=${encodeURIComponent(word)}`, '_blank');
+    
+    // Cấu hình giao diện popup trước khi tải
+    document.getElementById('image-modal-title').innerText = `Hình ảnh cho: "${word}"`;
+    document.getElementById('image-loading').style.display = 'block';
+    const imgElement = document.getElementById('popup-image-display');
+    imgElement.style.display = 'none';
+    
+    // Hiển thị khung popup lên màn hình
+    document.getElementById('image-modal').style.display = 'flex';
+
+    // Nạp ảnh tự động từ kho ảnh miễn phí Source Unsplash
+    imgElement.src = `https://source.unsplash.com/600x400/?${encodeURIComponent(word)}`;
+    
+    // Khi ảnh tải xong, ẩn chữ "Đang tải" và hiện ảnh lên
+    imgElement.onload = function() {
+        document.getElementById('image-loading').style.display = 'none';
+        imgElement.style.display = 'block';
+    };
+
+    // Dự phòng trường hợp nguồn ảnh Unsplash lỗi, chuyển sang nguồn LoremFlickr
+    imgElement.onerror = function() {
+        imgElement.src = `https://loremflickr.com/600/400/${encodeURIComponent(word)}`;
+    };
 }
 function openDonate() {
     document.getElementById('donate-modal').style.display = 'flex';
