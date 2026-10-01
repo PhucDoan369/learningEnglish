@@ -1,197 +1,197 @@
-Account + /əˈkaʊnt/ + Tài khoản + I opened a new savings account.
-Accounting + /əˈkaʊntɪŋ/ + Kế toán + She is studying corporate accounting.
-Accrual + /əˈkruːəl/ + Dồn tích + Accrual accounting is widely used.
-Amortization + /ˌæmətaɪˈzeɪʃn/ + Khấu hao dần + The amortization schedule is ready.
-Appreciation + /əˌpriːʃiˈeɪʃn/ + Sự tăng giá + Real estate saw rapid appreciation.
-Arbitrage + /ˈɑːrbɪtrɑːʒ/ + Kinh doanh chênh lệch giá + They made profit through arbitrage.
-Audit + /ˈɔːdɪt/ + Kiểm toán + The internal audit starts tomorrow.
-Balance + /ˈbæləns/ + Số dư + Check your account balance today.
-Bankruptcy + /ˈbæŋkrʌptsi/ + Phá sản + The company filed for bankruptcy.
-Benchmark + /ˈbentʃmɑːrk/ + Điểm chuẩn + This serves as a financial benchmark.
-Bond + /bɑːnd/ + Trái phiếu + He invested in government bonds.
-Broker + /ˈbroʊkər/ + Người môi giới + Contact your stock broker now.
-Capital + /ˈkæpɪtl/ + Vốn + They raised significant working capital.
-Cashflow + /ˈkæʃfloʊ/ + Dòng tiền + Positive cashflow is vital here.
-Collateral + /kəˈlætərəl/ + Tài sản thế chấp + Use the house as collateral.
-Commodity + /kəˈmɑːdəti/ + Hàng hóa cơ bản + Trading commodities requires great skill.
-Compound + /ˈkɑːmpaʊnd/ + Lãi kép + Compound interest grows your wealth.
-Consolidated + /kənˈsɑːlɪdeɪtɪd/ + Hợp nhất + Review the consolidated financial statements.
-Credit + /ˈkredɪt/ + Tín dụng + His credit score is excellent.
-Currency + /ˈkɜːrənsi/ + Tiền tệ + Monitor the global currency market.
-Debit + /ˈdebɪt/ + Ghi nợ + The debit was processed yesterday.
-Deficit + /ˈdefɪsɪt/ + Thâm hụt + The budget deficit is growing.
-Depreciation + /dɪˌpriːʃiˈeɪʃn/ + Khấu hao + The depreciation of the machine.
-Derivative + /dɪˈrɪvətɪv/ + Phái sinh + She trades in financial derivatives.
-Diversification + /daɪˌvɜːrsɪfɪˈkeɪʃn/ + Đa dạng hóa + Diversification reduces investment risk.
-Dividend + /ˈdɪvɪdend/ + Cổ tức + Shareholders receive a quarterly dividend.
-Earnings + /ˈɜːrnɪŋz/ + Thu nhập/Lợi nhuận + The company reported strong earnings.
-Economy + /ɪˈkɑːnəmi/ + Nền kinh tế + The economy is showing recovery.
-Equity + /ˈekwəti/ + Vốn cổ phần + They hold equity in the firm.
-Escrow + /ˈeskroʊ/ + Tài khoản ký quỹ + Keep the funds in escrow.
-Expenditure + /ɪkˈspendɪtʃər/ + Khoản chi tiêu + Manage your daily expenditure wisely.
-Fiscal + /ˈfɪskl/ + Thuộc tài chính + The fiscal year ends in December.
-Forecast + /ˈfɔːrkæst/ + Dự báo + Our profit forecast remains stable.
-Forex + /ˈfɔːreks/ + Thị trường ngoại hối + Forex trading is very volatile.
-Franchise + /ˈfræntʃaɪz/ + Nhượng quyền + They bought a food franchise.
-Futures + /ˈfjuːtʃərz/ + Hợp đồng tương lai + Investing in agricultural futures now.
-Gross + /ɡroʊs/ + Tổng/Gộp + Gross income is calculated monthly.
-Hedging + /ˈhedʒɪŋ/ + Phòng vệ tài chính + Hedging protects against market loss.
-Holding + /ˈhoʊldɪŋ/ + Khoản nắm giữ + Our holding in gold increased.
-Income + /ˈɪnkʌm/ + Thu nhập + He has a steady monthly income.
-Inflation + /ɪnˈfleɪʃn/ + Lạm phát + Inflation erodes your purchasing power.
-Insolvency + /ɪnˈsɑːlvənsi/ + Mất khả năng thanh toán + Avoid total business insolvency today.
-Interest + /ˈɪntrəst/ + Lãi suất + The bank raised interest rates.
-Investment + /ɪnˈvestmənt/ + Đầu tư + This is a low-risk investment.
-IPO + /ˌaɪ piː ˈoʊ/ + Chào bán cổ phiếu lần đầu + The IPO was very successful.
-Issuer + /ˈɪʃuːər/ + Tổ chức phát hành + The issuer must disclose data.
-Joint-stock + /dʒɔɪnt stɑːk/ + Cổ phần + It is a joint-stock company.
-Ledger + /ˈledʒər/ + Sổ cái + Update the general ledger daily.
-Leverage + /ˈlevərɪdʒ/ + Đòn bẩy + High leverage increases your risk.
-Liability + /ˌlaɪəˈbɪləti/ + Nợ phải trả + Current liabilities are listed below.
-Liquidity + /lɪˈkwɪdəti/ + Tính thanh khoản + Liquidity is crucial for trade.
-Margin + /ˈmɑːrdʒɪn/ + Biên lợi nhuận + The profit margin is decreasing.
-Market + /ˈmɑːrkɪt/ + Thị trường + The stock market is bullish.
-Maturity + /məˈtʃʊrəti/ + Thời hạn đáo hạn + The bond reaches maturity soon.
-Merger + /ˈmɜːrdʒər/ + Sáp nhập + The merger created a giant.
-Monetary + /ˈmɑːnɪteri/ + Thuộc tiền tệ + Monetary policy was tightened recently.
-Mortgage + /ˈmɔːrɡɪdʒ/ + Thế chấp + He is paying a home mortgage.
-Net + /net/ + Ròng + Calculate your net profit margin.
-Nominal + /ˈnɑːmɪnl/ + Danh nghĩa + The nominal value is different.
-Obligation + /ˌɑːblɪˈɡeɪʃn/ + Nghĩa vụ tài chính + Meet your debt obligations promptly.
-Option + /ˈɑːpʃn/ + Quyền chọn + He bought a stock option.
-Overdraft + /ˈoʊvərdræft/ + Thấu chi + Your account has an overdraft.
-Overhead + /ˈoʊvərhed/ + Chi phí vận hành + Cut overhead to boost profit.
-Par + /pɑːr/ + Mệnh giá + The bond trades at par.
-Parity + /ˈpærəti/ + Sự ngang giá + The currencies reached near parity.
-Pension + /ˈpenʃn/ + Lương hưu + Save early for your pension.
-Portfolio + /pɔːrtˈfoʊlioʊ/ + Danh mục + Diversify your investment portfolio now.
-Premium + /ˈpriːmiəm/ + Phí bảo hiểm/Phần bù + The insurance premium is due.
-Principal + /ˈprɪnsəpl/ + Tiền gốc + Pay off the principal amount.
-Profit + /ˈprɑːfɪt/ + Lợi nhuận + Aim for a higher profit.
-Prospectus + /prəˈspektəs/ + Bản cáo bạch + Read the prospectus before investing.
-Provision + /prəˈvɪʒn/ + Dự phòng + Make a bad debt provision.
-Quota + /ˈkwoʊtə/ + Hạn ngạch + They exceeded their export quota.
-Rate + /reɪt/ + Tỷ giá/Lãi suất + The exchange rate is stable.
-Ratio + /ˈreɪʃioʊ/ + Tỷ lệ + Check the current ratio here.
-Realized + /ˈriːəlaɪzd/ + Đã hiện thực hóa + He realized his capital gains.
-Recession + /rɪˈseʃn/ + Suy thoái + The economy entered a recession.
-Refinance + /ˌriːfaɪˈnæns/ + Tái tài trợ + We decided to refinance debt.
-Remittance + /rɪˈmɪtns/ + Tiền gửi về + International remittance is very fast.
-Reserve + /rɪˈzɜːrv/ + Dự trữ + The central bank holds reserves.
-Retained + /rɪˈteɪnd/ + Lợi nhuận giữ lại + Retained earnings were reinvested wisely.
-Return + /rɪˈtɜːrn/ + Lợi tức + Expect a good return here.
-Revenue + /ˈrevənuː/ + Doanh thu + Total revenue increased by ten.
-Risk + /rɪsk/ + Rủi ro + Manage financial risk very carefully.
-Securities + /sɪˈkjʊrətiz/ + Chứng khoán + Trade securities on the exchange.
-Settlement + /ˈsetlmənt/ + Thanh toán + The settlement date is tomorrow.
-Solvency + /ˈsɑːlvənsi/ + Khả năng chi trả + Check the firm's overall solvency.
-Speculation + /ˌspekjuˈleɪʃn/ + Đầu cơ + Avoid risky market speculation now.
-Spread + /spred/ + Chênh lệch giá + The bid-ask spread is wide.
-Stagflation + /ˌstæɡˈfleɪʃn/ + Lạm phát đình trệ + The country faces severe stagflation.
-Stake + /steɪk/ + Cổ phần/Phần vốn + He holds a large stake.
-Statute + /ˈstætʃuːt/ + Đạo luật + Follow the financial reporting statute.
-Stock + /stɑːk/ + Cổ phiếu + He buys stocks for long-term.
-Subsidy + /ˈsʌbsɪdi/ + Trợ cấp + The government provides agricultural subsidy.
-Surplus + /ˈsɜːrpləs/ + Thặng dư + The budget shows a surplus.
-Swap + /swɑːp/ + Hoán đổi + They arranged a currency swap.
-Synergy + /ˈsɪnərdʒi/ + Sự cộng hưởng + The merger provides great synergy.
-Tender + /ˈtendər/ + Đấu thầu + Submit your financial tender today.
-Transaction + /trænˈzækʃn/ + Giao dịch + The transaction was completed online.
-Treasury + /ˈtreʒəri/ + Ngân khố + The treasury issued new bonds.
-Trust + /trʌst/ + Quỹ tín thác + He set up a trust.
-Turnover + /ˈtɜːrnoʊvər/ + Doanh số luân chuyển + Inventory turnover is very high.
-Underwriting + /ˈʌndərraɪtɪŋ/ + Bảo lãnh phát hành + The bank manages the underwriting.
-Valuation + /ˌvæljuˈeɪʃn/ + Định giá + The valuation seems quite fair.
-Volatility + /ˌvɑːləˈtɪləti/ + Độ biến động + Market volatility creates big risks.
-Warrant + /ˈwɔːrənt/ + Chứng quyền + The warrant gives buying rights.
-Wholesale + /ˈhoʊlseɪl/ + Bán sỉ + Buy in bulk at wholesale.
-Withdrawal + /wɪðˈdrɔːəl/ + Sự rút tiền + A large withdrawal was made.
-Yield + /jiːld/ + Lợi suất + The bond yields five percent.
-Accountant + /əˈkaʊntənt/ + Kế toán + My accountant files the taxes.
-Adjustment + /əˈdʒʌstmənt/ + Sự điều chỉnh + Make a price adjustment now.
-Allowance + /əˈlaʊəns/ + Khoản trợ cấp + Get a daily travel allowance.
-Appraisal + /əˈpreɪzl/ + Sự thẩm định + The property appraisal is done.
-Assessment + /əˈsesmənt/ + Sự đánh giá + Tax assessment was too high.
-Assignment + /əˈsaɪnmənt/ + Chuyển nhượng + Debt assignment is legally binding.
-Autonomy + /ɔːˈtɑːnəmi/ + Qự tự chủ + Financial autonomy is very important.
-Backlog + /ˈbæklɔːɡ/ + Đơn hàng tồn đọng + Clear the financial reporting backlog.
-Barter + /ˈbɑːrtər/ + Trao đổi hàng hóa + They used a barter system.
-Bidding + /ˈbɪdɪŋ/ + Đấu thầu + The bidding process started early.
-Bookkeeping + /ˈbʊkkiːpɪŋ/ + Ghi sổ sách + Proper bookkeeping is essential daily.
-Bourse + /bʊrs/ + Sở giao dịch chứng khoán + The bourse remained very active.
-Capitalization + /ˌkæpɪtələˈzeɪʃn/ + Vốn hóa + Market capitalization is growing fast.
-Cashier + /kæˈʃɪr/ + Nhân viên thu ngân + Hand the cash to cashier.
-Certificate + /sərˈtɪfɪkət/ + Chứng chỉ + A deposit certificate is safe.
-Clearing + /ˈklɪrɪŋ/ + Bù trừ + The clearing house processes trades.
-Collusion + /kəˈluːʒn/ + Thông đồng + They were fined for collusion.
-Compensation + /ˌkɑːmpenˈseɪʃn/ + Bồi thường + Receive compensation for the loss.
-Compliance + /kəmˈplaɪəns/ + Sự tuân thủ + Ensure total regulatory compliance daily.
-Concession + /kənˈseʃn/ + Sự nhượng bộ + They granted a tax concession.
-Consignment + /kənˈsaɪnmənt/ + Ký gửi + The goods are on consignment.
-Contribution + /ˌkɑːntrɪˈbjuːʃn/ + Đóng góp + Make a monthly pension contribution.
-Conversion + /kənˈvɜːrʒn/ + Chuyển đổi + Currency conversion fees apply here.
-Corporate + /ˈkɔːrpərət/ + Doanh nghiệp + He manages corporate tax planning.
-Correspondent + /ˌkɔːrəˈspɑːndənt/ + Ngân hàng đại lý + Work with our correspondent bank.
-Costing + /ˈkɔːstɪŋ/ + Chi phí tính toán + Accurate costing is vital today.
-Covenant + /ˈkʌvənənt/ + Giao ước + The debt covenant was broken.
-Cross-border + /krɔːs ˈbɔːrdər/ + Xuyên biên giới + Cross-border payments are fast.
-Custodian + /kʌˈstoʊdiən/ + Người lưu ký + The bank acts as custodian.
-Debenture + /dɪˈbentʃər/ + Trái phiếu không đảm bảo + The debenture pays good interest.
-Default + /dɪˈfɔːlt/ + Vỡ nợ + He defaulted on his loan.
-Deflation + /dɪˈfleɪʃn/ + Giảm phát + Deflation can slow down growth.
-Delisting + /diːˈlɪstɪŋ/ + Hủy niêm yết + The stock faces possible delisting.
-Denomination + /dɪˌnɑːmɪˈneɪʃn/ + Mệnh giá tiền + Choose your preferred note denomination.
-Depletion + /dɪˈpliːʃn/ + Sự cạn kiệt + Asset depletion affects the value.
-Deposit + /dɪˈpɑːzɪt/ + Tiền gửi + I made a large deposit.
-Deregulation + /ˌdiːˌreɡjuˈleɪʃn/ + Bãi bỏ quy định + Deregulation sparked new market growth.
-Designation + /ˌdezɪɡˈneɪʃn/ + Sự chỉ định + The funds have specific designation.
-Directorship + /dəˈrektərʃɪp/ + Vị trí giám đốc + He accepted the financial directorship.
-Discount + /ˈdɪskaʊnt/ + Chiết khấu + Get a cash payment discount.
-Disbursement + /dɪsˈbɜːrsmənt/ + Sự giải ngân + Wait for the loan disbursement.
-Disclosure + /dɪsˈkloʊʒər/ + Sự công bố + Financial disclosure is required by law.
-Discounting + /ˈdɪskaʊntɪŋ/ + Chiết khấu + Bill discounting helps with cash.
-Distress + /dɪˈstres/ + Khó khăn tài chính + Sell assets in financial distress.
-Earnings + /ˈɜːrnɪŋz/ + Lợi nhuận ròng + Our quarterly earnings are solid.
-EBIT + /iː biː aɪ tiː/ + Lợi nhuận trước thuế + EBIT shows operating performance well.
-Efficiency + /ɪˈfɪʃnsi/ + Hiệu quả + Capital efficiency is our goal.
-Eligibility + /ˌelɪdʒəˈbɪləti/ + Sự đủ điều kiện + Check your loan eligibility online.
-Embezzlement + /ɪmˈbezlmənt/ + Tội tham ô + He was jailed for embezzlement.
-Endorsement + /ɪnˈdɔːrsmənt/ + Sự xác nhận/ký hậu + The check requires your endorsement.
-Enterprise + /ˈentərpraɪz/ + Doanh nghiệp + Small enterprise needs financial support.
-Entity + /ˈentəti/ + Thực thể + The offshore entity is registered.
-Equity + /ˈekwəti/ + Vốn tự có + Build up your home equity.
-Escrow + /ˈeskroʊ/ + Ký quỹ + The money remains in escrow.
-Estimate + /ˈestɪmət/ + Dự toán + Provide a cost estimate today.
-Examination + /ɪɡˌzæmɪˈneɪʃn/ + Sự kiểm tra + The tax examination is thorough.
-Excess + /ˈekses/ + Số dư thừa + Excess cash was invested well.
-Exchange + /ɪksˈtʃeɪndʒ/ + Trao đổi + Stock exchange is very busy.
-Exemption + /ɪɡˈzempʃn/ + Sự miễn trừ + Claim your annual tax exemption.
-Expenditure + /ɪkˈspendɪtʃər/ + Khoản chi + Control your company's capital expenditure.
-Exposure + /ɪkˈspoʊʒər/ + Mức độ rủi ro + Minimize your market risk exposure.
-Face + /feɪs/ + Mệnh giá + The face value is high.
-Fee + /fiː/ + Phí + Pay the service fee now.
-Fiduciary + /fɪˈduːʃieri/ + Uỷ thác + Act with high fiduciary duty.
-Financing + /ˈfaɪnənsɪŋ/ + Sự tài trợ + Secure the best project financing.
-Float + /floʊt/ + Phát hành lần đầu + They decided to float shares.
-Foreclosure + /fɔːrˈkloʊʒər/ + Tịch biên + Avoid bank foreclosure at all.
-Foundation + /faʊnˈdeɪʃn/ + Quỹ/Nền tảng + The financial foundation is solid.
-Franchisee + /ˌfræntʃaɪˈziː/ + Người nhận nhượng quyền + The franchisee pays monthly fees.
-Gain + /ɡeɪn/ + Lợi nhuận + Realize your short-term capital gain.
-Gearing + /ˈɡɪrɪŋ/ + Tỷ lệ nợ + High gearing means high risk.
-Grant + /ɡrænt/ + Khoản tài trợ + They received a research grant.
-Growth + /ɡroʊθ/ + Sự tăng trưởng + Steady growth is our aim.
-Guarantor + /ˈɡærəntɔːr/ + Người bảo lãnh + You need a reliable guarantor.
-Hard + /hɑːrd/ + Cứng (tiền mạnh) + Hard currency is always preferred.
-Holding + /ˈhoʊldɪŋ/ + Sở hữu + Their stock holding is massive.
-Honor + /ˈɑːnər/ + Thanh toán/Trân trọng + The bank will honor payment.
-Hypothecation + /haɪˌpɑːθɪˈkeɪʃn/ + Thế chấp tài sản + Asset hypothecation secures the debt.
-Impact + /ˈɪmpækt/ + Tác động + Inflation impacts our daily budget.
-Incentive + /ɪnˈsentɪv/ + Sự khuyến khích + Offer a tax investment incentive.
-Indemnity + /ɪnˈdemnəti/ + Sự bồi thường + The contract includes indemnity clause.
-Index + /ˈɪndeks/ + Chỉ số + The market index rose today.
-Installment + /ɪnˈstɔːlmənt/ + Trả góp + Pay the debt in installments.
-Intangible + /ɪnˈtændʒəbl/ + Vô hình + Goodwill is an intangible asset.
-Internal + /ɪnˈtɜːrnl/ + Nội bộ + Internal control prevents financial fraud.
-Investment + /ɪnˈvestmənt/ + Khoản đầu tư + This investment pays high returns.
-Invoice + /ˈɪnvɔɪs/ + Hóa đơn + Please settle the unpaid invoice.
-Issue + /ˈɪʃuː/ + Phát hành + They will issue new shares.
+Account * /əˈkaʊnt/ * Tài khoản * I opened a new savings account.
+Accounting * /əˈkaʊntɪŋ/ * Kế toán * She is studying corporate accounting.
+Accrual * /əˈkruːəl/ * Dồn tích * Accrual accounting is widely used.
+Amortization * /ˌæmətaɪˈzeɪʃn/ * Khấu hao dần * The amortization schedule is ready.
+Appreciation * /əˌpriːʃiˈeɪʃn/ * Sự tăng giá * Real estate saw rapid appreciation.
+Arbitrage * /ˈɑːrbɪtrɑːʒ/ * Kinh doanh chênh lệch giá * They made profit through arbitrage.
+Audit * /ˈɔːdɪt/ * Kiểm toán * The internal audit starts tomorrow.
+Balance * /ˈbæləns/ * Số dư * Check your account balance today.
+Bankruptcy * /ˈbæŋkrʌptsi/ * Phá sản * The company filed for bankruptcy.
+Benchmark * /ˈbentʃmɑːrk/ * Điểm chuẩn * This serves as a financial benchmark.
+Bond * /bɑːnd/ * Trái phiếu * He invested in government bonds.
+Broker * /ˈbroʊkər/ * Người môi giới * Contact your stock broker now.
+Capital * /ˈkæpɪtl/ * Vốn * They raised significant working capital.
+Cashflow * /ˈkæʃfloʊ/ * Dòng tiền * Positive cashflow is vital here.
+Collateral * /kəˈlætərəl/ * Tài sản thế chấp * Use the house as collateral.
+Commodity * /kəˈmɑːdəti/ * Hàng hóa cơ bản * Trading commodities requires great skill.
+Compound * /ˈkɑːmpaʊnd/ * Lãi kép * Compound interest grows your wealth.
+Consolidated * /kənˈsɑːlɪdeɪtɪd/ * Hợp nhất * Review the consolidated financial statements.
+Credit * /ˈkredɪt/ * Tín dụng * His credit score is excellent.
+Currency * /ˈkɜːrənsi/ * Tiền tệ * Monitor the global currency market.
+Debit * /ˈdebɪt/ * Ghi nợ * The debit was processed yesterday.
+Deficit * /ˈdefɪsɪt/ * Thâm hụt * The budget deficit is growing.
+Depreciation * /dɪˌpriːʃiˈeɪʃn/ * Khấu hao * The depreciation of the machine.
+Derivative * /dɪˈrɪvətɪv/ * Phái sinh * She trades in financial derivatives.
+Diversification * /daɪˌvɜːrsɪfɪˈkeɪʃn/ * Đa dạng hóa * Diversification reduces investment risk.
+Dividend * /ˈdɪvɪdend/ * Cổ tức * Shareholders receive a quarterly dividend.
+Earnings * /ˈɜːrnɪŋz/ * Thu nhập/Lợi nhuận * The company reported strong earnings.
+Economy * /ɪˈkɑːnəmi/ * Nền kinh tế * The economy is showing recovery.
+Equity * /ˈekwəti/ * Vốn cổ phần * They hold equity in the firm.
+Escrow * /ˈeskroʊ/ * Tài khoản ký quỹ * Keep the funds in escrow.
+Expenditure * /ɪkˈspendɪtʃər/ * Khoản chi tiêu * Manage your daily expenditure wisely.
+Fiscal * /ˈfɪskl/ * Thuộc tài chính * The fiscal year ends in December.
+Forecast * /ˈfɔːrkæst/ * Dự báo * Our profit forecast remains stable.
+Forex * /ˈfɔːreks/ * Thị trường ngoại hối * Forex trading is very volatile.
+Franchise * /ˈfræntʃaɪz/ * Nhượng quyền * They bought a food franchise.
+Futures * /ˈfjuːtʃərz/ * Hợp đồng tương lai * Investing in agricultural futures now.
+Gross * /ɡroʊs/ * Tổng/Gộp * Gross income is calculated monthly.
+Hedging * /ˈhedʒɪŋ/ * Phòng vệ tài chính * Hedging protects against market loss.
+Holding * /ˈhoʊldɪŋ/ * Khoản nắm giữ * Our holding in gold increased.
+Income * /ˈɪnkʌm/ * Thu nhập * He has a steady monthly income.
+Inflation * /ɪnˈfleɪʃn/ * Lạm phát * Inflation erodes your purchasing power.
+Insolvency * /ɪnˈsɑːlvənsi/ * Mất khả năng thanh toán * Avoid total business insolvency today.
+Interest * /ˈɪntrəst/ * Lãi suất * The bank raised interest rates.
+Investment * /ɪnˈvestmənt/ * Đầu tư * This is a low-risk investment.
+IPO * /ˌaɪ piː ˈoʊ/ * Chào bán cổ phiếu lần đầu * The IPO was very successful.
+Issuer * /ˈɪʃuːər/ * Tổ chức phát hành * The issuer must disclose data.
+Joint-stock * /dʒɔɪnt stɑːk/ * Cổ phần * It is a joint-stock company.
+Ledger * /ˈledʒər/ * Sổ cái * Update the general ledger daily.
+Leverage * /ˈlevərɪdʒ/ * Đòn bẩy * High leverage increases your risk.
+Liability * /ˌlaɪəˈbɪləti/ * Nợ phải trả * Current liabilities are listed below.
+Liquidity * /lɪˈkwɪdəti/ * Tính thanh khoản * Liquidity is crucial for trade.
+Margin * /ˈmɑːrdʒɪn/ * Biên lợi nhuận * The profit margin is decreasing.
+Market * /ˈmɑːrkɪt/ * Thị trường * The stock market is bullish.
+Maturity * /məˈtʃʊrəti/ * Thời hạn đáo hạn * The bond reaches maturity soon.
+Merger * /ˈmɜːrdʒər/ * Sáp nhập * The merger created a giant.
+Monetary * /ˈmɑːnɪteri/ * Thuộc tiền tệ * Monetary policy was tightened recently.
+Mortgage * /ˈmɔːrɡɪdʒ/ * Thế chấp * He is paying a home mortgage.
+Net * /net/ * Ròng * Calculate your net profit margin.
+Nominal * /ˈnɑːmɪnl/ * Danh nghĩa * The nominal value is different.
+Obligation * /ˌɑːblɪˈɡeɪʃn/ * Nghĩa vụ tài chính * Meet your debt obligations promptly.
+Option * /ˈɑːpʃn/ * Quyền chọn * He bought a stock option.
+Overdraft * /ˈoʊvərdræft/ * Thấu chi * Your account has an overdraft.
+Overhead * /ˈoʊvərhed/ * Chi phí vận hành * Cut overhead to boost profit.
+Par * /pɑːr/ * Mệnh giá * The bond trades at par.
+Parity * /ˈpærəti/ * Sự ngang giá * The currencies reached near parity.
+Pension * /ˈpenʃn/ * Lương hưu * Save early for your pension.
+Portfolio * /pɔːrtˈfoʊlioʊ/ * Danh mục * Diversify your investment portfolio now.
+Premium * /ˈpriːmiəm/ * Phí bảo hiểm/Phần bù * The insurance premium is due.
+Principal * /ˈprɪnsəpl/ * Tiền gốc * Pay off the principal amount.
+Profit * /ˈprɑːfɪt/ * Lợi nhuận * Aim for a higher profit.
+Prospectus * /prəˈspektəs/ * Bản cáo bạch * Read the prospectus before investing.
+Provision * /prəˈvɪʒn/ * Dự phòng * Make a bad debt provision.
+Quota * /ˈkwoʊtə/ * Hạn ngạch * They exceeded their export quota.
+Rate * /reɪt/ * Tỷ giá/Lãi suất * The exchange rate is stable.
+Ratio * /ˈreɪʃioʊ/ * Tỷ lệ * Check the current ratio here.
+Realized * /ˈriːəlaɪzd/ * Đã hiện thực hóa * He realized his capital gains.
+Recession * /rɪˈseʃn/ * Suy thoái * The economy entered a recession.
+Refinance * /ˌriːfaɪˈnæns/ * Tái tài trợ * We decided to refinance debt.
+Remittance * /rɪˈmɪtns/ * Tiền gửi về * International remittance is very fast.
+Reserve * /rɪˈzɜːrv/ * Dự trữ * The central bank holds reserves.
+Retained * /rɪˈteɪnd/ * Lợi nhuận giữ lại * Retained earnings were reinvested wisely.
+Return * /rɪˈtɜːrn/ * Lợi tức * Expect a good return here.
+Revenue * /ˈrevənuː/ * Doanh thu * Total revenue increased by ten.
+Risk * /rɪsk/ * Rủi ro * Manage financial risk very carefully.
+Securities * /sɪˈkjʊrətiz/ * Chứng khoán * Trade securities on the exchange.
+Settlement * /ˈsetlmənt/ * Thanh toán * The settlement date is tomorrow.
+Solvency * /ˈsɑːlvənsi/ * Khả năng chi trả * Check the firm's overall solvency.
+Speculation * /ˌspekjuˈleɪʃn/ * Đầu cơ * Avoid risky market speculation now.
+Spread * /spred/ * Chênh lệch giá * The bid-ask spread is wide.
+Stagflation * /ˌstæɡˈfleɪʃn/ * Lạm phát đình trệ * The country faces severe stagflation.
+Stake * /steɪk/ * Cổ phần/Phần vốn * He holds a large stake.
+Statute * /ˈstætʃuːt/ * Đạo luật * Follow the financial reporting statute.
+Stock * /stɑːk/ * Cổ phiếu * He buys stocks for long-term.
+Subsidy * /ˈsʌbsɪdi/ * Trợ cấp * The government provides agricultural subsidy.
+Surplus * /ˈsɜːrpləs/ * Thặng dư * The budget shows a surplus.
+Swap * /swɑːp/ * Hoán đổi * They arranged a currency swap.
+Synergy * /ˈsɪnərdʒi/ * Sự cộng hưởng * The merger provides great synergy.
+Tender * /ˈtendər/ * Đấu thầu * Submit your financial tender today.
+Transaction * /trænˈzækʃn/ * Giao dịch * The transaction was completed online.
+Treasury * /ˈtreʒəri/ * Ngân khố * The treasury issued new bonds.
+Trust * /trʌst/ * Quỹ tín thác * He set up a trust.
+Turnover * /ˈtɜːrnoʊvər/ * Doanh số luân chuyển * Inventory turnover is very high.
+Underwriting * /ˈʌndərraɪtɪŋ/ * Bảo lãnh phát hành * The bank manages the underwriting.
+Valuation * /ˌvæljuˈeɪʃn/ * Định giá * The valuation seems quite fair.
+Volatility * /ˌvɑːləˈtɪləti/ * Độ biến động * Market volatility creates big risks.
+Warrant * /ˈwɔːrənt/ * Chứng quyền * The warrant gives buying rights.
+Wholesale * /ˈhoʊlseɪl/ * Bán sỉ * Buy in bulk at wholesale.
+Withdrawal * /wɪðˈdrɔːəl/ * Sự rút tiền * A large withdrawal was made.
+Yield * /jiːld/ * Lợi suất * The bond yields five percent.
+Accountant * /əˈkaʊntənt/ * Kế toán * My accountant files the taxes.
+Adjustment * /əˈdʒʌstmənt/ * Sự điều chỉnh * Make a price adjustment now.
+Allowance * /əˈlaʊəns/ * Khoản trợ cấp * Get a daily travel allowance.
+Appraisal * /əˈpreɪzl/ * Sự thẩm định * The property appraisal is done.
+Assessment * /əˈsesmənt/ * Sự đánh giá * Tax assessment was too high.
+Assignment * /əˈsaɪnmənt/ * Chuyển nhượng * Debt assignment is legally binding.
+Autonomy * /ɔːˈtɑːnəmi/ * Qự tự chủ * Financial autonomy is very important.
+Backlog * /ˈbæklɔːɡ/ * Đơn hàng tồn đọng * Clear the financial reporting backlog.
+Barter * /ˈbɑːrtər/ * Trao đổi hàng hóa * They used a barter system.
+Bidding * /ˈbɪdɪŋ/ * Đấu thầu * The bidding process started early.
+Bookkeeping * /ˈbʊkkiːpɪŋ/ * Ghi sổ sách * Proper bookkeeping is essential daily.
+Bourse * /bʊrs/ * Sở giao dịch chứng khoán * The bourse remained very active.
+Capitalization * /ˌkæpɪtələˈzeɪʃn/ * Vốn hóa * Market capitalization is growing fast.
+Cashier * /kæˈʃɪr/ * Nhân viên thu ngân * Hand the cash to cashier.
+Certificate * /sərˈtɪfɪkət/ * Chứng chỉ * A deposit certificate is safe.
+Clearing * /ˈklɪrɪŋ/ * Bù trừ * The clearing house processes trades.
+Collusion * /kəˈluːʒn/ * Thông đồng * They were fined for collusion.
+Compensation * /ˌkɑːmpenˈseɪʃn/ * Bồi thường * Receive compensation for the loss.
+Compliance * /kəmˈplaɪəns/ * Sự tuân thủ * Ensure total regulatory compliance daily.
+Concession * /kənˈseʃn/ * Sự nhượng bộ * They granted a tax concession.
+Consignment * /kənˈsaɪnmənt/ * Ký gửi * The goods are on consignment.
+Contribution * /ˌkɑːntrɪˈbjuːʃn/ * Đóng góp * Make a monthly pension contribution.
+Conversion * /kənˈvɜːrʒn/ * Chuyển đổi * Currency conversion fees apply here.
+Corporate * /ˈkɔːrpərət/ * Doanh nghiệp * He manages corporate tax planning.
+Correspondent * /ˌkɔːrəˈspɑːndənt/ * Ngân hàng đại lý * Work with our correspondent bank.
+Costing * /ˈkɔːstɪŋ/ * Chi phí tính toán * Accurate costing is vital today.
+Covenant * /ˈkʌvənənt/ * Giao ước * The debt covenant was broken.
+Cross-border * /krɔːs ˈbɔːrdər/ * Xuyên biên giới * Cross-border payments are fast.
+Custodian * /kʌˈstoʊdiən/ * Người lưu ký * The bank acts as custodian.
+Debenture * /dɪˈbentʃər/ * Trái phiếu không đảm bảo * The debenture pays good interest.
+Default * /dɪˈfɔːlt/ * Vỡ nợ * He defaulted on his loan.
+Deflation * /dɪˈfleɪʃn/ * Giảm phát * Deflation can slow down growth.
+Delisting * /diːˈlɪstɪŋ/ * Hủy niêm yết * The stock faces possible delisting.
+Denomination * /dɪˌnɑːmɪˈneɪʃn/ * Mệnh giá tiền * Choose your preferred note denomination.
+Depletion * /dɪˈpliːʃn/ * Sự cạn kiệt * Asset depletion affects the value.
+Deposit * /dɪˈpɑːzɪt/ * Tiền gửi * I made a large deposit.
+Deregulation * /ˌdiːˌreɡjuˈleɪʃn/ * Bãi bỏ quy định * Deregulation sparked new market growth.
+Designation * /ˌdezɪɡˈneɪʃn/ * Sự chỉ định * The funds have specific designation.
+Directorship * /dəˈrektərʃɪp/ * Vị trí giám đốc * He accepted the financial directorship.
+Discount * /ˈdɪskaʊnt/ * Chiết khấu * Get a cash payment discount.
+Disbursement * /dɪsˈbɜːrsmənt/ * Sự giải ngân * Wait for the loan disbursement.
+Disclosure * /dɪsˈkloʊʒər/ * Sự công bố * Financial disclosure is required by law.
+Discounting * /ˈdɪskaʊntɪŋ/ * Chiết khấu * Bill discounting helps with cash.
+Distress * /dɪˈstres/ * Khó khăn tài chính * Sell assets in financial distress.
+Earnings * /ˈɜːrnɪŋz/ * Lợi nhuận ròng * Our quarterly earnings are solid.
+EBIT * /iː biː aɪ tiː/ * Lợi nhuận trước thuế * EBIT shows operating performance well.
+Efficiency * /ɪˈfɪʃnsi/ * Hiệu quả * Capital efficiency is our goal.
+Eligibility * /ˌelɪdʒəˈbɪləti/ * Sự đủ điều kiện * Check your loan eligibility online.
+Embezzlement * /ɪmˈbezlmənt/ * Tội tham ô * He was jailed for embezzlement.
+Endorsement * /ɪnˈdɔːrsmənt/ * Sự xác nhận/ký hậu * The check requires your endorsement.
+Enterprise * /ˈentərpraɪz/ * Doanh nghiệp * Small enterprise needs financial support.
+Entity * /ˈentəti/ * Thực thể * The offshore entity is registered.
+Equity * /ˈekwəti/ * Vốn tự có * Build up your home equity.
+Escrow * /ˈeskroʊ/ * Ký quỹ * The money remains in escrow.
+Estimate * /ˈestɪmət/ * Dự toán * Provide a cost estimate today.
+Examination * /ɪɡˌzæmɪˈneɪʃn/ * Sự kiểm tra * The tax examination is thorough.
+Excess * /ˈekses/ * Số dư thừa * Excess cash was invested well.
+Exchange * /ɪksˈtʃeɪndʒ/ * Trao đổi * Stock exchange is very busy.
+Exemption * /ɪɡˈzempʃn/ * Sự miễn trừ * Claim your annual tax exemption.
+Expenditure * /ɪkˈspendɪtʃər/ * Khoản chi * Control your company's capital expenditure.
+Exposure * /ɪkˈspoʊʒər/ * Mức độ rủi ro * Minimize your market risk exposure.
+Face * /feɪs/ * Mệnh giá * The face value is high.
+Fee * /fiː/ * Phí * Pay the service fee now.
+Fiduciary * /fɪˈduːʃieri/ * Uỷ thác * Act with high fiduciary duty.
+Financing * /ˈfaɪnənsɪŋ/ * Sự tài trợ * Secure the best project financing.
+Float * /floʊt/ * Phát hành lần đầu * They decided to float shares.
+Foreclosure * /fɔːrˈkloʊʒər/ * Tịch biên * Avoid bank foreclosure at all.
+Foundation * /faʊnˈdeɪʃn/ * Quỹ/Nền tảng * The financial foundation is solid.
+Franchisee * /ˌfræntʃaɪˈziː/ * Người nhận nhượng quyền * The franchisee pays monthly fees.
+Gain * /ɡeɪn/ * Lợi nhuận * Realize your short-term capital gain.
+Gearing * /ˈɡɪrɪŋ/ * Tỷ lệ nợ * High gearing means high risk.
+Grant * /ɡrænt/ * Khoản tài trợ * They received a research grant.
+Growth * /ɡroʊθ/ * Sự tăng trưởng * Steady growth is our aim.
+Guarantor * /ˈɡærəntɔːr/ * Người bảo lãnh * You need a reliable guarantor.
+Hard * /hɑːrd/ * Cứng (tiền mạnh) * Hard currency is always preferred.
+Holding * /ˈhoʊldɪŋ/ * Sở hữu * Their stock holding is massive.
+Honor * /ˈɑːnər/ * Thanh toán/Trân trọng * The bank will honor payment.
+Hypothecation * /haɪˌpɑːθɪˈkeɪʃn/ * Thế chấp tài sản * Asset hypothecation secures the debt.
+Impact * /ˈɪmpækt/ * Tác động * Inflation impacts our daily budget.
+Incentive * /ɪnˈsentɪv/ * Sự khuyến khích * Offer a tax investment incentive.
+Indemnity * /ɪnˈdemnəti/ * Sự bồi thường * The contract includes indemnity clause.
+Index * /ˈɪndeks/ * Chỉ số * The market index rose today.
+Installment * /ɪnˈstɔːlmənt/ * Trả góp * Pay the debt in installments.
+Intangible * /ɪnˈtændʒəbl/ * Vô hình * Goodwill is an intangible asset.
+Internal * /ɪnˈtɜːrnl/ * Nội bộ * Internal control prevents financial fraud.
+Investment * /ɪnˈvestmənt/ * Khoản đầu tư * This investment pays high returns.
+Invoice * /ˈɪnvɔɪs/ * Hóa đơn * Please settle the unpaid invoice.
+Issue * /ˈɪʃuː/ * Phát hành * They will issue new shares.

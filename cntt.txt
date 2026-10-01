@@ -1,179 +1,179 @@
-Computer + /kəmˈpjuːtər/ + Máy tính + I bought a new powerful computer.
-Software + /ˈsɔːftwer/ + Phần mềm + Install the software before running.
-Hardware + /ˈhɑːrdwer/ + Phần cứng + The hardware needs to be upgraded.
-Network + /ˈnetwɜːrk/ + Mạng lưới + The company has a secure network.
-Internet + /ˈɪntərnet/ + Internet + The internet connection is slow.
-Programming + /ˈproʊɡræmɪŋ/ + Lập trình + He is learning computer programming.
-Database + /ˈdeɪtəbeɪs/ + Cơ sở dữ liệu + The database stores all user info.
-Server + /ˈsɜːrvər/ + Máy chủ + The server went down this morning.
-Algorithm + /ˈælɡərɪðəm/ + Thuật toán + This algorithm optimizes the process.
-Cybersecurity + /ˌsaɪbər sɪˈkjʊrəti/ + An ninh mạng + Cybersecurity is a top priority.
-Encryption + /ɪnˈkrɪpʃn/ + Mã hóa + Use encryption for sensitive data.
-Cloud + /klaʊd/ + Điện toán đám mây + We store our files in the cloud.
-Processor + /ˈprɑːsesər/ + Bộ xử lý + The processor speed is very fast.
-Memory + /ˈmeməri/ + Bộ nhớ + This computer has 16GB of memory.
-Interface + /ˈɪntərfeɪs/ + Giao diện + The user interface is very intuitive.
-Browser + /ˈbraʊzər/ + Trình duyệt + Open the website in your browser.
-Firewall + /ˈfaɪərwɔːl/ + Tường lửa + The firewall blocked the attack.
-Development + /dɪˈveləpmənt/ + Phát triển + She works in web development.
-Application + /ˌæplɪˈkeɪʃn/ + Ứng dụng + This application runs on all devices.
-Hardware + /ˈhɑːrdwer/ + Phần cứng + Check the hardware compatibility.
-Keyboard + /ˈkiːbɔːrd/ + Bàn phím + The mechanical keyboard is great.
-Monitor + /ˈmɑːnɪtər/ + Màn hình + I need a high-resolution monitor.
-Cursor + /ˈkɜːrsər/ + Con trỏ + Move the cursor to the icon.
-Password + /ˈpæswɜːrd/ + Mật khẩu + Never share your password with anyone.
-Username + /ˈjuːzərneɪm/ + Tên người dùng + Enter your username to log in.
-Download + /ˈdaʊnloʊd/ + Tải xuống + The download will finish shortly.
-Upload + /ˈʌploʊd/ + Tải lên + Upload the document to the server.
-Backup + /ˈbækʌp/ + Sao lưu + Always create a backup of data.
-Binary + /ˈbaɪnəri/ + Nhị phân + Computers understand binary code.
-Syntax + /ˈsɪntæks/ + Cú pháp + The syntax error broke the code.
-Debugger + /diːˈbʌɡər/ + Trình gỡ lỗi + Use a debugger to find the bug.
-Compiler + /kəmˈpaɪlər/ + Trình biên dịch + The compiler translates the code.
-Variable + /ˈveriəbl/ + Biến số + Declare a variable before using it.
-Function + /ˈfʌŋkʃn/ + Hàm + The function returns a single value.
-Array + /əˈreɪ/ + Mảng + Store data in an array structure.
-Pointer + /ˈpɔɪntər/ + Con trỏ + Use a pointer for memory access.
-Object + /ˈɑːbdʒekt/ + Đối tượng + The object contains many properties.
-Class + /klæs/ + Lớp + Define a class for the system.
-Library + /ˈlaɪbreri/ + Thư viện (code) + Import the library for functions.
-Framework + /ˈfreɪmwɜːrk/ + Khung làm việc + The framework simplifies the design.
-Script + /skrɪpt/ + Tập lệnh + Run the python script to automate.
-Bandwidth + /ˈbændwɪdθ/ + Băng thông + We need more bandwidth for streaming.
-Protocol + /ˈproʊtəkɑːl/ + Giao thức + HTTP is a common web protocol.
-Latency + /ˈleɪtənsi/ + Độ trễ + Low latency is vital for gaming.
-Virtualization + /ˌvɜːrtʃuələˈzeɪʃn/ + Ảo hóa + Use virtualization to run systems.
-Bit + /bɪt/ + Đơn vị bit + A bit is the smallest data unit.
-Byte + /baɪt/ + Đơn vị byte + One byte equals eight bits.
-Cache + /kæʃ/ + Bộ nhớ đệm + Clear the cache to refresh data.
-Kernel + /ˈkɜːrnl/ + Nhân hệ điều hành + The kernel manages system resources.
-Terminal + /ˈtɜːrmɪnl/ + Dòng lệnh + Type the command in the terminal.
-Root + /ruːt/ + Quyền truy cập cao nhất + You need root access to modify.
-Platform + /ˈplætfɔːrm/ + Nền tảng + The app supports multiple platforms.
-Scalability + /ˌskeɪləˈbɪləti/ + Khả năng mở rộng + Scalability is key for web growth.
-Redundancy + /rɪˈdʌndənsi/ + Tính dư thừa + We ensure redundancy in the system.
-Topology + /təˈpɑːlədʒi/ + Cấu trúc mạng + The network topology is star-based.
-Gateway + /ˈɡeɪtweɪ/ + Cổng kết nối + The gateway links different networks.
-Router + /ˈraʊtər/ + Bộ định tuyến + Configure the router settings.
-Switch + /swɪtʃ/ + Bộ chuyển mạch + Connect devices to the switch.
-Packet + /ˈpækɪt/ + Gói tin + Data is transmitted in packets.
-Authentication + /ɔːˌθentɪˈkeɪʃn/ + Xác thực + Multi-factor authentication is safer.
-Authorization + /ˌɔːθərəˈzeɪʃn/ + Phân quyền + Check user authorization levels.
-Malware + /ˈmælwer/ + Mã độc + Scan your PC to remove malware.
-Phishing + /ˈfɪʃɪŋ/ + Tấn công giả mạo + Be careful of phishing emails.
-Patch + /pætʃ/ + Bản vá + Install the security patch immediately.
-Compiler + /kəmˈpaɪlər/ + Trình biên dịch + Build the code using the compiler.
-Repository + /rɪˈpɑːzətɔːri/ + Kho lưu trữ + Push changes to the repository.
-Branch + /bræntʃ/ + Nhánh (code) + Create a new branch for the feature.
-Deployment + /dɪˈplɔɪmənt/ + Triển khai + The deployment was very smooth.
-Debugging + /diːˈbʌɡɪŋ/ + Gỡ lỗi + Spend time debugging the application.
-Refactoring + /ˌriːˈfæktərɪŋ/ + Tái cấu trúc + Refactoring improves the code quality.
-API + /ˌeɪ piː ˈaɪ/ + Giao diện lập trình + Integrate with the third-party API.
-JSON + /ˈdʒeɪ sɒn/ + Định dạng dữ liệu + Send the data in JSON format.
-Front-end + /frʌnt end/ + Giao diện người dùng + He specializes in front-end design.
-Back-end + /bæk end/ + Phần sau hệ thống + The back-end handles server logic.
-Full-stack + /fʊl stæk/ + Phát triển toàn phần + He is a full-stack developer.
-Hardware + /ˈhɑːrdwer/ + Phần cứng + Upgrade the server hardware.
-Firmware + /ˈfɜːrmwer/ + Phần mềm điều khiển + Update the camera firmware.
-Graphics + /ˈɡræfɪks/ + Đồ họa + The graphics card is powerful.
-Resolution + /ˌrezəˈluːʃn/ + Độ phân giải + Set the monitor to full resolution.
-Peripheral + /pəˈrɪfərəl/ + Thiết bị ngoại vi + Connect the peripheral devices.
-Motherboard + /ˈmʌðərbɔːrd/ + Bo mạch chủ + The motherboard supports the chip.
-SSD + /es es ˈdiː/ + Ổ cứng thể rắn + Using an SSD makes it faster.
-Bluetooth + /ˈbluːtuːθ/ + Kết nối không dây + Pair the headphones via Bluetooth.
-Wireless + /ˈwaɪərləs/ + Không dây + The wireless signal is stable.
-Fiber + /ˈfaɪbər/ + Cáp quang + Fiber internet is very fast.
-Subnet + /ˈsʌbnet/ + Mạng con + Divide the network into subnets.
-Debug + /diːˈbʌɡ/ + Gỡ lỗi + I need to debug this script.
-Logic + /ˈlɑːdʒɪk/ + Logic + The application logic is complex.
-Module + /ˈmɑːdʒuːl/ + Mô-đun + Split the code into modules.
-Component + /kəmˈpoʊnənt/ + Thành phần + Reused the UI component.
-Metadata + /ˈmetədeɪtə/ + Dữ liệu siêu + The image contains metadata.
-Latency + /ˈleɪtənsi/ + Độ trễ + Reduce the latency for the server.
-Throughput + /ˈθruːpʊt/ + Thông lượng + The network has high throughput.
-Bitrate + /ˈbɪtreɪt/ + Tốc độ truyền bit + High bitrate ensures quality video.
-Codec + /ˈkoʊdek/ + Bộ mã hóa + The video uses an H.264 codec.
-Pixel + /ˈpɪksl/ + Điểm ảnh + The screen has millions of pixels.
-Refresh + /rɪˈfreʃ/ + Làm mới + Refresh the page for changes.
-Session + /ˈseʃn/ + Phiên làm việc + Your session has expired.
-Cookies + /ˈkʊkiz/ + Tệp tạm + Accept cookies to browse the site.
-Terminal + /ˈtɜːrmɪnl/ + Thiết bị đầu cuối + Open the command terminal.
-Command + /kəˈmænd/ + Lệnh + Run the command in the shell.
-Shell + /ʃel/ + Giao diện dòng lệnh + Bash is a popular Unix shell.
-Utility + /juːˈtɪləti/ + Tiện ích + Use the disk cleanup utility.
-Registry + /ˈredʒɪstri/ + Sổ đăng ký (Windows) + Edit the registry with care.
-Driver + /ˈdraɪvər/ + Trình điều khiển + Install the latest audio driver.
-Plug-in + /ˈplʌɡ ɪn/ + Phần mở rộng + Install the browser plug-in.
-Add-on + /ˈæd ɒn/ + Phần bổ sung + Add-ons increase functionality.
-Emulator + /ˈemjuleɪtər/ + Trình giả lập + Use an emulator to test apps.
-Sandbox + /ˈsændbɑːks/ + Môi trường thử nghiệm + Test code in a safe sandbox.
-Version + /ˈvɜːrʒn/ + Phiên bản + Check the software version number.
-Bug + /bʌɡ/ + Lỗi + We fixed the bug in the code.
-Glitch + /ɡlɪtʃ/ + Sự cố nhỏ + The system had a temporary glitch.
-Crash + /kræʃ/ + Sụp đổ + The software crashed unexpectedly.
-Deadlock + /ˈdedlɑːk/ + Bế tắc (hệ thống) + The process is in a deadlock.
-Timeout + /ˈtaɪmaʊt/ + Quá hạn thời gian + The request reached a timeout.
-Workflow + /ˈwɜːrkfloʊ/ + Quy trình + Optimize the development workflow.
-Automate + /ˈɔːtəmeɪt/ + Tự động hóa + We automate the testing process.
-Integrate + /ˈɪntɪɡreɪt/ + Tích hợp + Integrate the payment service.
-Deploy + /dɪˈplɔɪ/ + Triển khai + Deploy the app to the cloud.
-Optimize + /ˈɑːptɪmaɪz/ + Tối ưu hóa + Optimize the database queries.
-Secure + /sɪˈkjʊr/ + Bảo mật + Ensure the web app is secure.
-Back up + /bæk ʌp/ + Sao lưu + Back up your data every week.
-Execute + /ˈeksɪkjuːt/ + Thực thi + Execute the command sequence.
-Compile + /kəmˈpaɪl/ + Biên dịch + Compile the C++ code files.
-Render + /ˈrendər/ + Kết xuất (hình ảnh) + The browser will render the page.
-Parse + /pɑːrs/ + Phân tích cú pháp + Parse the XML data file.
-Sync + /sɪŋk/ + Đồng bộ + Sync the files across devices.
-Boot + /buːt/ + Khởi động + Boot the computer from USB.
-Reset + /riːˈset/ + Cài đặt lại + Reset the device to factory.
-Update + /ˌʌpˈdeɪt/ + Cập nhật + Update your OS regularly.
-Upgrade + /ˌʌpˈɡreɪd/ + Nâng cấp + Upgrade to the latest version.
-Monitor + /ˈmɑːnɪtər/ + Giám sát + Monitor the system traffic.
-Analyze + /ˈænəlaɪz/ + Phân tích + Analyze the user data trends.
-Debug + /diːˈbʌɡ/ + Gỡ lỗi + We need to debug this script.
-Clone + /kloʊn/ + Sao chép (repo) + Clone the repo from GitHub.
-Push + /pʊʃ/ + Đẩy dữ liệu + Push changes to the server.
-Pull + /pʊl/ + Kéo dữ liệu + Pull the latest version code.
-Commit + /kəˈmɪt/ + Lưu thay đổi (code) + Commit the changes to local.
-Merge + /mɜːrdʒ/ + Hợp nhất (code) + Merge the branch to main.
-Branch + /bræntʃ/ + Tạo nhánh + Create a branch for fixes.
-Test + /test/ + Kiểm thử + Run the automated test suite.
-Validate + /ˈvælɪdeɪt/ + Xác nhận + Validate the form input fields.
-Sanitize + /ˈsænɪtaɪz/ + Làm sạch dữ liệu + Sanitize inputs to avoid SQLi.
-Encrypt + /ɪnˈkrɪpt/ + Mã hóa + Encrypt all user personal data.
-Decrypt + /dɪˈkrɪpt/ + Giải mã + Decrypt the message securely.
-Configure + /kənˈfɪɡjər/ + Cấu hình + Configure the server settings.
-Format + /ˈfɔːrmæt/ + Định dạng + Format the hard drive disk.
-Initialize + /ɪˈnɪʃəlaɪz/ + Khởi tạo + Initialize the variable values.
-Allocate + /ˈæləkeɪt/ + Cấp phát + Allocate memory for the process.
-Interrupt + /ˌɪntəˈrʌpt/ + Ngắt (hệ thống) + The system received an interrupt.
-Cache + /kæʃ/ + Lưu bộ nhớ đệm + Cache the frequently used data.
-Ping + /pɪŋ/ + Kiểm tra kết nối + Ping the server to check link.
-Trace + /treɪs/ + Truy vết + Trace the request path details.
-Backup + /ˈbækʌp/ + Dữ liệu dự phòng + Keep the backup file safe.
-Snapshot + /ˈsnæpʃɑːt/ + Ảnh chụp (hệ thống) + Take a system snapshot now.
-Log + /lɔːɡ/ + Nhật ký + Check the server log file.
-Script + /skrɪpt/ + Tập lệnh + Run the automation script.
-Library + /ˈlaɪbreri/ + Thư viện + Use the math library functions.
-Data + /ˈdeɪtə/ + Dữ liệu + Process the large data sets.
-Input + /ˈɪnpʊt/ + Đầu vào + The program takes user input.
-Output + /ˈaʊtpʊt/ + Đầu ra + The program produces an output.
-Stack + /stæk/ + Ngăn xếp + Use a stack for the task.
-Queue + /kjuː/ + Hàng đợi + Add the request to the queue.
-Loop + /luːp/ + Vòng lặp + The loop runs ten times.
-Branching + /ˈbræntʃɪŋ/ + Phân nhánh (logic) + Use branching in the code.
-Conditional + /kənˈdɪʃənl/ + Điều kiện + The conditional statement is true.
-Variable + /ˈveriəbl/ + Biến + Change the variable value later.
-Constant + /ˈkɑːnstənt/ + Hằng số + The constant value is fixed.
-Integer + /ˈɪntɪdʒər/ + Số nguyên + Define the integer variable.
-String + /strɪŋ/ + Chuỗi + Store the name as a string.
-Boolean + /ˈbuːliən/ + Kiểu đúng/sai + Use boolean for logic tests.
-Float + /floʊt/ + Số thực + Use float for precise numbers.
-Method + /ˈmeθəd/ + Phương thức + Call the method from class.
-Event + /ɪˈvent/ + Sự kiện + Handle the click event logic.
-Exception + /ɪkˈsepʃn/ + Ngoại lệ + Catch the exception errors.
-Inheritance + /ɪnˈherɪtəns/ + Kế thừa + Class supports object inheritance.
-Polymorphism + /ˌpɑːliˈmɔːrfɪzəm/ + Đa hình + Use polymorphism in programming.
-Encapsulation + /ɪnˌkæpsjuˈleɪʃn/ + Đóng gói + Encapsulation protects the data.
-Abstraction + /æbˈstrækʃn/ + Trừu tượng hóa + Use abstraction for the design.
+Computer * /kəmˈpjuːtər/ * Máy tính * I bought a new powerful computer.
+Software * /ˈsɔːftwer/ * Phần mềm * Install the software before running.
+Hardware * /ˈhɑːrdwer/ * Phần cứng * The hardware needs to be upgraded.
+Network * /ˈnetwɜːrk/ * Mạng lưới * The company has a secure network.
+Internet * /ˈɪntərnet/ * Internet * The internet connection is slow.
+Programming * /ˈproʊɡræmɪŋ/ * Lập trình * He is learning computer programming.
+Database * /ˈdeɪtəbeɪs/ * Cơ sở dữ liệu * The database stores all user info.
+Server * /ˈsɜːrvər/ * Máy chủ * The server went down this morning.
+Algorithm * /ˈælɡərɪðəm/ * Thuật toán * This algorithm optimizes the process.
+Cybersecurity * /ˌsaɪbər sɪˈkjʊrəti/ * An ninh mạng * Cybersecurity is a top priority.
+Encryption * /ɪnˈkrɪpʃn/ * Mã hóa * Use encryption for sensitive data.
+Cloud * /klaʊd/ * Điện toán đám mây * We store our files in the cloud.
+Processor * /ˈprɑːsesər/ * Bộ xử lý * The processor speed is very fast.
+Memory * /ˈmeməri/ * Bộ nhớ * This computer has 16GB of memory.
+Interface * /ˈɪntərfeɪs/ * Giao diện * The user interface is very intuitive.
+Browser * /ˈbraʊzər/ * Trình duyệt * Open the website in your browser.
+Firewall * /ˈfaɪərwɔːl/ * Tường lửa * The firewall blocked the attack.
+Development * /dɪˈveləpmənt/ * Phát triển * She works in web development.
+Application * /ˌæplɪˈkeɪʃn/ * Ứng dụng * This application runs on all devices.
+Hardware * /ˈhɑːrdwer/ * Phần cứng * Check the hardware compatibility.
+Keyboard * /ˈkiːbɔːrd/ * Bàn phím * The mechanical keyboard is great.
+Monitor * /ˈmɑːnɪtər/ * Màn hình * I need a high-resolution monitor.
+Cursor * /ˈkɜːrsər/ * Con trỏ * Move the cursor to the icon.
+Password * /ˈpæswɜːrd/ * Mật khẩu * Never share your password with anyone.
+Username * /ˈjuːzərneɪm/ * Tên người dùng * Enter your username to log in.
+Download * /ˈdaʊnloʊd/ * Tải xuống * The download will finish shortly.
+Upload * /ˈʌploʊd/ * Tải lên * Upload the document to the server.
+Backup * /ˈbækʌp/ * Sao lưu * Always create a backup of data.
+Binary * /ˈbaɪnəri/ * Nhị phân * Computers understand binary code.
+Syntax * /ˈsɪntæks/ * Cú pháp * The syntax error broke the code.
+Debugger * /diːˈbʌɡər/ * Trình gỡ lỗi * Use a debugger to find the bug.
+Compiler * /kəmˈpaɪlər/ * Trình biên dịch * The compiler translates the code.
+Variable * /ˈveriəbl/ * Biến số * Declare a variable before using it.
+Function * /ˈfʌŋkʃn/ * Hàm * The function returns a single value.
+Array * /əˈreɪ/ * Mảng * Store data in an array structure.
+Pointer * /ˈpɔɪntər/ * Con trỏ * Use a pointer for memory access.
+Object * /ˈɑːbdʒekt/ * Đối tượng * The object contains many properties.
+Class * /klæs/ * Lớp * Define a class for the system.
+Library * /ˈlaɪbreri/ * Thư viện (code) * Import the library for functions.
+Framework * /ˈfreɪmwɜːrk/ * Khung làm việc * The framework simplifies the design.
+Script * /skrɪpt/ * Tập lệnh * Run the python script to automate.
+Bandwidth * /ˈbændwɪdθ/ * Băng thông * We need more bandwidth for streaming.
+Protocol * /ˈproʊtəkɑːl/ * Giao thức * HTTP is a common web protocol.
+Latency * /ˈleɪtənsi/ * Độ trễ * Low latency is vital for gaming.
+Virtualization * /ˌvɜːrtʃuələˈzeɪʃn/ * Ảo hóa * Use virtualization to run systems.
+Bit * /bɪt/ * Đơn vị bit * A bit is the smallest data unit.
+Byte * /baɪt/ * Đơn vị byte * One byte equals eight bits.
+Cache * /kæʃ/ * Bộ nhớ đệm * Clear the cache to refresh data.
+Kernel * /ˈkɜːrnl/ * Nhân hệ điều hành * The kernel manages system resources.
+Terminal * /ˈtɜːrmɪnl/ * Dòng lệnh * Type the command in the terminal.
+Root * /ruːt/ * Quyền truy cập cao nhất * You need root access to modify.
+Platform * /ˈplætfɔːrm/ * Nền tảng * The app supports multiple platforms.
+Scalability * /ˌskeɪləˈbɪləti/ * Khả năng mở rộng * Scalability is key for web growth.
+Redundancy * /rɪˈdʌndənsi/ * Tính dư thừa * We ensure redundancy in the system.
+Topology * /təˈpɑːlədʒi/ * Cấu trúc mạng * The network topology is star-based.
+Gateway * /ˈɡeɪtweɪ/ * Cổng kết nối * The gateway links different networks.
+Router * /ˈraʊtər/ * Bộ định tuyến * Configure the router settings.
+Switch * /swɪtʃ/ * Bộ chuyển mạch * Connect devices to the switch.
+Packet * /ˈpækɪt/ * Gói tin * Data is transmitted in packets.
+Authentication * /ɔːˌθentɪˈkeɪʃn/ * Xác thực * Multi-factor authentication is safer.
+Authorization * /ˌɔːθərəˈzeɪʃn/ * Phân quyền * Check user authorization levels.
+Malware * /ˈmælwer/ * Mã độc * Scan your PC to remove malware.
+Phishing * /ˈfɪʃɪŋ/ * Tấn công giả mạo * Be careful of phishing emails.
+Patch * /pætʃ/ * Bản vá * Install the security patch immediately.
+Compiler * /kəmˈpaɪlər/ * Trình biên dịch * Build the code using the compiler.
+Repository * /rɪˈpɑːzətɔːri/ * Kho lưu trữ * Push changes to the repository.
+Branch * /bræntʃ/ * Nhánh (code) * Create a new branch for the feature.
+Deployment * /dɪˈplɔɪmənt/ * Triển khai * The deployment was very smooth.
+Debugging * /diːˈbʌɡɪŋ/ * Gỡ lỗi * Spend time debugging the application.
+Refactoring * /ˌriːˈfæktərɪŋ/ * Tái cấu trúc * Refactoring improves the code quality.
+API * /ˌeɪ piː ˈaɪ/ * Giao diện lập trình * Integrate with the third-party API.
+JSON * /ˈdʒeɪ sɒn/ * Định dạng dữ liệu * Send the data in JSON format.
+Front-end * /frʌnt end/ * Giao diện người dùng * He specializes in front-end design.
+Back-end * /bæk end/ * Phần sau hệ thống * The back-end handles server logic.
+Full-stack * /fʊl stæk/ * Phát triển toàn phần * He is a full-stack developer.
+Hardware * /ˈhɑːrdwer/ * Phần cứng * Upgrade the server hardware.
+Firmware * /ˈfɜːrmwer/ * Phần mềm điều khiển * Update the camera firmware.
+Graphics * /ˈɡræfɪks/ * Đồ họa * The graphics card is powerful.
+Resolution * /ˌrezəˈluːʃn/ * Độ phân giải * Set the monitor to full resolution.
+Peripheral * /pəˈrɪfərəl/ * Thiết bị ngoại vi * Connect the peripheral devices.
+Motherboard * /ˈmʌðərbɔːrd/ * Bo mạch chủ * The motherboard supports the chip.
+SSD * /es es ˈdiː/ * Ổ cứng thể rắn * Using an SSD makes it faster.
+Bluetooth * /ˈbluːtuːθ/ * Kết nối không dây * Pair the headphones via Bluetooth.
+Wireless * /ˈwaɪərləs/ * Không dây * The wireless signal is stable.
+Fiber * /ˈfaɪbər/ * Cáp quang * Fiber internet is very fast.
+Subnet * /ˈsʌbnet/ * Mạng con * Divide the network into subnets.
+Debug * /diːˈbʌɡ/ * Gỡ lỗi * I need to debug this script.
+Logic * /ˈlɑːdʒɪk/ * Logic * The application logic is complex.
+Module * /ˈmɑːdʒuːl/ * Mô-đun * Split the code into modules.
+Component * /kəmˈpoʊnənt/ * Thành phần * Reused the UI component.
+Metadata * /ˈmetədeɪtə/ * Dữ liệu siêu * The image contains metadata.
+Latency * /ˈleɪtənsi/ * Độ trễ * Reduce the latency for the server.
+Throughput * /ˈθruːpʊt/ * Thông lượng * The network has high throughput.
+Bitrate * /ˈbɪtreɪt/ * Tốc độ truyền bit * High bitrate ensures quality video.
+Codec * /ˈkoʊdek/ * Bộ mã hóa * The video uses an H.264 codec.
+Pixel * /ˈpɪksl/ * Điểm ảnh * The screen has millions of pixels.
+Refresh * /rɪˈfreʃ/ * Làm mới * Refresh the page for changes.
+Session * /ˈseʃn/ * Phiên làm việc * Your session has expired.
+Cookies * /ˈkʊkiz/ * Tệp tạm * Accept cookies to browse the site.
+Terminal * /ˈtɜːrmɪnl/ * Thiết bị đầu cuối * Open the command terminal.
+Command * /kəˈmænd/ * Lệnh * Run the command in the shell.
+Shell * /ʃel/ * Giao diện dòng lệnh * Bash is a popular Unix shell.
+Utility * /juːˈtɪləti/ * Tiện ích * Use the disk cleanup utility.
+Registry * /ˈredʒɪstri/ * Sổ đăng ký (Windows) * Edit the registry with care.
+Driver * /ˈdraɪvər/ * Trình điều khiển * Install the latest audio driver.
+Plug-in * /ˈplʌɡ ɪn/ * Phần mở rộng * Install the browser plug-in.
+Add-on * /ˈæd ɒn/ * Phần bổ sung * Add-ons increase functionality.
+Emulator * /ˈemjuleɪtər/ * Trình giả lập * Use an emulator to test apps.
+Sandbox * /ˈsændbɑːks/ * Môi trường thử nghiệm * Test code in a safe sandbox.
+Version * /ˈvɜːrʒn/ * Phiên bản * Check the software version number.
+Bug * /bʌɡ/ * Lỗi * We fixed the bug in the code.
+Glitch * /ɡlɪtʃ/ * Sự cố nhỏ * The system had a temporary glitch.
+Crash * /kræʃ/ * Sụp đổ * The software crashed unexpectedly.
+Deadlock * /ˈdedlɑːk/ * Bế tắc (hệ thống) * The process is in a deadlock.
+Timeout * /ˈtaɪmaʊt/ * Quá hạn thời gian * The request reached a timeout.
+Workflow * /ˈwɜːrkfloʊ/ * Quy trình * Optimize the development workflow.
+Automate * /ˈɔːtəmeɪt/ * Tự động hóa * We automate the testing process.
+Integrate * /ˈɪntɪɡreɪt/ * Tích hợp * Integrate the payment service.
+Deploy * /dɪˈplɔɪ/ * Triển khai * Deploy the app to the cloud.
+Optimize * /ˈɑːptɪmaɪz/ * Tối ưu hóa * Optimize the database queries.
+Secure * /sɪˈkjʊr/ * Bảo mật * Ensure the web app is secure.
+Back up * /bæk ʌp/ * Sao lưu * Back up your data every week.
+Execute * /ˈeksɪkjuːt/ * Thực thi * Execute the command sequence.
+Compile * /kəmˈpaɪl/ * Biên dịch * Compile the C** code files.
+Render * /ˈrendər/ * Kết xuất (hình ảnh) * The browser will render the page.
+Parse * /pɑːrs/ * Phân tích cú pháp * Parse the XML data file.
+Sync * /sɪŋk/ * Đồng bộ * Sync the files across devices.
+Boot * /buːt/ * Khởi động * Boot the computer from USB.
+Reset * /riːˈset/ * Cài đặt lại * Reset the device to factory.
+Update * /ˌʌpˈdeɪt/ * Cập nhật * Update your OS regularly.
+Upgrade * /ˌʌpˈɡreɪd/ * Nâng cấp * Upgrade to the latest version.
+Monitor * /ˈmɑːnɪtər/ * Giám sát * Monitor the system traffic.
+Analyze * /ˈænəlaɪz/ * Phân tích * Analyze the user data trends.
+Debug * /diːˈbʌɡ/ * Gỡ lỗi * We need to debug this script.
+Clone * /kloʊn/ * Sao chép (repo) * Clone the repo from GitHub.
+Push * /pʊʃ/ * Đẩy dữ liệu * Push changes to the server.
+Pull * /pʊl/ * Kéo dữ liệu * Pull the latest version code.
+Commit * /kəˈmɪt/ * Lưu thay đổi (code) * Commit the changes to local.
+Merge * /mɜːrdʒ/ * Hợp nhất (code) * Merge the branch to main.
+Branch * /bræntʃ/ * Tạo nhánh * Create a branch for fixes.
+Test * /test/ * Kiểm thử * Run the automated test suite.
+Validate * /ˈvælɪdeɪt/ * Xác nhận * Validate the form input fields.
+Sanitize * /ˈsænɪtaɪz/ * Làm sạch dữ liệu * Sanitize inputs to avoid SQLi.
+Encrypt * /ɪnˈkrɪpt/ * Mã hóa * Encrypt all user personal data.
+Decrypt * /dɪˈkrɪpt/ * Giải mã * Decrypt the message securely.
+Configure * /kənˈfɪɡjər/ * Cấu hình * Configure the server settings.
+Format * /ˈfɔːrmæt/ * Định dạng * Format the hard drive disk.
+Initialize * /ɪˈnɪʃəlaɪz/ * Khởi tạo * Initialize the variable values.
+Allocate * /ˈæləkeɪt/ * Cấp phát * Allocate memory for the process.
+Interrupt * /ˌɪntəˈrʌpt/ * Ngắt (hệ thống) * The system received an interrupt.
+Cache * /kæʃ/ * Lưu bộ nhớ đệm * Cache the frequently used data.
+Ping * /pɪŋ/ * Kiểm tra kết nối * Ping the server to check link.
+Trace * /treɪs/ * Truy vết * Trace the request path details.
+Backup * /ˈbækʌp/ * Dữ liệu dự phòng * Keep the backup file safe.
+Snapshot * /ˈsnæpʃɑːt/ * Ảnh chụp (hệ thống) * Take a system snapshot now.
+Log * /lɔːɡ/ * Nhật ký * Check the server log file.
+Script * /skrɪpt/ * Tập lệnh * Run the automation script.
+Library * /ˈlaɪbreri/ * Thư viện * Use the math library functions.
+Data * /ˈdeɪtə/ * Dữ liệu * Process the large data sets.
+Input * /ˈɪnpʊt/ * Đầu vào * The program takes user input.
+Output * /ˈaʊtpʊt/ * Đầu ra * The program produces an output.
+Stack * /stæk/ * Ngăn xếp * Use a stack for the task.
+Queue * /kjuː/ * Hàng đợi * Add the request to the queue.
+Loop * /luːp/ * Vòng lặp * The loop runs ten times.
+Branching * /ˈbræntʃɪŋ/ * Phân nhánh (logic) * Use branching in the code.
+Conditional * /kənˈdɪʃənl/ * Điều kiện * The conditional statement is true.
+Variable * /ˈveriəbl/ * Biến * Change the variable value later.
+Constant * /ˈkɑːnstənt/ * Hằng số * The constant value is fixed.
+Integer * /ˈɪntɪdʒər/ * Số nguyên * Define the integer variable.
+String * /strɪŋ/ * Chuỗi * Store the name as a string.
+Boolean * /ˈbuːliən/ * Kiểu đúng/sai * Use boolean for logic tests.
+Float * /floʊt/ * Số thực * Use float for precise numbers.
+Method * /ˈmeθəd/ * Phương thức * Call the method from class.
+Event * /ɪˈvent/ * Sự kiện * Handle the click event logic.
+Exception * /ɪkˈsepʃn/ * Ngoại lệ * Catch the exception errors.
+Inheritance * /ɪnˈherɪtəns/ * Kế thừa * Class supports object inheritance.
+Polymorphism * /ˌpɑːliˈmɔːrfɪzəm/ * Đa hình * Use polymorphism in programming.
+Encapsulation * /ɪnˌkæpsjuˈleɪʃn/ * Đóng gói * Encapsulation protects the data.
+Abstraction * /æbˈstrækʃn/ * Trừu tượng hóa * Use abstraction for the design.

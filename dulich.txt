@@ -1,195 +1,195 @@
-Travel + /ˈtrævl/ + Du lịch + I love to travel the world.
-Tourism + /ˈtʊrɪzəm/ + Ngành du lịch + This city relies on tourism.
-Destination + /ˌdestɪˈneɪʃn/ + Điểm đến + Our destination is Paris.
-Vacation + /veɪˈkeɪʃn/ + Kỳ nghỉ + We are on a summer vacation.
-Journey + /ˈdʒɜːrni/ + Chuyến đi + It was a long journey.
-Trip + /trɪp/ + Chuyến đi ngắn + How was your business trip?
-Tour + /tʊr/ + Chuyến tham quan + We booked a guided tour.
-Adventure + /ədˈventʃər/ + Cuộc phiêu lưu + Life is a big adventure.
-Sightseeing + /ˈsaɪtsiːɪŋ/ + Tham quan + We went sightseeing in Rome.
-Itinerary + /aɪˈtɪnəreri/ + Lịch trình + Check the itinerary for today.
-Passport + /ˈpæspɔːrt/ + Hộ chiếu + Don't forget your passport.
-Visa + /ˈviːzə/ + Thị thực + Do I need a visa here?
-Ticket + /ˈtɪkɪt/ + Vé + I bought a return ticket.
-Booking + /ˈbʊkɪŋ/ + Sự đặt chỗ + I have a hotel booking.
-Reservation + /ˌrezərˈveɪʃn/ + Sự đặt trước + Make a table reservation.
-Airport + /ˈerpɔːrt/ + Sân bay + We arrived at the airport early.
-Flight + /flaɪt/ + Chuyến bay + My flight was delayed.
-Departure + /dɪˈpɑːrtʃər/ + Khởi hành + The time of departure is 8 PM.
-Arrival + /əˈraɪvl/ + Đến nơi + Check the arrival schedule.
-Boarding pass + /ˈbɔːrdɪŋ pæs/ + Thẻ lên máy bay + Show your boarding pass.
-Check-in + /ˈtʃek ɪn/ + Làm thủ tục + Please check-in at the counter.
-Luggage + /ˈlʌɡɪdʒ/ + Hành lý + Where is the luggage claim?
-Suitcase + /ˈsuːtkeɪs/ + Vali + Pack your suitcase carefully.
-Backpack + /ˈbækpæk/ + Ba lô + He carries a travel backpack.
-Hotel + /hoʊˈtel/ + Khách sạn + The hotel has a great view.
-Resort + /rɪˈzɔːrt/ + Khu nghỉ dưỡng + We stayed at a beach resort.
-Hostel + /ˈhɑːstl/ + Nhà nghỉ giá rẻ + Hostels are popular with students.
-Guesthouse + /ˈɡesthaʊs/ + Nhà khách + The guesthouse is very cozy.
-Accommodation + /əˌkɑːməˈdeɪʃn/ + Chỗ ở + Find affordable accommodation.
-Reception + /rɪˈsepʃn/ + Quầy lễ tân + Ask for help at reception.
-Single room + /ˈsɪŋɡl ruːm/ + Phòng đơn + I booked a single room.
-Double room + /ˈdʌbl ruːm/ + Phòng đôi + Is a double room available?
-Suite + /swiːt/ + Phòng cao cấp + They upgraded to a luxury suite.
-Guidebook + /ˈɡaɪdbʊk/ + Sách hướng dẫn + Read the guidebook for tips.
-Map + /mæp/ + Bản đồ + Follow the map to the museum.
-Souvenir + /ˌsuːvəˈnɪr/ + Quà lưu niệm + Buy a souvenir for friends.
-Currency + /ˈkɜːrənsi/ + Tiền tệ + Exchange your local currency.
-Exchange rate + /ɪksˈtʃeɪndʒ reɪt/ + Tỷ giá hối đoái + Check the exchange rate.
-Budget + /ˈbʌdʒɪt/ + Ngân sách + We have a limited budget.
-Package tour + /ˈpækɪdʒ tʊr/ + Tour trọn gói + A package tour is convenient.
-Landmark + /ˈlændmɑːrk/ + Địa danh + This is a famous landmark.
-Monument + /ˈmɑːnjumənt/ + Đài tưởng niệm + Visit the historic monument.
-Museum + /mjuˈziːəm/ + Bảo tàng + The museum is closed today.
-Gallery + /ˈɡæləri/ + Phòng trưng bày + We visited an art gallery.
-Beach + /biːtʃ/ + Bãi biển + Relax on the sandy beach.
-Mountain + /ˈmaʊntn/ + Núi + We hiked up the mountain.
-Island + /ˈaɪlənd/ + Hòn đảo + Visit a tropical island.
-Forest + /ˈfɔːrɪst/ + Rừng + Explore the deep forest.
-Park + /pɑːrk/ + Công viên + Let's have a picnic in the park.
-Valley + /ˈvæli/ + Thung lũng + The valley is very beautiful.
-Waterfall + /ˈwɔːtərfɔːl/ + Thác nước + See the majestic waterfall.
-Coast + /koʊst/ + Bờ biển + Drive along the sunny coast.
-Desert + /ˈdezərt/ + Sa mạc + The desert is very hot.
-Culture + /ˈkʌltʃər/ + Văn hóa + Learn about local culture.
-Custom + /ˈkʌstəm/ + Phong tục + Respect local customs.
-Tradition + /trəˈdɪʃn/ + Truyền thống + Experience a local tradition.
-Festival + /ˈfestɪvl/ + Lễ hội + Attend the annual festival.
-Cuisine + /kwɪˈziːn/ + Ẩm thực + Try the delicious local cuisine.
-Specialty + /ˈspeʃəlti/ + Đặc sản + Taste the city's specialty.
-Explore + /ɪkˈsplɔːr/ + Khám phá + I want to explore the city.
-Sightsee + /ˈsaɪtsiː/ + Tham quan + We will sightsee tomorrow.
-Book + /bʊk/ + Đặt chỗ + Book your ticket in advance.
-Confirm + /kənˈfɜːrm/ + Xác nhận + Confirm your reservation online.
-Cancel + /ˈkænsl/ + Hủy bỏ + Cancel the trip due to rain.
-Delay + /dɪˈleɪ/ + Hoãn lại + The flight delay is frustrating.
-Customs + /ˈkʌstəmz/ + Hải quan + Clear customs at the airport.
-Security + /sɪˈkjʊrəti/ + An ninh + Go through security check.
-Duty-free + /ˈduːti friː/ + Miễn thuế + Buy gifts at duty-free.
-Departure gate + /dɪˈpɑːrtʃər ɡeɪt/ + Cổng khởi hành + Find your departure gate.
-Check-out + /ˈtʃek aʊt/ + Thủ tục trả phòng + Check-out is at 11 AM.
-Tip + /tɪp/ + Tiền boa + Leave a tip for the waiter.
-Transport + /ˈtrænspɔːrt/ + Giao thông + Use public transport daily.
-Taxi + /ˈtæksi/ + Xe taxi + Hail a taxi on the street.
-Subway + /ˈsʌbweɪ/ + Tàu điện ngầm + Take the subway to downtown.
-Shuttle + /ˈʃʌtl/ + Xe trung chuyển + Catch the shuttle bus here.
-Rental + /ˈrentl/ + Thuê xe + Car rental is very affordable.
-Hiking + /ˈhaɪkɪŋ/ + Đi bộ đường dài + Enjoy hiking in the woods.
-Camping + /ˈkæmpɪŋ/ + Cắm trại + We love weekend camping.
-Sunbathing + /ˈsʌnbeɪðɪŋ/ + Tắm nắng + She is sunbathing on the beach.
-Swimming + /ˈswɪmɪŋ/ + Bơi lội + Go swimming in the sea.
-Snorkeling + /ˈsnɔːrkəlɪŋ/ + Lặn ống thở + Try snorkeling to see fish.
-Diving + /ˈdaɪvɪŋ/ + Lặn sâu + Diving requires a license.
-Cruise + /kruːz/ + Chuyến du thuyền + Take a luxury river cruise.
-Pilgrimage + /ˈpɪlɡrɪmɪdʒ/ + Chuyến hành hương + It is a spiritual pilgrimage.
-Backpacking + /ˈbækpækɪŋ/ + Du lịch bụi + Backpacking is very exciting.
-Eco-tourism + /ˈiːkoʊ tʊrɪzəm/ + Du lịch sinh thái + Support eco-tourism projects.
-Visa-free + /ˈviːzə friː/ + Miễn thị thực + Some countries are visa-free.
-Excursion + /ɪkˈskɜːrʒn/ + Chuyến đi ngắn + We planned a field excursion.
-Overnight + /ˌoʊvərˈnaɪt/ + Qua đêm + Stay overnight in a tent.
-Peak season + /piːk ˈsiːzn/ + Mùa cao điểm + Avoid traveling in peak season.
-Off-season + /ˌɔːf ˈsiːzn/ + Mùa thấp điểm + Prices drop in the off-season.
-Package + /ˈpækɪdʒ/ + Gói dịch vụ + We bought a vacation package.
-Travel agent + /ˈtrævl eɪdʒənt/ + Đại lý du lịch + Consult a travel agent.
-Travel agency + /ˈtrævl eɪdʒənsi/ + Công ty du lịch + Contact the travel agency.
-Tour guide + /ˈtʊr ɡaɪd/ + Hướng dẫn viên + The tour guide spoke well.
-Tourist + /ˈtʊrɪst/ + Khách du lịch + Many tourists visit here.
-Traveler + /ˈtrævələr/ + Người du lịch + Meet a fellow traveler.
-Backpacker + /ˈbækpækər + Khách du lịch bụi + Backpackers often use hostels.
-Voyager + /ˈvɔɪɪdʒər/ + Người đi biển xa + He is a brave voyager.
-Globe-trotter + /ɡloʊb trɑːtər/ + Người đi khắp thế giới + She is a true globe-trotter.
-Passerby + /ˈpæsbɑːi/ + Người qua đường + Ask a passerby for help.
-Local + /ˈloʊkl/ + Người địa phương + Talk to the local people.
-Foreigner + /ˈfɔːrənər/ + Người nước ngoài + Help a confused foreigner.
-Expat + /ˈekspæt/ + Người nước ngoài sống lâu + He is an expat in Vietnam.
-Hospitality + /ˌhɑːspɪˈtæləti/ + Sự hiếu khách + Local hospitality is warm.
-Friendly + /ˈfrendli/ + Thân thiện + People here are very friendly.
-Crowded + /ˈkraʊdɪd/ + Đông đúc + The square is very crowded.
-Scenic + /ˈsiːnɪk/ + Có cảnh đẹp + It is a scenic route.
-Picturesque + /ˌpɪktʃəˈresk/ + Đẹp như tranh + The village is picturesque.
-Breathtaking + /ˈbreθteɪkɪŋ/ + Đẹp nghẹt thở + The view is breathtaking.
-Historic + /hɪˈstɔːrɪk/ + Có tính lịch sử + Explore the historic center.
-Exotic + /ɪɡˈzɑːtɪk/ + Kỳ lạ/hấp dẫn + Try some exotic local food.
-Vibrant + /ˈvaɪbrənt/ + Sôi động + The city is very vibrant.
-Remote + /rɪˈmoʊt/ + Hẻo lánh + We visited a remote village.
-Unspoiled + /ʌnˈspɔɪld/ + Hoang sơ + The beach is still unspoiled.
-Adventure + /ədˈventʃər/ + Phiêu lưu + A daring mountain adventure.
-Journey + /ˈdʒɜːrni/ + Chuyến hành trình + A long journey home.
-Voyage + /ˈvɔɪɪdʒ/ + Chuyến đi biển + A long voyage by ship.
-Passage + /ˈpæsɪdʒ/ + Hành trình/lối đi + A safe passage across sea.
-Trek + /trek/ + Cuộc đi bộ dài + A difficult mountain trek.
-Safari + /səˈfɑːri/ + Chuyến đi xem thú + A wild animal safari.
-Getaway + /ˈɡetəweɪ/ + Chuyến đi nghỉ ngơi + A weekend getaway home.
-Retreat + /rɪˈtriːt/ + Nơi nghỉ dưỡng + A yoga retreat in nature.
-Staycation + /steɪˈkeɪʃn/ + Du lịch tại chỗ + Enjoy a relaxing staycation.
-Transit + /ˈtrænɪst/ + Quá cảnh + We are in transit tonight.
-Stopover + /ˈstɑːpoʊvər/ + Điểm dừng chân + Have a short stopover trip.
-Layover + /ˈleɪoʊvər/ + Thời gian chờ bay + A long layover at airport.
-Baggage + /ˈbæɡɪdʒ/ + Hành lý + Keep your baggage close by.
-Hand luggage + /hænd ˈlʌɡɪdʒ/ + Hành lý xách tay + Carry-on hand luggage only.
-Check-in desk + /ˈtʃek ɪn desk/ + Bàn làm thủ tục + Go to the check-in desk.
-Gate + /ɡeɪt/ + Cổng + The gate closes at noon.
-Aisle + /aɪl/ + Lối đi (trong máy bay) + I prefer an aisle seat.
-Window seat + /ˈwɪndoʊ siːt/ + Ghế cửa sổ + Book me a window seat.
-Turbulence + /ˈtɜːrbjələns/ + Sự rung lắc + The flight had some turbulence.
-Land + /lænd/ + Hạ cánh + The plane will land soon.
-Take off + /ˈteɪk ɔːf/ + Cất cánh + Prepare for the take off.
-Customs officer + /ˈkʌstəmz ˈɔːfɪsər/ + Nhân viên hải quan + Answer the officer's questions.
-Immigration + /ˌɪmɪˈɡreɪʃn/ + Nhập cảnh + Clear immigration procedures.
-Declare + /dɪˈkleər/ + Khai báo + Do you have items to declare?
-Currency exchange + /ˈkɜːrənsi ɪksˈtʃeɪndʒ/ + Đổi tiền + Find a currency exchange.
-ATM + /eɪ tiː em/ + Máy rút tiền + Find an ATM nearby.
-Credit card + /ˈkredɪt kɑːrd/ + Thẻ tín dụng + Do you accept credit cards?
-Cash + /kæʃ/ + Tiền mặt + Always carry some emergency cash.
-Tip + /tɪp/ + Tiền bo + Don't forget to tip staff.
-Guide + /ɡaɪd/ + Người hướng dẫn + Hire a professional tour guide.
-Brochure + /ˈbroʊʃʊr/ + Tờ rơi quảng cáo + Read the travel brochure.
-Itinerary + /aɪˈtɪnəreri/ + Kế hoạch đi + Adjust your travel itinerary.
-Check-in time + /ˈtʃek ɪn taɪm/ + Giờ nhận phòng + Check-in time is at two.
-Check-out time + /ˈtʃek aʊt taɪm/ + Giờ trả phòng + Respect the check-out time.
-Room service + /ˈruːm sɜːrvɪs/ + Dịch vụ phòng + Call for room service.
-Housekeeping + /ˈhaʊskiːpɪŋ/ + Dọn phòng + Call housekeeping for towels.
-Wake-up call + /ˈweɪk ʌp kɔːl/ + Cuộc gọi đánh thức + Set a morning wake-up call.
-Mini-bar + /ˈmɪni bɑːr/ + Tủ lạnh nhỏ + Everything in the mini-bar.
-Concierge + /ˌkɑːnsiˈerʒ/ + Nhân viên sảnh + Ask the concierge for advice.
-WiFi + /ˈwaɪfaɪ/ + Mạng không dây + Is the WiFi free here?
-Amenities + /əˈmenətiz/ + Tiện nghi + The hotel has many amenities.
-View + /vjuː/ + Tầm nhìn + The room has an ocean view.
-Bookable + /ˈbʊkəbl/ + Có thể đặt được + Are these tours still bookable?
-Fully booked + /ˈfʊli bʊkt/ + Đã hết chỗ + The hotel is fully booked.
-Cancellable + /ˈkænsələbl/ + Có thể hủy + Choose a cancellable ticket.
-Non-refundable + /ˌnɑːn rɪˈfʌndəbl/ + Không hoàn tiền + The price is non-refundable.
-Duty-free shop + /ˈduːti friː ʃɒp/ + Cửa hàng miễn thuế + Visit the duty-free shop.
-Souvenir shop + /ˌsuːvəˈnɪr ʃɒp/ + Cửa hàng quà tặng + Buy gifts at souvenir shop.
-Tourist attraction + /ˈtʊrɪst əˈtrækʃn/ + Điểm tham quan + It is a top tourist attraction.
-Guided tour + /ˈɡaɪdɪd tʊr/ + Tour hướng dẫn + A guided tour is safer.
-Self-guided + /self ˈɡaɪdɪd/ + Tự tham quan + Try a self-guided tour.
-Audio guide + /ˈɔːdioʊ ɡaɪd/ + Máy nghe hướng dẫn + Use the audio guide tool.
-Entrance fee + /ˈentrəns fiː/ + Phí vào cửa + What is the entrance fee?
-Open hours + /ˈoʊpən ˈaʊərz/ + Giờ mở cửa + Check the daily open hours.
-Peak time + /piːk taɪm/ + Giờ cao điểm + Visit during non-peak time.
-Crowded + /ˈkraʊdɪd/ + Đông + It gets crowded at noon.
-Quiet + /ˈkwaɪət/ + Yên tĩnh + Find a quiet hidden spot.
-Safe + /seɪf/ + An toàn + Keep your passport in a safe.
-Vaccination + /ˌvæksɪˈneɪʃn/ + Tiêm chủng + Get your necessary vaccination.
-Insurance + /ɪnˈʃʊrəns/ + Bảo hiểm + Buy travel insurance plan.
-Emergency + /ɪˈmɜːrdʒənsi/ + Khẩn cấp + In case of any emergency.
-Pharmacy + /ˈfɑːrməsi/ + Hiệu thuốc + Find a pharmacy nearby.
-Directions + /dəˈrekʃnz/ + Chỉ dẫn đường + Ask for clear directions.
-Public transport + /ˈpʌblɪk ˈtrænspɔːrt/ + Giao thông công cộng + Use local public transport.
-Metro + /ˈmetroʊ/ + Tàu điện + Take the metro to station.
-Train station + /treɪn ˈsteɪʃn/ + Ga tàu + Meet at the train station.
-Bus stop + /bʌs stɑp/ + Trạm xe buýt + Wait at the bus stop.
-Ticket office + /ˈtɪkɪt ˈɔːfɪs/ + Phòng vé + Buy tickets at office.
-Arrival time + /əˈraɪvl taɪm/ + Giờ đến + What is the arrival time?
-Travel plan + /ˈtrævl plæn/ + Kế hoạch du lịch + Make a solid travel plan.
-Pack + /pæk/ + Đóng gói + Pack your bags tonight.
-Unpack + /ˌʌnˈpæk/ + Mở hành lý + Unpack when you arrive.
-Explore + /ɪkˈsplɔːr/ + Thăm dò + Go explore the old town.
-Wander + /ˈwɑːndər/ + Đi lang thang + Wander through the streets.
-Visit + /ˈvɪzɪt/ + Thăm hỏi + Visit famous local sites.
-Experience + /ɪkˈspɪriəns/ + Trải nghiệm + Enjoy the cultural experience.
-Discover + /dɪˈskʌvər/ + Khám phá + Discover hidden gems here.
-Soak + /soʊk/ + Tận hưởng + Soak in the local vibe.
-Relax + /rɪˈlæks/ + Thư giãn + Just relax at the beach.
-Enjoy + /ɪnˈdʒɔɪ/ + Tận hưởng + Enjoy your wonderful vacation.
+Travel * /ˈtrævl/ * Du lịch * I love to travel the world.
+Tourism * /ˈtʊrɪzəm/ * Ngành du lịch * This city relies on tourism.
+Destination * /ˌdestɪˈneɪʃn/ * Điểm đến * Our destination is Paris.
+Vacation * /veɪˈkeɪʃn/ * Kỳ nghỉ * We are on a summer vacation.
+Journey * /ˈdʒɜːrni/ * Chuyến đi * It was a long journey.
+Trip * /trɪp/ * Chuyến đi ngắn * How was your business trip?
+Tour * /tʊr/ * Chuyến tham quan * We booked a guided tour.
+Adventure * /ədˈventʃər/ * Cuộc phiêu lưu * Life is a big adventure.
+Sightseeing * /ˈsaɪtsiːɪŋ/ * Tham quan * We went sightseeing in Rome.
+Itinerary * /aɪˈtɪnəreri/ * Lịch trình * Check the itinerary for today.
+Passport * /ˈpæspɔːrt/ * Hộ chiếu * Don't forget your passport.
+Visa * /ˈviːzə/ * Thị thực * Do I need a visa here?
+Ticket * /ˈtɪkɪt/ * Vé * I bought a return ticket.
+Booking * /ˈbʊkɪŋ/ * Sự đặt chỗ * I have a hotel booking.
+Reservation * /ˌrezərˈveɪʃn/ * Sự đặt trước * Make a table reservation.
+Airport * /ˈerpɔːrt/ * Sân bay * We arrived at the airport early.
+Flight * /flaɪt/ * Chuyến bay * My flight was delayed.
+Departure * /dɪˈpɑːrtʃər/ * Khởi hành * The time of departure is 8 PM.
+Arrival * /əˈraɪvl/ * Đến nơi * Check the arrival schedule.
+Boarding pass * /ˈbɔːrdɪŋ pæs/ * Thẻ lên máy bay * Show your boarding pass.
+Check-in * /ˈtʃek ɪn/ * Làm thủ tục * Please check-in at the counter.
+Luggage * /ˈlʌɡɪdʒ/ * Hành lý * Where is the luggage claim?
+Suitcase * /ˈsuːtkeɪs/ * Vali * Pack your suitcase carefully.
+Backpack * /ˈbækpæk/ * Ba lô * He carries a travel backpack.
+Hotel * /hoʊˈtel/ * Khách sạn * The hotel has a great view.
+Resort * /rɪˈzɔːrt/ * Khu nghỉ dưỡng * We stayed at a beach resort.
+Hostel * /ˈhɑːstl/ * Nhà nghỉ giá rẻ * Hostels are popular with students.
+Guesthouse * /ˈɡesthaʊs/ * Nhà khách * The guesthouse is very cozy.
+Accommodation * /əˌkɑːməˈdeɪʃn/ * Chỗ ở * Find affordable accommodation.
+Reception * /rɪˈsepʃn/ * Quầy lễ tân * Ask for help at reception.
+Single room * /ˈsɪŋɡl ruːm/ * Phòng đơn * I booked a single room.
+Double room * /ˈdʌbl ruːm/ * Phòng đôi * Is a double room available?
+Suite * /swiːt/ * Phòng cao cấp * They upgraded to a luxury suite.
+Guidebook * /ˈɡaɪdbʊk/ * Sách hướng dẫn * Read the guidebook for tips.
+Map * /mæp/ * Bản đồ * Follow the map to the museum.
+Souvenir * /ˌsuːvəˈnɪr/ * Quà lưu niệm * Buy a souvenir for friends.
+Currency * /ˈkɜːrənsi/ * Tiền tệ * Exchange your local currency.
+Exchange rate * /ɪksˈtʃeɪndʒ reɪt/ * Tỷ giá hối đoái * Check the exchange rate.
+Budget * /ˈbʌdʒɪt/ * Ngân sách * We have a limited budget.
+Package tour * /ˈpækɪdʒ tʊr/ * Tour trọn gói * A package tour is convenient.
+Landmark * /ˈlændmɑːrk/ * Địa danh * This is a famous landmark.
+Monument * /ˈmɑːnjumənt/ * Đài tưởng niệm * Visit the historic monument.
+Museum * /mjuˈziːəm/ * Bảo tàng * The museum is closed today.
+Gallery * /ˈɡæləri/ * Phòng trưng bày * We visited an art gallery.
+Beach * /biːtʃ/ * Bãi biển * Relax on the sandy beach.
+Mountain * /ˈmaʊntn/ * Núi * We hiked up the mountain.
+Island * /ˈaɪlənd/ * Hòn đảo * Visit a tropical island.
+Forest * /ˈfɔːrɪst/ * Rừng * Explore the deep forest.
+Park * /pɑːrk/ * Công viên * Let's have a picnic in the park.
+Valley * /ˈvæli/ * Thung lũng * The valley is very beautiful.
+Waterfall * /ˈwɔːtərfɔːl/ * Thác nước * See the majestic waterfall.
+Coast * /koʊst/ * Bờ biển * Drive along the sunny coast.
+Desert * /ˈdezərt/ * Sa mạc * The desert is very hot.
+Culture * /ˈkʌltʃər/ * Văn hóa * Learn about local culture.
+Custom * /ˈkʌstəm/ * Phong tục * Respect local customs.
+Tradition * /trəˈdɪʃn/ * Truyền thống * Experience a local tradition.
+Festival * /ˈfestɪvl/ * Lễ hội * Attend the annual festival.
+Cuisine * /kwɪˈziːn/ * Ẩm thực * Try the delicious local cuisine.
+Specialty * /ˈspeʃəlti/ * Đặc sản * Taste the city's specialty.
+Explore * /ɪkˈsplɔːr/ * Khám phá * I want to explore the city.
+Sightsee * /ˈsaɪtsiː/ * Tham quan * We will sightsee tomorrow.
+Book * /bʊk/ * Đặt chỗ * Book your ticket in advance.
+Confirm * /kənˈfɜːrm/ * Xác nhận * Confirm your reservation online.
+Cancel * /ˈkænsl/ * Hủy bỏ * Cancel the trip due to rain.
+Delay * /dɪˈleɪ/ * Hoãn lại * The flight delay is frustrating.
+Customs * /ˈkʌstəmz/ * Hải quan * Clear customs at the airport.
+Security * /sɪˈkjʊrəti/ * An ninh * Go through security check.
+Duty-free * /ˈduːti friː/ * Miễn thuế * Buy gifts at duty-free.
+Departure gate * /dɪˈpɑːrtʃər ɡeɪt/ * Cổng khởi hành * Find your departure gate.
+Check-out * /ˈtʃek aʊt/ * Thủ tục trả phòng * Check-out is at 11 AM.
+Tip * /tɪp/ * Tiền boa * Leave a tip for the waiter.
+Transport * /ˈtrænspɔːrt/ * Giao thông * Use public transport daily.
+Taxi * /ˈtæksi/ * Xe taxi * Hail a taxi on the street.
+Subway * /ˈsʌbweɪ/ * Tàu điện ngầm * Take the subway to downtown.
+Shuttle * /ˈʃʌtl/ * Xe trung chuyển * Catch the shuttle bus here.
+Rental * /ˈrentl/ * Thuê xe * Car rental is very affordable.
+Hiking * /ˈhaɪkɪŋ/ * Đi bộ đường dài * Enjoy hiking in the woods.
+Camping * /ˈkæmpɪŋ/ * Cắm trại * We love weekend camping.
+Sunbathing * /ˈsʌnbeɪðɪŋ/ * Tắm nắng * She is sunbathing on the beach.
+Swimming * /ˈswɪmɪŋ/ * Bơi lội * Go swimming in the sea.
+Snorkeling * /ˈsnɔːrkəlɪŋ/ * Lặn ống thở * Try snorkeling to see fish.
+Diving * /ˈdaɪvɪŋ/ * Lặn sâu * Diving requires a license.
+Cruise * /kruːz/ * Chuyến du thuyền * Take a luxury river cruise.
+Pilgrimage * /ˈpɪlɡrɪmɪdʒ/ * Chuyến hành hương * It is a spiritual pilgrimage.
+Backpacking * /ˈbækpækɪŋ/ * Du lịch bụi * Backpacking is very exciting.
+Eco-tourism * /ˈiːkoʊ tʊrɪzəm/ * Du lịch sinh thái * Support eco-tourism projects.
+Visa-free * /ˈviːzə friː/ * Miễn thị thực * Some countries are visa-free.
+Excursion * /ɪkˈskɜːrʒn/ * Chuyến đi ngắn * We planned a field excursion.
+Overnight * /ˌoʊvərˈnaɪt/ * Qua đêm * Stay overnight in a tent.
+Peak season * /piːk ˈsiːzn/ * Mùa cao điểm * Avoid traveling in peak season.
+Off-season * /ˌɔːf ˈsiːzn/ * Mùa thấp điểm * Prices drop in the off-season.
+Package * /ˈpækɪdʒ/ * Gói dịch vụ * We bought a vacation package.
+Travel agent * /ˈtrævl eɪdʒənt/ * Đại lý du lịch * Consult a travel agent.
+Travel agency * /ˈtrævl eɪdʒənsi/ * Công ty du lịch * Contact the travel agency.
+Tour guide * /ˈtʊr ɡaɪd/ * Hướng dẫn viên * The tour guide spoke well.
+Tourist * /ˈtʊrɪst/ * Khách du lịch * Many tourists visit here.
+Traveler * /ˈtrævələr/ * Người du lịch * Meet a fellow traveler.
+Backpacker * /ˈbækpækər * Khách du lịch bụi * Backpackers often use hostels.
+Voyager * /ˈvɔɪɪdʒər/ * Người đi biển xa * He is a brave voyager.
+Globe-trotter * /ɡloʊb trɑːtər/ * Người đi khắp thế giới * She is a true globe-trotter.
+Passerby * /ˈpæsbɑːi/ * Người qua đường * Ask a passerby for help.
+Local * /ˈloʊkl/ * Người địa phương * Talk to the local people.
+Foreigner * /ˈfɔːrənər/ * Người nước ngoài * Help a confused foreigner.
+Expat * /ˈekspæt/ * Người nước ngoài sống lâu * He is an expat in Vietnam.
+Hospitality * /ˌhɑːspɪˈtæləti/ * Sự hiếu khách * Local hospitality is warm.
+Friendly * /ˈfrendli/ * Thân thiện * People here are very friendly.
+Crowded * /ˈkraʊdɪd/ * Đông đúc * The square is very crowded.
+Scenic * /ˈsiːnɪk/ * Có cảnh đẹp * It is a scenic route.
+Picturesque * /ˌpɪktʃəˈresk/ * Đẹp như tranh * The village is picturesque.
+Breathtaking * /ˈbreθteɪkɪŋ/ * Đẹp nghẹt thở * The view is breathtaking.
+Historic * /hɪˈstɔːrɪk/ * Có tính lịch sử * Explore the historic center.
+Exotic * /ɪɡˈzɑːtɪk/ * Kỳ lạ/hấp dẫn * Try some exotic local food.
+Vibrant * /ˈvaɪbrənt/ * Sôi động * The city is very vibrant.
+Remote * /rɪˈmoʊt/ * Hẻo lánh * We visited a remote village.
+Unspoiled * /ʌnˈspɔɪld/ * Hoang sơ * The beach is still unspoiled.
+Adventure * /ədˈventʃər/ * Phiêu lưu * A daring mountain adventure.
+Journey * /ˈdʒɜːrni/ * Chuyến hành trình * A long journey home.
+Voyage * /ˈvɔɪɪdʒ/ * Chuyến đi biển * A long voyage by ship.
+Passage * /ˈpæsɪdʒ/ * Hành trình/lối đi * A safe passage across sea.
+Trek * /trek/ * Cuộc đi bộ dài * A difficult mountain trek.
+Safari * /səˈfɑːri/ * Chuyến đi xem thú * A wild animal safari.
+Getaway * /ˈɡetəweɪ/ * Chuyến đi nghỉ ngơi * A weekend getaway home.
+Retreat * /rɪˈtriːt/ * Nơi nghỉ dưỡng * A yoga retreat in nature.
+Staycation * /steɪˈkeɪʃn/ * Du lịch tại chỗ * Enjoy a relaxing staycation.
+Transit * /ˈtrænɪst/ * Quá cảnh * We are in transit tonight.
+Stopover * /ˈstɑːpoʊvər/ * Điểm dừng chân * Have a short stopover trip.
+Layover * /ˈleɪoʊvər/ * Thời gian chờ bay * A long layover at airport.
+Baggage * /ˈbæɡɪdʒ/ * Hành lý * Keep your baggage close by.
+Hand luggage * /hænd ˈlʌɡɪdʒ/ * Hành lý xách tay * Carry-on hand luggage only.
+Check-in desk * /ˈtʃek ɪn desk/ * Bàn làm thủ tục * Go to the check-in desk.
+Gate * /ɡeɪt/ * Cổng * The gate closes at noon.
+Aisle * /aɪl/ * Lối đi (trong máy bay) * I prefer an aisle seat.
+Window seat * /ˈwɪndoʊ siːt/ * Ghế cửa sổ * Book me a window seat.
+Turbulence * /ˈtɜːrbjələns/ * Sự rung lắc * The flight had some turbulence.
+Land * /lænd/ * Hạ cánh * The plane will land soon.
+Take off * /ˈteɪk ɔːf/ * Cất cánh * Prepare for the take off.
+Customs officer * /ˈkʌstəmz ˈɔːfɪsər/ * Nhân viên hải quan * Answer the officer's questions.
+Immigration * /ˌɪmɪˈɡreɪʃn/ * Nhập cảnh * Clear immigration procedures.
+Declare * /dɪˈkleər/ * Khai báo * Do you have items to declare?
+Currency exchange * /ˈkɜːrənsi ɪksˈtʃeɪndʒ/ * Đổi tiền * Find a currency exchange.
+ATM * /eɪ tiː em/ * Máy rút tiền * Find an ATM nearby.
+Credit card * /ˈkredɪt kɑːrd/ * Thẻ tín dụng * Do you accept credit cards?
+Cash * /kæʃ/ * Tiền mặt * Always carry some emergency cash.
+Tip * /tɪp/ * Tiền bo * Don't forget to tip staff.
+Guide * /ɡaɪd/ * Người hướng dẫn * Hire a professional tour guide.
+Brochure * /ˈbroʊʃʊr/ * Tờ rơi quảng cáo * Read the travel brochure.
+Itinerary * /aɪˈtɪnəreri/ * Kế hoạch đi * Adjust your travel itinerary.
+Check-in time * /ˈtʃek ɪn taɪm/ * Giờ nhận phòng * Check-in time is at two.
+Check-out time * /ˈtʃek aʊt taɪm/ * Giờ trả phòng * Respect the check-out time.
+Room service * /ˈruːm sɜːrvɪs/ * Dịch vụ phòng * Call for room service.
+Housekeeping * /ˈhaʊskiːpɪŋ/ * Dọn phòng * Call housekeeping for towels.
+Wake-up call * /ˈweɪk ʌp kɔːl/ * Cuộc gọi đánh thức * Set a morning wake-up call.
+Mini-bar * /ˈmɪni bɑːr/ * Tủ lạnh nhỏ * Everything in the mini-bar.
+Concierge * /ˌkɑːnsiˈerʒ/ * Nhân viên sảnh * Ask the concierge for advice.
+WiFi * /ˈwaɪfaɪ/ * Mạng không dây * Is the WiFi free here?
+Amenities * /əˈmenətiz/ * Tiện nghi * The hotel has many amenities.
+View * /vjuː/ * Tầm nhìn * The room has an ocean view.
+Bookable * /ˈbʊkəbl/ * Có thể đặt được * Are these tours still bookable?
+Fully booked * /ˈfʊli bʊkt/ * Đã hết chỗ * The hotel is fully booked.
+Cancellable * /ˈkænsələbl/ * Có thể hủy * Choose a cancellable ticket.
+Non-refundable * /ˌnɑːn rɪˈfʌndəbl/ * Không hoàn tiền * The price is non-refundable.
+Duty-free shop * /ˈduːti friː ʃɒp/ * Cửa hàng miễn thuế * Visit the duty-free shop.
+Souvenir shop * /ˌsuːvəˈnɪr ʃɒp/ * Cửa hàng quà tặng * Buy gifts at souvenir shop.
+Tourist attraction * /ˈtʊrɪst əˈtrækʃn/ * Điểm tham quan * It is a top tourist attraction.
+Guided tour * /ˈɡaɪdɪd tʊr/ * Tour hướng dẫn * A guided tour is safer.
+Self-guided * /self ˈɡaɪdɪd/ * Tự tham quan * Try a self-guided tour.
+Audio guide * /ˈɔːdioʊ ɡaɪd/ * Máy nghe hướng dẫn * Use the audio guide tool.
+Entrance fee * /ˈentrəns fiː/ * Phí vào cửa * What is the entrance fee?
+Open hours * /ˈoʊpən ˈaʊərz/ * Giờ mở cửa * Check the daily open hours.
+Peak time * /piːk taɪm/ * Giờ cao điểm * Visit during non-peak time.
+Crowded * /ˈkraʊdɪd/ * Đông * It gets crowded at noon.
+Quiet * /ˈkwaɪət/ * Yên tĩnh * Find a quiet hidden spot.
+Safe * /seɪf/ * An toàn * Keep your passport in a safe.
+Vaccination * /ˌvæksɪˈneɪʃn/ * Tiêm chủng * Get your necessary vaccination.
+Insurance * /ɪnˈʃʊrəns/ * Bảo hiểm * Buy travel insurance plan.
+Emergency * /ɪˈmɜːrdʒənsi/ * Khẩn cấp * In case of any emergency.
+Pharmacy * /ˈfɑːrməsi/ * Hiệu thuốc * Find a pharmacy nearby.
+Directions * /dəˈrekʃnz/ * Chỉ dẫn đường * Ask for clear directions.
+Public transport * /ˈpʌblɪk ˈtrænspɔːrt/ * Giao thông công cộng * Use local public transport.
+Metro * /ˈmetroʊ/ * Tàu điện * Take the metro to station.
+Train station * /treɪn ˈsteɪʃn/ * Ga tàu * Meet at the train station.
+Bus stop * /bʌs stɑp/ * Trạm xe buýt * Wait at the bus stop.
+Ticket office * /ˈtɪkɪt ˈɔːfɪs/ * Phòng vé * Buy tickets at office.
+Arrival time * /əˈraɪvl taɪm/ * Giờ đến * What is the arrival time?
+Travel plan * /ˈtrævl plæn/ * Kế hoạch du lịch * Make a solid travel plan.
+Pack * /pæk/ * Đóng gói * Pack your bags tonight.
+Unpack * /ˌʌnˈpæk/ * Mở hành lý * Unpack when you arrive.
+Explore * /ɪkˈsplɔːr/ * Thăm dò * Go explore the old town.
+Wander * /ˈwɑːndər/ * Đi lang thang * Wander through the streets.
+Visit * /ˈvɪzɪt/ * Thăm hỏi * Visit famous local sites.
+Experience * /ɪkˈspɪriəns/ * Trải nghiệm * Enjoy the cultural experience.
+Discover * /dɪˈskʌvər/ * Khám phá * Discover hidden gems here.
+Soak * /soʊk/ * Tận hưởng * Soak in the local vibe.
+Relax * /rɪˈlæks/ * Thư giãn * Just relax at the beach.
+Enjoy * /ɪnˈdʒɔɪ/ * Tận hưởng * Enjoy your wonderful vacation.

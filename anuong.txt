@@ -1,204 +1,204 @@
-Ingredient + /ˈɪnɡriːdiənt/ + Nguyên liệu + Fresh ingredients make the best meal.
-Recipe + /ˈresɪpi/ + Công thức nấu ăn + She shared her secret recipe with me.
-Delicious + /dɪˈlɪʃəs/ + Ngon miệng + This soup is absolutely delicious.
-Nutritious + /njuˈtrɪʃəs/ + Bổ dưỡng + Vegetables are very nutritious.
-Beverage + /ˈbevərɪdʒ/ + Đồ uống + We offer a wide range of beverages.
-Appetite + /ˈæpɪtaɪt/ + Sự ngon miệng + Exercise gives you a good appetite.
-Banquet + /ˈbæŋkwɪt/ + Bữa tiệc lớn + The king held a grand banquet.
-Bitter + /ˈbɪtər/ + Đắng + This coffee tastes a bit bitter.
-Bland + /blænd/ + Nhạt nhẽo + The soup was bland and needed salt.
-Breakfast + /ˈbrekfəst/ + Bữa sáng + I usually have eggs for breakfast.
-Brunch + /brʌntʃ/ + Bữa ăn giữa sáng và trưa + Let’s go out for brunch on Sunday.
-Buffet + /ˈbʊfeɪ/ + Tiệc buffet + We ate at an all-you-can-eat buffet.
-Canteen + /kænˈtiːn/ + Căn tin + The students ate at the school canteen.
-Carbohydrate + /ˌkɑːrbəˈhaɪdreɪt/ + Chất bột đường + Rice is a good source of carbohydrates.
-Chopsticks + /ˈtʃɒpstɪks/ + Đũa + It is difficult to eat soup with chopsticks.
-Cuisine + /kwɪˈziːn/ + Ẩm thực + I love authentic Italian cuisine.
-Dairy + /ˈderi/ + Sản phẩm từ sữa + Some people are allergic to dairy.
-Dessert + /dɪˈzɜːrt/ + Món tráng miệng + What would you like for dessert?
-Diet + /ˈdaɪət/ + Chế độ ăn uống + She is on a healthy diet.
-Dinner + /ˈdɪnər/ + Bữa tối + What time do you have dinner?
-Dish + /dɪʃ/ + Món ăn + This is my favorite traditional dish.
-Edible + /ˈedəbl/ + Có thể ăn được + Are these berries edible?
-Flavor + /ˈfleɪvər/ + Hương vị + The sauce has a strong garlic flavor.
-Fresh + /freʃ/ + Tươi mới + We bought fresh fruit at the market.
-Fry + /fraɪ/ + Chiên, rán + Don't fry the food in too much oil.
-Gourmet + /ˈɡɔːrmeɪ/ + Cao cấp, sành ăn + He is a true gourmet cook.
-Greasy + /ˈɡriːsi/ + Nhiều dầu mỡ + I don't like greasy fast food.
-Grill + /ɡrɪl/ + Nướng vỉ + Let's grill some meat in the garden.
-Healthy + /ˈhelθi/ + Lành mạnh + A balanced diet is very healthy.
-Herb + /hɜːrb/ + Thảo mộc + Add some fresh herbs to the salad.
-Hunger + /ˈhʌŋɡər/ + Cơn đói + The hunger made him weak.
-Junk food + /ˈdʒʌŋk fuːd/ + Đồ ăn vặt không tốt + Junk food causes weight gain.
-Kitchen + /ˈkɪtʃɪn/ + Nhà bếp + She is cooking in the kitchen.
-Knife + /naɪf/ + Dao + Use a sharp knife to cut the bread.
-Lunch + /lʌntʃ/ + Bữa trưa + We had lunch at a small café.
-Menu + /ˈmenjuː/ + Thực đơn + May I see the menu, please?
-Microwave + /ˈmaɪkrəweɪv/ + Lò vi sóng + Reheat the leftovers in the microwave.
-Nibble + /ˈnɪbl/ + Nhấm nháp + The rabbit began to nibble the carrot.
-Nutrition + /njuˈtrɪʃn/ + Dinh dưỡng + Good nutrition is vital for children.
-Organic + /ɔːrˈɡænɪk/ + Hữu cơ + I prefer buying organic vegetables.
-Oven + /ˈʌvn/ + Lò nướng + Preheat the oven to 180 degrees.
-Palate + /ˈpælət/ + Khẩu vị + The wine suits my palate perfectly.
-Pantry + /ˈpæntri/ + Tủ chứa thực phẩm + Store the flour in the pantry.
-Pastry + /ˈpeɪstri/ + Bánh ngọt + She baked a delicious apple pastry.
-Plate + /pleɪt/ + Cái đĩa + Put the food on a clean plate.
-Portion + /ˈpɔːrʃn/ + Khẩu phần + This is a large portion for one person.
-Protein + /ˈproʊtiːn/ + Chất đạm + Meat is a primary source of protein.
-Refreshment + /rɪˈfreʃmənt/ + Đồ ăn nhẹ + Refreshments will be served later.
-Restaurant + /ˈrestrɑːnt/ + Nhà hàng + This is a famous local restaurant.
-Roast + /roʊst/ + Quay, nướng lò + We had roast chicken for Sunday dinner.
-Salty + /ˈsɔːlti/ + Mặn + The soup is too salty.
-Savor + /ˈseɪvər/ + Thưởng thức + She savored every bite of the cake.
-Seasoning + /ˈsiːzənɪŋ/ + Gia vị + Add more seasoning to the stew.
-Serve + /sɜːrv/ + Phục vụ + They serve breakfast until 10 AM.
-Snack + /snæk/ + Đồ ăn nhẹ + I often have a snack at 4 PM.
-Sour + /ˈsaʊər/ + Chua + Lemons have a sour taste.
-Spicy + /ˈspaɪsi/ + Cay + I love spicy Thai food.
-Spoon + /spuːn/ + Cái thìa + Use a spoon to eat your soup.
-Steam + /stiːm/ + Hấp + Steamed fish is very healthy.
-Stew + /stjuː/ + Món hầm + Beef stew is perfect for winter.
-Stir-fry + /ˈstɜːr fraɪ/ + Xào + I will stir-fry the vegetables.
-Sweet + /swiːt/ + Ngọt + This candy is very sweet.
-Tableware + /ˈteɪblwer/ + Dụng cụ ăn uống + Please set the tableware for guests.
-Tasty + /ˈteɪsti/ + Ngon + The grilled fish was very tasty.
-Tender + /ˈtendər/ + Mềm + The steak was incredibly tender.
-Thirst + /θɜːrst/ + Cơn khát + Drink water to quench your thirst.
-Toast + /toʊst/ + Bánh mì nướng + I had toast with jam for breakfast.
-Utensil + /juːˈtensl/ + Dụng cụ nhà bếp + Keep your cooking utensils clean.
-Vegetarian + /ˌvedʒəˈteəriən/ + Người ăn chay + He has been a vegetarian for years.
-Vitamin + /ˈvaɪtəmɪn/ + Vitamin + Oranges are full of vitamin C.
-Waiter + /ˈweɪtər/ + Nam phục vụ + The waiter brought us the bill.
-Whisk + /wɪsk/ + Đánh trứng + Use a whisk to beat the eggs.
-Yeast + /jiːst/ + Men làm bánh + Yeast is used to make bread rise.
-Zest + /zest/ + Vỏ chanh/cam + Add some lemon zest for flavor.
-Appetizer + /ˈæpɪtaɪzər/ + Món khai vị + We ordered soup as an appetizer.
-Broth + /brɒθ/ + Nước dùng + The chicken broth is very flavorful.
-Cabbage + /ˈkæbɪdʒ/ + Bắp cải + She is chopping some cabbage for salad.
-Calorie + /ˈkæləri/ + Calo + This meal is low in calories.
-Casserole + /ˈkæsəroʊl/ + Món hầm trong nồi + She made a vegetable casserole.
-Catering + /ˈkeɪtərɪŋ/ + Dịch vụ cung cấp tiệc + They provide catering for weddings.
-Chop + /tʃɒp/ + Cắt nhỏ + Chop the onions into small pieces.
-Condiment + /ˈkɑːndɪmənt/ + Đồ gia vị + Mustard is a popular condiment.
-Cookware + /ˈkʊkwer/ + Dụng cụ nấu nướng + Non-stick cookware is easy to clean.
-Crust + /krʌst/ + Vỏ bánh + I love the crust of fresh bread.
-Culinary + /ˈkʌlɪneri/ + Thuộc ẩm thực + She is attending a culinary school.
-Decaf + /ˈdiːkæf/ + Cà phê không caffeine + I would like a cup of decaf.
-Dice + /daɪs/ + Cắt hạt lựu + Dice the potatoes into cubes.
-Dine + /daɪn/ + Ăn tối + We will dine at a luxury restaurant.
-Dishwasher + /ˈdɪʃwɑːʃər/ + Máy rửa bát + Put the plates in the dishwasher.
-Dough + /doʊ/ + Bột nhào + Knead the dough until it is smooth.
-Dressing + /ˈdresɪŋ/ + Nước sốt salad + Olive oil makes a good salad dressing.
-Eat out + /iːt aʊt/ + Ăn ngoài + Let’s eat out tonight.
-Entree + /ˈɑːntreɪ/ + Món chính + What is your main entree?
-Feast + /fiːst/ + Bữa tiệc thịnh soạn + We had a feast for Thanksgiving.
-Fillet + /ˈfɪlɪt/ + Phi lê + He grilled a salmon fillet.
-Flavoring + /ˈfleɪvərɪŋ/ + Chất tạo hương + Vanilla is a common flavoring.
-Foodie + /ˈfuːdi/ + Người sành ăn + My friend is a real foodie.
-Fork + /fɔːrk/ + Cái nĩa + Eat the salad with a fork.
-Freeze + /friːz/ + Làm đông + You can freeze these leftovers.
-Freshness + /ˈfreʃnəs/ + Độ tươi + The freshness of the fish is important.
-Full + /fʊl/ + No + I am too full to eat dessert.
-Garlic + /ˈɡɑːrlɪk/ + Tỏi + Add some garlic to the stir-fry.
-Gastronomy + /ɡæˈstrɒnəmi/ + Nghệ thuật ẩm thực + She studies French gastronomy.
-Garnish + /ˈɡɑːrnɪʃ/ + Trang trí món ăn + Garnish the dish with parsley.
-Glaze + /ɡleɪz/ + Lớp phủ bóng + The cake has a sugar glaze.
-Glutinous + /ˈɡluːtɪnəs/ + Dẻo + I love eating glutinous rice.
-Gluten + /ˈɡluːtn/ + Chất bột trong lúa mì + She avoids food containing gluten.
-Griddle + /ˈɡrɪdl/ + Vỉ nướng + Cook pancakes on a hot griddle.
-Grate + /ɡreɪt/ + Bào nhỏ + Grate some cheese over the pasta.
-Gravy + /ˈɡreɪvi/ + Nước xốt thịt + Pour the gravy over the meat.
-Gullet + /ˈɡʌlɪt/ + Thực quản + The food went down his gullet.
-Heat + /hiːt/ + Làm nóng + Heat the soup on the stove.
-Home-cooked + /hoʊm kʊkt/ + Cơm nhà + I prefer home-cooked meals.
-Hot + /hɒt/ + Nóng + The soup is still very hot.
-Ice + /aɪs/ + Đá + Could I have some ice for my drink?
-Infusion + /ɪnˈfjuːʒn/ + Nước trà thảo mộc + This is an herbal infusion.
-Jar + /dʒɑːr/ + Lọ, hũ + There is a jar of honey on the shelf.
-Juicy + /ˈdʒuːsi/ + Mọng nước + The orange was very juicy.
-Junk + /dʒʌŋk/ + Đồ linh tinh + Avoid eating too much junk.
-Kebab + /kɪˈbɑːb/ + Món thịt xiên + We bought a kebab from the stand.
-Kettle + /ˈketl/ + Ấm đun nước + Boil the water in the kettle.
-Knead + /niːd/ + Nhào bột + Knead the dough for ten minutes.
-Ladle + /ˈleɪdl/ + Cái muôi + Use a ladle to serve the soup.
-Leftovers + /ˈleftoʊvərz/ + Thức ăn thừa + We ate leftovers for lunch.
-Legume + /ˈleɡjuːm/ + Cây họ đậu + Lentils are a type of legume.
-Lemonade + /ˌleməˈneɪd/ + Nước chanh + She made fresh lemonade.
-Lick + /lɪk/ + Liếm + The child started to lick the ice cream.
-Liquor + /ˈlɪkər/ + Rượu mạnh + He does not drink hard liquor.
-Loaf + /loʊf/ + Ổ bánh mì + I bought a loaf of bread today.
-Lobster + /ˈlɒbstər/ + Tôm hùm + We ordered grilled lobster.
-Lump + /lʌmp/ + Cục, vón cục + Stir well so there are no lumps.
-Lunchtime + /ˈlʌntʃtaɪm/ + Giờ ăn trưa + We usually break at lunchtime.
-Macerate + /ˈmæsəreɪt/ + Ngâm trái cây + Macerate the berries in sugar.
-Main course + /meɪn kɔːrs/ + Món chính + What are you having for the main course?
-Marinate + /ˈmærɪneɪt/ + Ướp thịt + Marinate the beef for two hours.
-Mash + /mæʃ/ + Nghiền + Mash the potatoes until smooth.
-Meal + /miːl/ + Bữa ăn + Let's have a big meal together.
-Meat + /miːt/ + Thịt + He doesn't eat much red meat.
-Melt + /melt/ + Tan chảy + Let the butter melt in the pan.
-Mince + /mɪns/ + Băm nhỏ + Mince the garlic and ginger.
-Mix + /mɪks/ + Trộn + Mix all ingredients in a bowl.
-Morsel + /ˈmɔːrsl/ + Miếng nhỏ + He ate every morsel of food.
-Mug + /mʌɡ/ + Cái ca, cốc + He drank coffee from a large mug.
-Mustard + /ˈmʌstərd/ + Mù tạt + Do you like mustard on your hotdog?
-Nectar + /ˈnektər/ + Mật hoa + Bees collect nectar from flowers.
-Noodle + /ˈnuːdl/ + Mì sợi + I want to eat beef noodles.
-Nut + /nʌt/ + Hạt + Some people are allergic to nuts.
-Oat + /oʊt/ + Yến mạch + Oatmeal is a healthy breakfast.
-Oil + /ɔɪl/ + Dầu ăn + Use a little oil for frying.
-Onion + /ˈʌnjən/ + Hành tây + Slice the onion thinly.
-Pan + /pæn/ + Cái chảo + Fry the eggs in the pan.
-Pancake + /ˈpænkeɪk/ + Bánh kếp + We had pancakes with syrup.
-Parsley + /ˈpɑːrsli/ + Cần tây + Garnish the soup with parsley.
-Pasta + /ˈpæstə/ + Mì ý + Let's cook pasta for dinner.
-Peel + /piːl/ + Gọt vỏ + Peel the apples before eating.
-Pepper + /ˈpepər/ + Hạt tiêu + Add a little pepper to the sauce.
-Pickle + /ˈpɪkl/ + Dưa muối + I like eating pickles with meat.
-Pie + /paɪ/ + Bánh nướng + She made a blueberry pie.
-Pitcher + /ˈpɪtʃər/ + Bình nước + Pour juice from the pitcher.
-Pizza + /ˈpiːtsə/ + Bánh pizza + We ordered a large cheese pizza.
-Poach + /poʊtʃ/ + Chần + Poach the egg in boiling water.
-Pot + /pɒt/ + Nồi + Boil potatoes in a large pot.
-Poultry + /ˈpoʊltri/ + Gia cầm + They raise poultry on the farm.
-Preheat + /ˌpriːˈhiːt/ + Làm nóng lò trước + Preheat the oven before baking.
-Prepare + /prɪˈper/ + Chuẩn bị + Prepare the salad ingredients.
-Preserve + /prɪˈzɜːrv/ + Mứt trái cây + I like strawberry preserve.
-Puree + /ˈpjʊəreɪ/ + Nghiền nhuyễn + Make a puree of fresh tomatoes.
-Quench + /kwentʃ/ + Làm hết khát + Water is best to quench thirst.
-Rare + /rer/ + Tái (thịt) + I prefer my steak served rare.
-Raw + /rɔː/ + Sống + Some fish is eaten raw.
-Refresh + /rɪˈfreʃ/ + Làm tỉnh táo + A cold drink will refresh you.
-Reheat + /ˌriːˈhiːt/ + Hâm nóng + Reheat the meal in the pan.
-Rice + /raɪs/ + Gạo/cơm + We eat rice at every meal.
-Ripe + /raɪp/ + Chín + Pick the ripe mangoes.
-Roll + /roʊl/ + Cuộn + Sushi rolls are very popular.
-Salad + /ˈsæləd/ + Món salad + Eat a salad with your lunch.
-Salmon + /ˈsæmən/ + Cá hồi + Grilled salmon is very healthy.
-Sauce + /sɔːs/ + Nước sốt + This sauce tastes very spicy.
-Sauté + /ˈsoʊteɪ/ + Áp chảo + Sauté the onions until soft.
-Scramble + /ˈskræmbl/ + Trứng khuấy + I like scrambled eggs for breakfast.
-Seed + /siːd/ + Hạt + Remove the seeds from the melon.
-Serve + /sɜːrv/ + Phục vụ + Serve the dinner while it is hot.
-Serving + /ˈsɜːrvɪŋ/ + Suất ăn + One serving is enough for him.
-Sift + /sɪft/ + Rây bột + Sift the flour before mixing.
-Simmer + /ˈsɪmər/ + Ninh nhỏ lửa + Simmer the soup for an hour.
-Slice + /slaɪs/ + Lát mỏng + Cut the bread into thin slices.
-Smoothie + /ˈsmuːði/ + Sinh tố + I drink a fruit smoothie daily.
-Soup + /suːp/ + Canh + Tomato soup is delicious.
-Spice + /spaɪs/ + Gia vị + Use some exotic spices for flavor.
-Spread + /spred/ + Phết + Spread butter on the toast.
-Starch + /stɑːrtʃ/ + Tinh bột + Potatoes contain a lot of starch.
-Sugar + /ˈʃʊɡər/ + Đường + Don't add too much sugar.
-Syrup + /ˈsɪrəp/ + Xi-rô + Pour maple syrup over the pancakes.
-Taste + /teɪst/ + Nếm + Let me taste the sauce.
-Tofu + /ˈtoʊfuː/ + Đậu phụ + Tofu is a great meat substitute.
-Tray + /treɪ/ + Cái khay + Bring the drinks on a tray.
-Vegan + /ˈviːɡən/ + Người thuần chay + A vegan diet contains no animal products.
-Vinegar + /ˈvɪnɪɡər/ + Giấm + Add a little vinegar to the salad.
-Waffle + /ˈwɑːfl/ + Bánh quế + I love waffles with honey.
-Water + /ˈwɔːtər/ + Nước + Drink plenty of water daily.
-Whisk + /wɪsk/ + Đánh bông + Whisk the cream until thick.
-Wine + /waɪn/ + Rượu vang + They had wine with dinner.
-Wrap + /ræp/ + Gói + Wrap the sandwich in paper.
-Yogurt + /ˈjoʊɡərt/ + Sữa chua + I have yogurt with berries.
+Ingredient * /ˈɪnɡriːdiənt/ * Nguyên liệu * Fresh ingredients make the best meal.
+Recipe * /ˈresɪpi/ * Công thức nấu ăn * She shared her secret recipe with me.
+Delicious * /dɪˈlɪʃəs/ * Ngon miệng * This soup is absolutely delicious.
+Nutritious * /njuˈtrɪʃəs/ * Bổ dưỡng * Vegetables are very nutritious.
+Beverage * /ˈbevərɪdʒ/ * Đồ uống * We offer a wide range of beverages.
+Appetite * /ˈæpɪtaɪt/ * Sự ngon miệng * Exercise gives you a good appetite.
+Banquet * /ˈbæŋkwɪt/ * Bữa tiệc lớn * The king held a grand banquet.
+Bitter * /ˈbɪtər/ * Đắng * This coffee tastes a bit bitter.
+Bland * /blænd/ * Nhạt nhẽo * The soup was bland and needed salt.
+Breakfast * /ˈbrekfəst/ * Bữa sáng * I usually have eggs for breakfast.
+Brunch * /brʌntʃ/ * Bữa ăn giữa sáng và trưa * Let’s go out for brunch on Sunday.
+Buffet * /ˈbʊfeɪ/ * Tiệc buffet * We ate at an all-you-can-eat buffet.
+Canteen * /kænˈtiːn/ * Căn tin * The students ate at the school canteen.
+Carbohydrate * /ˌkɑːrbəˈhaɪdreɪt/ * Chất bột đường * Rice is a good source of carbohydrates.
+Chopsticks * /ˈtʃɒpstɪks/ * Đũa * It is difficult to eat soup with chopsticks.
+Cuisine * /kwɪˈziːn/ * Ẩm thực * I love authentic Italian cuisine.
+Dairy * /ˈderi/ * Sản phẩm từ sữa * Some people are allergic to dairy.
+Dessert * /dɪˈzɜːrt/ * Món tráng miệng * What would you like for dessert?
+Diet * /ˈdaɪət/ * Chế độ ăn uống * She is on a healthy diet.
+Dinner * /ˈdɪnər/ * Bữa tối * What time do you have dinner?
+Dish * /dɪʃ/ * Món ăn * This is my favorite traditional dish.
+Edible * /ˈedəbl/ * Có thể ăn được * Are these berries edible?
+Flavor * /ˈfleɪvər/ * Hương vị * The sauce has a strong garlic flavor.
+Fresh * /freʃ/ * Tươi mới * We bought fresh fruit at the market.
+Fry * /fraɪ/ * Chiên, rán * Don't fry the food in too much oil.
+Gourmet * /ˈɡɔːrmeɪ/ * Cao cấp, sành ăn * He is a true gourmet cook.
+Greasy * /ˈɡriːsi/ * Nhiều dầu mỡ * I don't like greasy fast food.
+Grill * /ɡrɪl/ * Nướng vỉ * Let's grill some meat in the garden.
+Healthy * /ˈhelθi/ * Lành mạnh * A balanced diet is very healthy.
+Herb * /hɜːrb/ * Thảo mộc * Add some fresh herbs to the salad.
+Hunger * /ˈhʌŋɡər/ * Cơn đói * The hunger made him weak.
+Junk food * /ˈdʒʌŋk fuːd/ * Đồ ăn vặt không tốt * Junk food causes weight gain.
+Kitchen * /ˈkɪtʃɪn/ * Nhà bếp * She is cooking in the kitchen.
+Knife * /naɪf/ * Dao * Use a sharp knife to cut the bread.
+Lunch * /lʌntʃ/ * Bữa trưa * We had lunch at a small café.
+Menu * /ˈmenjuː/ * Thực đơn * May I see the menu, please?
+Microwave * /ˈmaɪkrəweɪv/ * Lò vi sóng * Reheat the leftovers in the microwave.
+Nibble * /ˈnɪbl/ * Nhấm nháp * The rabbit began to nibble the carrot.
+Nutrition * /njuˈtrɪʃn/ * Dinh dưỡng * Good nutrition is vital for children.
+Organic * /ɔːrˈɡænɪk/ * Hữu cơ * I prefer buying organic vegetables.
+Oven * /ˈʌvn/ * Lò nướng * Preheat the oven to 180 degrees.
+Palate * /ˈpælət/ * Khẩu vị * The wine suits my palate perfectly.
+Pantry * /ˈpæntri/ * Tủ chứa thực phẩm * Store the flour in the pantry.
+Pastry * /ˈpeɪstri/ * Bánh ngọt * She baked a delicious apple pastry.
+Plate * /pleɪt/ * Cái đĩa * Put the food on a clean plate.
+Portion * /ˈpɔːrʃn/ * Khẩu phần * This is a large portion for one person.
+Protein * /ˈproʊtiːn/ * Chất đạm * Meat is a primary source of protein.
+Refreshment * /rɪˈfreʃmənt/ * Đồ ăn nhẹ * Refreshments will be served later.
+Restaurant * /ˈrestrɑːnt/ * Nhà hàng * This is a famous local restaurant.
+Roast * /roʊst/ * Quay, nướng lò * We had roast chicken for Sunday dinner.
+Salty * /ˈsɔːlti/ * Mặn * The soup is too salty.
+Savor * /ˈseɪvər/ * Thưởng thức * She savored every bite of the cake.
+Seasoning * /ˈsiːzənɪŋ/ * Gia vị * Add more seasoning to the stew.
+Serve * /sɜːrv/ * Phục vụ * They serve breakfast until 10 AM.
+Snack * /snæk/ * Đồ ăn nhẹ * I often have a snack at 4 PM.
+Sour * /ˈsaʊər/ * Chua * Lemons have a sour taste.
+Spicy * /ˈspaɪsi/ * Cay * I love spicy Thai food.
+Spoon * /spuːn/ * Cái thìa * Use a spoon to eat your soup.
+Steam * /stiːm/ * Hấp * Steamed fish is very healthy.
+Stew * /stjuː/ * Món hầm * Beef stew is perfect for winter.
+Stir-fry * /ˈstɜːr fraɪ/ * Xào * I will stir-fry the vegetables.
+Sweet * /swiːt/ * Ngọt * This candy is very sweet.
+Tableware * /ˈteɪblwer/ * Dụng cụ ăn uống * Please set the tableware for guests.
+Tasty * /ˈteɪsti/ * Ngon * The grilled fish was very tasty.
+Tender * /ˈtendər/ * Mềm * The steak was incredibly tender.
+Thirst * /θɜːrst/ * Cơn khát * Drink water to quench your thirst.
+Toast * /toʊst/ * Bánh mì nướng * I had toast with jam for breakfast.
+Utensil * /juːˈtensl/ * Dụng cụ nhà bếp * Keep your cooking utensils clean.
+Vegetarian * /ˌvedʒəˈteəriən/ * Người ăn chay * He has been a vegetarian for years.
+Vitamin * /ˈvaɪtəmɪn/ * Vitamin * Oranges are full of vitamin C.
+Waiter * /ˈweɪtər/ * Nam phục vụ * The waiter brought us the bill.
+Whisk * /wɪsk/ * Đánh trứng * Use a whisk to beat the eggs.
+Yeast * /jiːst/ * Men làm bánh * Yeast is used to make bread rise.
+Zest * /zest/ * Vỏ chanh/cam * Add some lemon zest for flavor.
+Appetizer * /ˈæpɪtaɪzər/ * Món khai vị * We ordered soup as an appetizer.
+Broth * /brɒθ/ * Nước dùng * The chicken broth is very flavorful.
+Cabbage * /ˈkæbɪdʒ/ * Bắp cải * She is chopping some cabbage for salad.
+Calorie * /ˈkæləri/ * Calo * This meal is low in calories.
+Casserole * /ˈkæsəroʊl/ * Món hầm trong nồi * She made a vegetable casserole.
+Catering * /ˈkeɪtərɪŋ/ * Dịch vụ cung cấp tiệc * They provide catering for weddings.
+Chop * /tʃɒp/ * Cắt nhỏ * Chop the onions into small pieces.
+Condiment * /ˈkɑːndɪmənt/ * Đồ gia vị * Mustard is a popular condiment.
+Cookware * /ˈkʊkwer/ * Dụng cụ nấu nướng * Non-stick cookware is easy to clean.
+Crust * /krʌst/ * Vỏ bánh * I love the crust of fresh bread.
+Culinary * /ˈkʌlɪneri/ * Thuộc ẩm thực * She is attending a culinary school.
+Decaf * /ˈdiːkæf/ * Cà phê không caffeine * I would like a cup of decaf.
+Dice * /daɪs/ * Cắt hạt lựu * Dice the potatoes into cubes.
+Dine * /daɪn/ * Ăn tối * We will dine at a luxury restaurant.
+Dishwasher * /ˈdɪʃwɑːʃər/ * Máy rửa bát * Put the plates in the dishwasher.
+Dough * /doʊ/ * Bột nhào * Knead the dough until it is smooth.
+Dressing * /ˈdresɪŋ/ * Nước sốt salad * Olive oil makes a good salad dressing.
+Eat out * /iːt aʊt/ * Ăn ngoài * Let’s eat out tonight.
+Entree * /ˈɑːntreɪ/ * Món chính * What is your main entree?
+Feast * /fiːst/ * Bữa tiệc thịnh soạn * We had a feast for Thanksgiving.
+Fillet * /ˈfɪlɪt/ * Phi lê * He grilled a salmon fillet.
+Flavoring * /ˈfleɪvərɪŋ/ * Chất tạo hương * Vanilla is a common flavoring.
+Foodie * /ˈfuːdi/ * Người sành ăn * My friend is a real foodie.
+Fork * /fɔːrk/ * Cái nĩa * Eat the salad with a fork.
+Freeze * /friːz/ * Làm đông * You can freeze these leftovers.
+Freshness * /ˈfreʃnəs/ * Độ tươi * The freshness of the fish is important.
+Full * /fʊl/ * No * I am too full to eat dessert.
+Garlic * /ˈɡɑːrlɪk/ * Tỏi * Add some garlic to the stir-fry.
+Gastronomy * /ɡæˈstrɒnəmi/ * Nghệ thuật ẩm thực * She studies French gastronomy.
+Garnish * /ˈɡɑːrnɪʃ/ * Trang trí món ăn * Garnish the dish with parsley.
+Glaze * /ɡleɪz/ * Lớp phủ bóng * The cake has a sugar glaze.
+Glutinous * /ˈɡluːtɪnəs/ * Dẻo * I love eating glutinous rice.
+Gluten * /ˈɡluːtn/ * Chất bột trong lúa mì * She avoids food containing gluten.
+Griddle * /ˈɡrɪdl/ * Vỉ nướng * Cook pancakes on a hot griddle.
+Grate * /ɡreɪt/ * Bào nhỏ * Grate some cheese over the pasta.
+Gravy * /ˈɡreɪvi/ * Nước xốt thịt * Pour the gravy over the meat.
+Gullet * /ˈɡʌlɪt/ * Thực quản * The food went down his gullet.
+Heat * /hiːt/ * Làm nóng * Heat the soup on the stove.
+Home-cooked * /hoʊm kʊkt/ * Cơm nhà * I prefer home-cooked meals.
+Hot * /hɒt/ * Nóng * The soup is still very hot.
+Ice * /aɪs/ * Đá * Could I have some ice for my drink?
+Infusion * /ɪnˈfjuːʒn/ * Nước trà thảo mộc * This is an herbal infusion.
+Jar * /dʒɑːr/ * Lọ, hũ * There is a jar of honey on the shelf.
+Juicy * /ˈdʒuːsi/ * Mọng nước * The orange was very juicy.
+Junk * /dʒʌŋk/ * Đồ linh tinh * Avoid eating too much junk.
+Kebab * /kɪˈbɑːb/ * Món thịt xiên * We bought a kebab from the stand.
+Kettle * /ˈketl/ * Ấm đun nước * Boil the water in the kettle.
+Knead * /niːd/ * Nhào bột * Knead the dough for ten minutes.
+Ladle * /ˈleɪdl/ * Cái muôi * Use a ladle to serve the soup.
+Leftovers * /ˈleftoʊvərz/ * Thức ăn thừa * We ate leftovers for lunch.
+Legume * /ˈleɡjuːm/ * Cây họ đậu * Lentils are a type of legume.
+Lemonade * /ˌleməˈneɪd/ * Nước chanh * She made fresh lemonade.
+Lick * /lɪk/ * Liếm * The child started to lick the ice cream.
+Liquor * /ˈlɪkər/ * Rượu mạnh * He does not drink hard liquor.
+Loaf * /loʊf/ * Ổ bánh mì * I bought a loaf of bread today.
+Lobster * /ˈlɒbstər/ * Tôm hùm * We ordered grilled lobster.
+Lump * /lʌmp/ * Cục, vón cục * Stir well so there are no lumps.
+Lunchtime * /ˈlʌntʃtaɪm/ * Giờ ăn trưa * We usually break at lunchtime.
+Macerate * /ˈmæsəreɪt/ * Ngâm trái cây * Macerate the berries in sugar.
+Main course * /meɪn kɔːrs/ * Món chính * What are you having for the main course?
+Marinate * /ˈmærɪneɪt/ * Ướp thịt * Marinate the beef for two hours.
+Mash * /mæʃ/ * Nghiền * Mash the potatoes until smooth.
+Meal * /miːl/ * Bữa ăn * Let's have a big meal together.
+Meat * /miːt/ * Thịt * He doesn't eat much red meat.
+Melt * /melt/ * Tan chảy * Let the butter melt in the pan.
+Mince * /mɪns/ * Băm nhỏ * Mince the garlic and ginger.
+Mix * /mɪks/ * Trộn * Mix all ingredients in a bowl.
+Morsel * /ˈmɔːrsl/ * Miếng nhỏ * He ate every morsel of food.
+Mug * /mʌɡ/ * Cái ca, cốc * He drank coffee from a large mug.
+Mustard * /ˈmʌstərd/ * Mù tạt * Do you like mustard on your hotdog?
+Nectar * /ˈnektər/ * Mật hoa * Bees collect nectar from flowers.
+Noodle * /ˈnuːdl/ * Mì sợi * I want to eat beef noodles.
+Nut * /nʌt/ * Hạt * Some people are allergic to nuts.
+Oat * /oʊt/ * Yến mạch * Oatmeal is a healthy breakfast.
+Oil * /ɔɪl/ * Dầu ăn * Use a little oil for frying.
+Onion * /ˈʌnjən/ * Hành tây * Slice the onion thinly.
+Pan * /pæn/ * Cái chảo * Fry the eggs in the pan.
+Pancake * /ˈpænkeɪk/ * Bánh kếp * We had pancakes with syrup.
+Parsley * /ˈpɑːrsli/ * Cần tây * Garnish the soup with parsley.
+Pasta * /ˈpæstə/ * Mì ý * Let's cook pasta for dinner.
+Peel * /piːl/ * Gọt vỏ * Peel the apples before eating.
+Pepper * /ˈpepər/ * Hạt tiêu * Add a little pepper to the sauce.
+Pickle * /ˈpɪkl/ * Dưa muối * I like eating pickles with meat.
+Pie * /paɪ/ * Bánh nướng * She made a blueberry pie.
+Pitcher * /ˈpɪtʃər/ * Bình nước * Pour juice from the pitcher.
+Pizza * /ˈpiːtsə/ * Bánh pizza * We ordered a large cheese pizza.
+Poach * /poʊtʃ/ * Chần * Poach the egg in boiling water.
+Pot * /pɒt/ * Nồi * Boil potatoes in a large pot.
+Poultry * /ˈpoʊltri/ * Gia cầm * They raise poultry on the farm.
+Preheat * /ˌpriːˈhiːt/ * Làm nóng lò trước * Preheat the oven before baking.
+Prepare * /prɪˈper/ * Chuẩn bị * Prepare the salad ingredients.
+Preserve * /prɪˈzɜːrv/ * Mứt trái cây * I like strawberry preserve.
+Puree * /ˈpjʊəreɪ/ * Nghiền nhuyễn * Make a puree of fresh tomatoes.
+Quench * /kwentʃ/ * Làm hết khát * Water is best to quench thirst.
+Rare * /rer/ * Tái (thịt) * I prefer my steak served rare.
+Raw * /rɔː/ * Sống * Some fish is eaten raw.
+Refresh * /rɪˈfreʃ/ * Làm tỉnh táo * A cold drink will refresh you.
+Reheat * /ˌriːˈhiːt/ * Hâm nóng * Reheat the meal in the pan.
+Rice * /raɪs/ * Gạo/cơm * We eat rice at every meal.
+Ripe * /raɪp/ * Chín * Pick the ripe mangoes.
+Roll * /roʊl/ * Cuộn * Sushi rolls are very popular.
+Salad * /ˈsæləd/ * Món salad * Eat a salad with your lunch.
+Salmon * /ˈsæmən/ * Cá hồi * Grilled salmon is very healthy.
+Sauce * /sɔːs/ * Nước sốt * This sauce tastes very spicy.
+Sauté * /ˈsoʊteɪ/ * Áp chảo * Sauté the onions until soft.
+Scramble * /ˈskræmbl/ * Trứng khuấy * I like scrambled eggs for breakfast.
+Seed * /siːd/ * Hạt * Remove the seeds from the melon.
+Serve * /sɜːrv/ * Phục vụ * Serve the dinner while it is hot.
+Serving * /ˈsɜːrvɪŋ/ * Suất ăn * One serving is enough for him.
+Sift * /sɪft/ * Rây bột * Sift the flour before mixing.
+Simmer * /ˈsɪmər/ * Ninh nhỏ lửa * Simmer the soup for an hour.
+Slice * /slaɪs/ * Lát mỏng * Cut the bread into thin slices.
+Smoothie * /ˈsmuːði/ * Sinh tố * I drink a fruit smoothie daily.
+Soup * /suːp/ * Canh * Tomato soup is delicious.
+Spice * /spaɪs/ * Gia vị * Use some exotic spices for flavor.
+Spread * /spred/ * Phết * Spread butter on the toast.
+Starch * /stɑːrtʃ/ * Tinh bột * Potatoes contain a lot of starch.
+Sugar * /ˈʃʊɡər/ * Đường * Don't add too much sugar.
+Syrup * /ˈsɪrəp/ * Xi-rô * Pour maple syrup over the pancakes.
+Taste * /teɪst/ * Nếm * Let me taste the sauce.
+Tofu * /ˈtoʊfuː/ * Đậu phụ * Tofu is a great meat substitute.
+Tray * /treɪ/ * Cái khay * Bring the drinks on a tray.
+Vegan * /ˈviːɡən/ * Người thuần chay * A vegan diet contains no animal products.
+Vinegar * /ˈvɪnɪɡər/ * Giấm * Add a little vinegar to the salad.
+Waffle * /ˈwɑːfl/ * Bánh quế * I love waffles with honey.
+Water * /ˈwɔːtər/ * Nước * Drink plenty of water daily.
+Whisk * /wɪsk/ * Đánh bông * Whisk the cream until thick.
+Wine * /waɪn/ * Rượu vang * They had wine with dinner.
+Wrap * /ræp/ * Gói * Wrap the sandwich in paper.
+Yogurt * /ˈjoʊɡərt/ * Sữa chua * I have yogurt with berries.

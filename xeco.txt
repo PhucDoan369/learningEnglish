@@ -1,174 +1,174 @@
-Vehicle + /ˈviːəkl/ + Phương tiện + We need a reliable vehicle.
-Car + /kɑːr/ + Xe ô tô + He drives a red car.
-Motorbike + /ˈmoʊtərbaɪk/ + Xe máy + She rides a motorbike to work.
-Bicycle + /ˈbaɪsɪkl/ + Xe đạp + Cycling is good for health.
-Truck + /trʌk/ + Xe tải + The truck carries heavy goods.
-Bus + /bʌs/ + Xe buýt + I take the bus every morning.
-Train + /treɪn/ + Tàu hỏa + The train arrives at noon.
-Subway + /ˈsʌbweɪ/ + Tàu điện ngầm + The subway is very fast.
-Airplane + /ˈerpleɪn/ + Máy bay + The airplane took off on time.
-Ship + /ʃɪp/ + Tàu thủy + We traveled by ship to Japan.
-Boat + /boʊt/ + Thuyền + They rent a boat on the lake.
-Helicopter + /ˈhelɪkɑːptər/ + Trực thăng + The helicopter landed safely.
-Taxi + /ˈtæksi/ + Xe taxi + We took a taxi to the hotel.
-Van + /væn/ + Xe tải nhỏ + They packed everything in a van.
-Scooter + /ˈskuːtər/ + Xe tay ga + Kids love playing on scooters.
-Ambulance + /ˈæmbjələns/ + Xe cứu thương + The ambulance rushed to the hospital.
-Fire engine + /ˈfaɪər endʒɪn/ + Xe cứu hỏa + The fire engine sounded the siren.
-Police car + /pəˈliːs kɑːr/ + Xe cảnh sát + A police car patrols the area.
-Tractor + /ˈtræktər/ + Xe máy kéo + The tractor works on the farm.
-Tram + /træm/ + Xe điện + The tram runs through the city.
-Ferry + /ˈferi/ + Phà + The ferry crosses the river.
-Submarine + /ˌsʌbməˈriːn/ + Tàu ngầm + The submarine went deep underwater.
-Rocket + /ˈrɑːkɪt/ + Tên lửa + The rocket launched into space.
-Cruise ship + /kruːz ʃɪp/ + Du thuyền + We spent a week on a cruise ship.
-Limousine + /ˈlɪməziːn/ + Xe sang trọng + They arrived in a limousine.
-Convertible + /kənˈvɜːrtəbl/ + Xe mui trần + He drives a sporty convertible.
-Minivan + /ˈmɪnivæn/ + Xe chở khách nhỏ + The minivan fits eight people.
-Pickup truck + /ˈpɪkʌp trʌk/ + Xe bán tải + He uses a pickup truck for work.
-Jeep + /dʒiːp/ + Xe địa hình + The jeep drove through the mud.
-Tank + /tæŋk/ + Xe tăng + The tank moved across the field.
-Bicycle lane + /ˈbaɪsɪkl leɪn/ + Làn đường xe đạp + Stay in the bicycle lane.
-Highway + /ˈhaɪweɪ/ + Đường cao tốc + The speed limit on the highway is high.
-Traffic + /ˈtræfɪk/ + Giao thông + There is heavy traffic tonight.
-Engine + /ˈendʒɪn/ + Động cơ + The engine is very powerful.
-Wheel + /wiːl/ + Bánh xe + The front wheel is flat.
-Tire + /ˈtaɪər/ + Lốp xe + Check the pressure of the tire.
-Steering wheel + /ˈstɪrɪŋ wiːl/ + Vô lăng + Hold the steering wheel firmly.
-Brake + /breɪk/ + Phanh + Apply the brake carefully.
-Accelerator + /ækˈseləreɪtər/ + Chân ga + Step on the accelerator slowly.
-Headlight + /ˈhedlaɪt/ + Đèn pha + Turn on the headlight at night.
-Windshield + /ˈwɪndʃiːld/ + Kính chắn gió + Clean the windshield before driving.
-Mirror + /ˈmɪrər/ + Gương chiếu hậu + Check the mirror before turning.
-Gear + /ɡɪr/ + Số (xe) + Shift the gear smoothly.
-Exhaust + /ɪɡˈzɔːst/ + Ống xả + Black smoke comes from the exhaust.
-Dashboard + /ˈdæʃbɔːrd/ + Bảng điều khiển + Look at the dashboard for speed.
-License plate + /ˈlaɪsns pleɪt/ + Biển số xe + Note down the license plate number.
-Trunk + /trʌŋk/ + Cốp xe + Put the luggage in the trunk.
-Hood + /hʊd/ + Nắp capo + Open the hood to check oil.
-Seat belt + /ˈsiːt belt/ + Dây an toàn + Fasten your seat belt.
-Wiper + /ˈwaɪpər/ + Cần gạt nước + Turn on the wiper in the rain.
-Garage + /ˈɡærɑːʒ/ + Nhà để xe + Keep the car in the garage.
-Parking lot + /ˈpɑːrkɪŋ lɑːt/ + Bãi đậu xe + The parking lot is full.
-Road + /roʊd/ + Con đường + The road is very slippery.
-Street + /striːt/ + Phố + The street is crowded with cars.
-Intersection + /ˌɪntərˈsekʃn/ + Ngã tư + Wait at the intersection.
-Traffic light + /ˈtræfɪk laɪt/ + Đèn giao thông + Stop at the red traffic light.
-Crosswalk + /ˈkrɔːswɔːk/ + Vạch kẻ đường + Walk on the crosswalk safely.
-Bridge + /brɪdʒ/ + Cây cầu + The bridge connects two cities.
-Tunnel + /ˈtʌnl/ + Đường hầm + The car entered the dark tunnel.
-Roundabout + /ˈraʊndəbaʊt/ + Vòng xoay + Drive carefully in the roundabout.
-Speedometer + /spiˈdɑːmɪtər/ + Đồng hồ tốc độ + The speedometer showed 80 km/h.
-Battery + /ˈbætəri/ + Ắc quy + The battery died unexpectedly.
-Fuel + /ˈfjuːəl/ + Nhiên liệu + We need to buy more fuel.
-Gas station + /ˈɡæs steɪʃn/ + Trạm xăng + Stop at the next gas station.
-Mechanic + /məˈkænɪk/ + Thợ sửa xe + Take the car to a mechanic.
-Repair + /rɪˈper/ + Sửa chữa + The car needs a quick repair.
-Maintenance + /ˈmeɪntənəns/ + Bảo trì + Regular maintenance is essential.
-Driver + /ˈdraɪvər/ + Người lái + The driver is very experienced.
-Passenger + /ˈpæsɪndʒər/ + Hành khách + The bus has many passengers.
-Pedestrian + /pəˈdestriən/ + Người đi bộ + Pedestrians should use the sidewalk.
-Congestion + /kənˈdʒestʃn/ + Ùn tắc + Traffic congestion is a daily problem.
-Acceleration + /ækˌseləˈreɪʃn/ + Sự tăng tốc + The acceleration is very fast.
-Aerodynamics + /ˌerəʊdaɪˈnæmɪks/ + Khí động học + The shape improves aerodynamics.
-Electric vehicle + /ɪˈlektrɪk ˈviːəkl/ + Xe điện + Electric vehicles are environmentally friendly.
-Hybrid + /ˈhaɪbrɪd/ + Xe lai + She drives a hybrid car.
-Automatic + /ˌɔːtəˈmætɪk/ + Tự động + I prefer an automatic transmission.
-Manual + /ˈmænjuəl/ + Số sàn + He learned to drive a manual.
-Navigation + /ˌnævɪˈɡeɪʃn/ + Hệ thống dẫn đường + Follow the navigation system.
-Transport + /ˈtrænspɔːrt/ + Vận chuyển + Public transport is convenient.
-Transit + /ˈtrænzɪt/ + Quá cảnh + We are in transit right now.
-Cargo + /ˈkɑːrɡoʊ/ + Hàng hóa + The ship carries cargo from abroad.
-Vehicle registration + /ˈviːəkl ˌredʒɪˈstreɪʃn/ + Giấy đăng ký xe + Keep the vehicle registration handy.
-Insurance + /ɪnˈʃʊrəns/ + Bảo hiểm + Do you have car insurance?
-Traffic jam + /ˈtræfɪk dʒæm/ + Tắc đường + We are stuck in a traffic jam.
-Tailgate + /ˈteɪlɡeɪt/ + Bám đuôi + Do not tailgate other cars.
-Overtake + /ˌoʊvərˈteɪk/ + Vượt (xe) + It is dangerous to overtake here.
-Reverse + /rɪˈvɜːrs/ + Lùi xe + Put the car in reverse gear.
-Park + /pɑːrk/ + Đỗ xe + Can you park the car here?
-Refuel + /ˌriːˈfjuːəl/ + Đổ xăng + We need to refuel the tank.
-Carriage + /ˈkærɪdʒ/ + Toa xe + The train has ten carriages.
-Locomotive + /ˌloʊkəˈmoʊtɪv/ + Đầu máy + The locomotive pulls the train.
-Chassis + /ˈtʃæsi/ + Khung gầm + The chassis is made of steel.
-Suspension + /səˈspenʃn/ + Hệ thống treo + The suspension is very soft.
-Radiator + /ˈreɪdieɪtər/ + Két nước làm mát + Check the water in the radiator.
-Alternator + /ˈɔːltərneɪtər/ + Máy phát điện + The alternator charges the battery.
-Piston + /ˈpɪstn/ + Pít-tông + The piston moves inside the engine.
-Clutch + /klʌtʃ/ + Côn (xe) + Press the clutch before shifting.
-Throttle + /ˈθrɑːtl/ + Bướm ga + The throttle controls the power.
-Axle + /ˈæksl/ + Trục xe + The axle supports the wheels.
-Ignition + /ɪɡˈnɪʃn/ + Bộ đánh lửa + Turn the key in the ignition.
-Crankshaft + /ˈkræŋkʃæft/ + Trục khuỷu + The crankshaft spins the wheels.
-Convert + /kənˈvɜːrt/ + Chuyển đổi + You can convert this to a camper.
-Camper + /ˈkæmpər/ + Xe cắm trại + We travel in a large camper.
-Trailer + /ˈtreɪlər/ + Rơ-moóc + He towed a trailer behind.
-Tractor unit + /ˈtræktər ˈjuːnɪt/ + Đầu kéo + The tractor unit pulls the trailer.
-Forklift + /ˈfɔːrklɪft/ + Xe nâng + Use a forklift for heavy items.
-Crane + /kreɪn/ + Cần cẩu + The crane lifts steel beams.
-Bulldozer + /ˈbʊldoʊzər/ + Xe ủi + The bulldozer cleared the land.
-Dump truck + /ˈdʌmp trʌk/ + Xe ben + The dump truck carried soil.
-Concrete mixer + /ˈkɑːnkriːt ˈmɪksər/ + Xe trộn bê tông + The concrete mixer arrived.
-Motorboat + /ˈmoʊtərboʊt/ + Ca nô + The motorboat is very fast.
-Yacht + /jɑːt/ + Du thuyền buồm + They own a private yacht.
-Tanker + /ˈtæŋkər/ + Tàu chở dầu + The tanker carries crude oil.
-Hovercraft + /ˈhʌvərkræft/ + Tàu đệm khí + The hovercraft moves over water.
-Glider + /ˈɡlaɪdər/ + Tàu lượn + The glider flies without engine.
-Jet + /dʒet/ + Phản lực + The jet travels at high speed.
-Biplane + /ˈbaɪpleɪn/ + Máy bay hai tầng cánh + The biplane is very classic.
-Digger + /ˈdɪɡər/ + Máy đào + The digger is working nearby.
-Backhoe + /ˈbækhoʊ/ + Máy xúc + The backhoe dug a deep hole.
-Roller + /ˈroʊlər/ + Xe lu + The roller flattened the road.
-Trolley + /ˈtrɑːli/ + Xe đẩy + Use a trolley for groceries.
-Wheelchair + /ˈwiːltʃer/ + Xe lăn + He uses a motorized wheelchair.
-Stroller + /ˈstroʊlər/ + Xe đẩy trẻ em + Push the baby in the stroller.
-Unicycle + /ˈjuːnɪsaɪkl/ + Xe đạp một bánh + He rides a unicycle well.
-Sidecar + /ˈsaɪdkɑːr/ + Xe máy có thùng + He has a sidecar attached.
-Moped + /ˈmoʊped/ + Xe đạp máy + She rides a quiet moped.
-Cabriolet + /ˌkæbriəˈleɪ/ + Xe mui trần sang + The cabriolet is luxury.
-Sedan + /sɪˈdæn/ + Xe sedan + The sedan is a popular family car.
-Coupe + /kuːp/ + Xe hai cửa + The coupe has a sleek design.
-Hatchback + /ˈhætʃbæk/ + Xe đuôi cụt + The hatchback has a big trunk.
-SUV + /es juː ˈviː/ + Xe thể thao đa dụng + An SUV is good for travel.
-Station wagon + /ˈsteɪʃn wæɡən/ + Xe wagon + The station wagon has extra space.
-Crossover + /ˈkrɔːsoʊvər/ + Xe crossover + The crossover is easy to drive.
-Microcar + /ˈmaɪkroʊkɑːr/ + Xe siêu nhỏ + A microcar is easy to park.
-Supercar + /ˈsuːpərkɑːr/ + Siêu xe + The supercar is very expensive.
-Race car + /reɪs kɑːr/ + Xe đua + The race car goes very fast.
-Dragster + /ˈdræɡstər/ + Xe đua tốc độ ngắn + A dragster accelerates quickly.
-Go-kart + /ˈɡoʊ kɑːrt/ + Xe kart + We drove go-karts today.
-Rickshaw + /ˈrɪkʃɔː/ + Xe xích lô + We took a local rickshaw.
-Sleigh + /sleɪ/ + Xe trượt tuyết + Santa rides a magic sleigh.
-Cable car + /ˈkeɪbl kɑːr/ + Cáp treo + Take the cable car up hill.
-Ski lift + /ˈskiː lɪft/ + Cáp treo trượt tuyết + The ski lift is very high.
-Monorail + /ˈmɑːnəreɪl/ + Tàu đường ray đơn + The monorail circles the city.
-Maglev + /ˈmæɡlev/ + Tàu đệm từ + The maglev is super fast.
-Spaceship + /ˈspeɪsʃɪp/ + Tàu vũ trụ + The spaceship explored space.
-Shuttle + /ˈʃʌtl/ + Tàu con thoi + The shuttle visits the station.
-Land rover + /lænd ˈroʊvər/ + Xe địa hình hãng LR + He loves his Land rover.
-Pick-up + /ˈpɪkʌp/ + Xe bán tải + The pick-up is very rugged.
-Off-road + /ˌɔːf ˈroʊd/ + Xe địa hình + The off-road truck is big.
-Taxi cab + /ˈtæksi kæb/ + Xe tắc xi + Call a taxi cab now.
-Public bus + /ˈpʌblɪk bʌs/ + Xe buýt công cộng + Public bus is very cheap.
-Double-decker + /ˈdʌbl dekər/ + Xe buýt 2 tầng + Sit on the top of the double-decker.
-School bus + /ˈskuːl bʌs/ + Xe đưa đón học sinh + The school bus picks up kids.
-Articulated bus + /ɑːrˈtɪkjuleɪtɪd bʌs/ + Xe buýt khớp nối + The articulated bus is long.
-Shuttle bus + /ˈʃʌtl bʌs/ + Xe buýt trung chuyển + The shuttle bus connects hotels.
-Trolley bus + /ˈtrɑːli bʌs/ + Xe buýt điện + The trolley bus uses wires.
-Minibus + /ˈmɪnibʌs/ + Xe buýt nhỏ + The minibus fits twelve people.
-Coach + /koʊtʃ/ + Xe khách + The coach travels to cities.
-Sleeping bus + /ˈsliːpɪŋ bʌs/ + Xe buýt giường nằm + The sleeping bus is comfortable.
-Night train + /naɪt treɪn/ + Tàu đêm + We took the night train.
-High-speed train + /haɪ spiːd treɪn/ + Tàu cao tốc + The high-speed train is smooth.
-Steam train + /stiːm treɪn/ + Tàu hơi nước + The steam train is antique.
-Cargo train + /ˈkɑːrɡoʊ treɪn/ + Tàu chở hàng + The cargo train is heavy.
-Subway car + /ˈsʌbweɪ kɑːr/ + Toa tàu điện ngầm + The subway car is crowded.
-Airbus + /ˈerbʌs/ + Máy bay Airbus + He flies an Airbus plane.
-Boeing + /ˈboʊɪŋ/ + Máy bay Boeing + Boeing makes big planes.
-Cargo plane + /ˈkɑːrɡoʊ pleɪn/ + Máy bay chở hàng + The cargo plane is wide.
-Private jet + /ˈpraɪvət dʒet/ + Phản lực tư nhân + They own a private jet.
-Seaplane + /ˈsiːpleɪn/ + Thủy phi cơ + The seaplane lands on water.
-Airship + /ˈerʃɪp/ + Khí cầu + An airship floats in sky.
-Blimp + /blɪmp/ + Khí cầu nhỏ + The blimp flies over stadium.
-Glider + /ˈɡlaɪdər/ + Tàu lượn + The glider is very light.
-Paraglider + /ˈpærəɡlaɪdər/ + Dù lượn + Paraglider jumps from hill.
-Hot-air balloon + /hɒt er bəˈluːn/ + Khinh khí cầu + We fly in a balloon.
+Vehicle * /ˈviːəkl/ * Phương tiện * We need a reliable vehicle.
+Car * /kɑːr/ * Xe ô tô * He drives a red car.
+Motorbike * /ˈmoʊtərbaɪk/ * Xe máy * She rides a motorbike to work.
+Bicycle * /ˈbaɪsɪkl/ * Xe đạp * Cycling is good for health.
+Truck * /trʌk/ * Xe tải * The truck carries heavy goods.
+Bus * /bʌs/ * Xe buýt * I take the bus every morning.
+Train * /treɪn/ * Tàu hỏa * The train arrives at noon.
+Subway * /ˈsʌbweɪ/ * Tàu điện ngầm * The subway is very fast.
+Airplane * /ˈerpleɪn/ * Máy bay * The airplane took off on time.
+Ship * /ʃɪp/ * Tàu thủy * We traveled by ship to Japan.
+Boat * /boʊt/ * Thuyền * They rent a boat on the lake.
+Helicopter * /ˈhelɪkɑːptər/ * Trực thăng * The helicopter landed safely.
+Taxi * /ˈtæksi/ * Xe taxi * We took a taxi to the hotel.
+Van * /væn/ * Xe tải nhỏ * They packed everything in a van.
+Scooter * /ˈskuːtər/ * Xe tay ga * Kids love playing on scooters.
+Ambulance * /ˈæmbjələns/ * Xe cứu thương * The ambulance rushed to the hospital.
+Fire engine * /ˈfaɪər endʒɪn/ * Xe cứu hỏa * The fire engine sounded the siren.
+Police car * /pəˈliːs kɑːr/ * Xe cảnh sát * A police car patrols the area.
+Tractor * /ˈtræktər/ * Xe máy kéo * The tractor works on the farm.
+Tram * /træm/ * Xe điện * The tram runs through the city.
+Ferry * /ˈferi/ * Phà * The ferry crosses the river.
+Submarine * /ˌsʌbməˈriːn/ * Tàu ngầm * The submarine went deep underwater.
+Rocket * /ˈrɑːkɪt/ * Tên lửa * The rocket launched into space.
+Cruise ship * /kruːz ʃɪp/ * Du thuyền * We spent a week on a cruise ship.
+Limousine * /ˈlɪməziːn/ * Xe sang trọng * They arrived in a limousine.
+Convertible * /kənˈvɜːrtəbl/ * Xe mui trần * He drives a sporty convertible.
+Minivan * /ˈmɪnivæn/ * Xe chở khách nhỏ * The minivan fits eight people.
+Pickup truck * /ˈpɪkʌp trʌk/ * Xe bán tải * He uses a pickup truck for work.
+Jeep * /dʒiːp/ * Xe địa hình * The jeep drove through the mud.
+Tank * /tæŋk/ * Xe tăng * The tank moved across the field.
+Bicycle lane * /ˈbaɪsɪkl leɪn/ * Làn đường xe đạp * Stay in the bicycle lane.
+Highway * /ˈhaɪweɪ/ * Đường cao tốc * The speed limit on the highway is high.
+Traffic * /ˈtræfɪk/ * Giao thông * There is heavy traffic tonight.
+Engine * /ˈendʒɪn/ * Động cơ * The engine is very powerful.
+Wheel * /wiːl/ * Bánh xe * The front wheel is flat.
+Tire * /ˈtaɪər/ * Lốp xe * Check the pressure of the tire.
+Steering wheel * /ˈstɪrɪŋ wiːl/ * Vô lăng * Hold the steering wheel firmly.
+Brake * /breɪk/ * Phanh * Apply the brake carefully.
+Accelerator * /ækˈseləreɪtər/ * Chân ga * Step on the accelerator slowly.
+Headlight * /ˈhedlaɪt/ * Đèn pha * Turn on the headlight at night.
+Windshield * /ˈwɪndʃiːld/ * Kính chắn gió * Clean the windshield before driving.
+Mirror * /ˈmɪrər/ * Gương chiếu hậu * Check the mirror before turning.
+Gear * /ɡɪr/ * Số (xe) * Shift the gear smoothly.
+Exhaust * /ɪɡˈzɔːst/ * Ống xả * Black smoke comes from the exhaust.
+Dashboard * /ˈdæʃbɔːrd/ * Bảng điều khiển * Look at the dashboard for speed.
+License plate * /ˈlaɪsns pleɪt/ * Biển số xe * Note down the license plate number.
+Trunk * /trʌŋk/ * Cốp xe * Put the luggage in the trunk.
+Hood * /hʊd/ * Nắp capo * Open the hood to check oil.
+Seat belt * /ˈsiːt belt/ * Dây an toàn * Fasten your seat belt.
+Wiper * /ˈwaɪpər/ * Cần gạt nước * Turn on the wiper in the rain.
+Garage * /ˈɡærɑːʒ/ * Nhà để xe * Keep the car in the garage.
+Parking lot * /ˈpɑːrkɪŋ lɑːt/ * Bãi đậu xe * The parking lot is full.
+Road * /roʊd/ * Con đường * The road is very slippery.
+Street * /striːt/ * Phố * The street is crowded with cars.
+Intersection * /ˌɪntərˈsekʃn/ * Ngã tư * Wait at the intersection.
+Traffic light * /ˈtræfɪk laɪt/ * Đèn giao thông * Stop at the red traffic light.
+Crosswalk * /ˈkrɔːswɔːk/ * Vạch kẻ đường * Walk on the crosswalk safely.
+Bridge * /brɪdʒ/ * Cây cầu * The bridge connects two cities.
+Tunnel * /ˈtʌnl/ * Đường hầm * The car entered the dark tunnel.
+Roundabout * /ˈraʊndəbaʊt/ * Vòng xoay * Drive carefully in the roundabout.
+Speedometer * /spiˈdɑːmɪtər/ * Đồng hồ tốc độ * The speedometer showed 80 km/h.
+Battery * /ˈbætəri/ * Ắc quy * The battery died unexpectedly.
+Fuel * /ˈfjuːəl/ * Nhiên liệu * We need to buy more fuel.
+Gas station * /ˈɡæs steɪʃn/ * Trạm xăng * Stop at the next gas station.
+Mechanic * /məˈkænɪk/ * Thợ sửa xe * Take the car to a mechanic.
+Repair * /rɪˈper/ * Sửa chữa * The car needs a quick repair.
+Maintenance * /ˈmeɪntənəns/ * Bảo trì * Regular maintenance is essential.
+Driver * /ˈdraɪvər/ * Người lái * The driver is very experienced.
+Passenger * /ˈpæsɪndʒər/ * Hành khách * The bus has many passengers.
+Pedestrian * /pəˈdestriən/ * Người đi bộ * Pedestrians should use the sidewalk.
+Congestion * /kənˈdʒestʃn/ * Ùn tắc * Traffic congestion is a daily problem.
+Acceleration * /ækˌseləˈreɪʃn/ * Sự tăng tốc * The acceleration is very fast.
+Aerodynamics * /ˌerəʊdaɪˈnæmɪks/ * Khí động học * The shape improves aerodynamics.
+Electric vehicle * /ɪˈlektrɪk ˈviːəkl/ * Xe điện * Electric vehicles are environmentally friendly.
+Hybrid * /ˈhaɪbrɪd/ * Xe lai * She drives a hybrid car.
+Automatic * /ˌɔːtəˈmætɪk/ * Tự động * I prefer an automatic transmission.
+Manual * /ˈmænjuəl/ * Số sàn * He learned to drive a manual.
+Navigation * /ˌnævɪˈɡeɪʃn/ * Hệ thống dẫn đường * Follow the navigation system.
+Transport * /ˈtrænspɔːrt/ * Vận chuyển * Public transport is convenient.
+Transit * /ˈtrænzɪt/ * Quá cảnh * We are in transit right now.
+Cargo * /ˈkɑːrɡoʊ/ * Hàng hóa * The ship carries cargo from abroad.
+Vehicle registration * /ˈviːəkl ˌredʒɪˈstreɪʃn/ * Giấy đăng ký xe * Keep the vehicle registration handy.
+Insurance * /ɪnˈʃʊrəns/ * Bảo hiểm * Do you have car insurance?
+Traffic jam * /ˈtræfɪk dʒæm/ * Tắc đường * We are stuck in a traffic jam.
+Tailgate * /ˈteɪlɡeɪt/ * Bám đuôi * Do not tailgate other cars.
+Overtake * /ˌoʊvərˈteɪk/ * Vượt (xe) * It is dangerous to overtake here.
+Reverse * /rɪˈvɜːrs/ * Lùi xe * Put the car in reverse gear.
+Park * /pɑːrk/ * Đỗ xe * Can you park the car here?
+Refuel * /ˌriːˈfjuːəl/ * Đổ xăng * We need to refuel the tank.
+Carriage * /ˈkærɪdʒ/ * Toa xe * The train has ten carriages.
+Locomotive * /ˌloʊkəˈmoʊtɪv/ * Đầu máy * The locomotive pulls the train.
+Chassis * /ˈtʃæsi/ * Khung gầm * The chassis is made of steel.
+Suspension * /səˈspenʃn/ * Hệ thống treo * The suspension is very soft.
+Radiator * /ˈreɪdieɪtər/ * Két nước làm mát * Check the water in the radiator.
+Alternator * /ˈɔːltərneɪtər/ * Máy phát điện * The alternator charges the battery.
+Piston * /ˈpɪstn/ * Pít-tông * The piston moves inside the engine.
+Clutch * /klʌtʃ/ * Côn (xe) * Press the clutch before shifting.
+Throttle * /ˈθrɑːtl/ * Bướm ga * The throttle controls the power.
+Axle * /ˈæksl/ * Trục xe * The axle supports the wheels.
+Ignition * /ɪɡˈnɪʃn/ * Bộ đánh lửa * Turn the key in the ignition.
+Crankshaft * /ˈkræŋkʃæft/ * Trục khuỷu * The crankshaft spins the wheels.
+Convert * /kənˈvɜːrt/ * Chuyển đổi * You can convert this to a camper.
+Camper * /ˈkæmpər/ * Xe cắm trại * We travel in a large camper.
+Trailer * /ˈtreɪlər/ * Rơ-moóc * He towed a trailer behind.
+Tractor unit * /ˈtræktər ˈjuːnɪt/ * Đầu kéo * The tractor unit pulls the trailer.
+Forklift * /ˈfɔːrklɪft/ * Xe nâng * Use a forklift for heavy items.
+Crane * /kreɪn/ * Cần cẩu * The crane lifts steel beams.
+Bulldozer * /ˈbʊldoʊzər/ * Xe ủi * The bulldozer cleared the land.
+Dump truck * /ˈdʌmp trʌk/ * Xe ben * The dump truck carried soil.
+Concrete mixer * /ˈkɑːnkriːt ˈmɪksər/ * Xe trộn bê tông * The concrete mixer arrived.
+Motorboat * /ˈmoʊtərboʊt/ * Ca nô * The motorboat is very fast.
+Yacht * /jɑːt/ * Du thuyền buồm * They own a private yacht.
+Tanker * /ˈtæŋkər/ * Tàu chở dầu * The tanker carries crude oil.
+Hovercraft * /ˈhʌvərkræft/ * Tàu đệm khí * The hovercraft moves over water.
+Glider * /ˈɡlaɪdər/ * Tàu lượn * The glider flies without engine.
+Jet * /dʒet/ * Phản lực * The jet travels at high speed.
+Biplane * /ˈbaɪpleɪn/ * Máy bay hai tầng cánh * The biplane is very classic.
+Digger * /ˈdɪɡər/ * Máy đào * The digger is working nearby.
+Backhoe * /ˈbækhoʊ/ * Máy xúc * The backhoe dug a deep hole.
+Roller * /ˈroʊlər/ * Xe lu * The roller flattened the road.
+Trolley * /ˈtrɑːli/ * Xe đẩy * Use a trolley for groceries.
+Wheelchair * /ˈwiːltʃer/ * Xe lăn * He uses a motorized wheelchair.
+Stroller * /ˈstroʊlər/ * Xe đẩy trẻ em * Push the baby in the stroller.
+Unicycle * /ˈjuːnɪsaɪkl/ * Xe đạp một bánh * He rides a unicycle well.
+Sidecar * /ˈsaɪdkɑːr/ * Xe máy có thùng * He has a sidecar attached.
+Moped * /ˈmoʊped/ * Xe đạp máy * She rides a quiet moped.
+Cabriolet * /ˌkæbriəˈleɪ/ * Xe mui trần sang * The cabriolet is luxury.
+Sedan * /sɪˈdæn/ * Xe sedan * The sedan is a popular family car.
+Coupe * /kuːp/ * Xe hai cửa * The coupe has a sleek design.
+Hatchback * /ˈhætʃbæk/ * Xe đuôi cụt * The hatchback has a big trunk.
+SUV * /es juː ˈviː/ * Xe thể thao đa dụng * An SUV is good for travel.
+Station wagon * /ˈsteɪʃn wæɡən/ * Xe wagon * The station wagon has extra space.
+Crossover * /ˈkrɔːsoʊvər/ * Xe crossover * The crossover is easy to drive.
+Microcar * /ˈmaɪkroʊkɑːr/ * Xe siêu nhỏ * A microcar is easy to park.
+Supercar * /ˈsuːpərkɑːr/ * Siêu xe * The supercar is very expensive.
+Race car * /reɪs kɑːr/ * Xe đua * The race car goes very fast.
+Dragster * /ˈdræɡstər/ * Xe đua tốc độ ngắn * A dragster accelerates quickly.
+Go-kart * /ˈɡoʊ kɑːrt/ * Xe kart * We drove go-karts today.
+Rickshaw * /ˈrɪkʃɔː/ * Xe xích lô * We took a local rickshaw.
+Sleigh * /sleɪ/ * Xe trượt tuyết * Santa rides a magic sleigh.
+Cable car * /ˈkeɪbl kɑːr/ * Cáp treo * Take the cable car up hill.
+Ski lift * /ˈskiː lɪft/ * Cáp treo trượt tuyết * The ski lift is very high.
+Monorail * /ˈmɑːnəreɪl/ * Tàu đường ray đơn * The monorail circles the city.
+Maglev * /ˈmæɡlev/ * Tàu đệm từ * The maglev is super fast.
+Spaceship * /ˈspeɪsʃɪp/ * Tàu vũ trụ * The spaceship explored space.
+Shuttle * /ˈʃʌtl/ * Tàu con thoi * The shuttle visits the station.
+Land rover * /lænd ˈroʊvər/ * Xe địa hình hãng LR * He loves his Land rover.
+Pick-up * /ˈpɪkʌp/ * Xe bán tải * The pick-up is very rugged.
+Off-road * /ˌɔːf ˈroʊd/ * Xe địa hình * The off-road truck is big.
+Taxi cab * /ˈtæksi kæb/ * Xe tắc xi * Call a taxi cab now.
+Public bus * /ˈpʌblɪk bʌs/ * Xe buýt công cộng * Public bus is very cheap.
+Double-decker * /ˈdʌbl dekər/ * Xe buýt 2 tầng * Sit on the top of the double-decker.
+School bus * /ˈskuːl bʌs/ * Xe đưa đón học sinh * The school bus picks up kids.
+Articulated bus * /ɑːrˈtɪkjuleɪtɪd bʌs/ * Xe buýt khớp nối * The articulated bus is long.
+Shuttle bus * /ˈʃʌtl bʌs/ * Xe buýt trung chuyển * The shuttle bus connects hotels.
+Trolley bus * /ˈtrɑːli bʌs/ * Xe buýt điện * The trolley bus uses wires.
+Minibus * /ˈmɪnibʌs/ * Xe buýt nhỏ * The minibus fits twelve people.
+Coach * /koʊtʃ/ * Xe khách * The coach travels to cities.
+Sleeping bus * /ˈsliːpɪŋ bʌs/ * Xe buýt giường nằm * The sleeping bus is comfortable.
+Night train * /naɪt treɪn/ * Tàu đêm * We took the night train.
+High-speed train * /haɪ spiːd treɪn/ * Tàu cao tốc * The high-speed train is smooth.
+Steam train * /stiːm treɪn/ * Tàu hơi nước * The steam train is antique.
+Cargo train * /ˈkɑːrɡoʊ treɪn/ * Tàu chở hàng * The cargo train is heavy.
+Subway car * /ˈsʌbweɪ kɑːr/ * Toa tàu điện ngầm * The subway car is crowded.
+Airbus * /ˈerbʌs/ * Máy bay Airbus * He flies an Airbus plane.
+Boeing * /ˈboʊɪŋ/ * Máy bay Boeing * Boeing makes big planes.
+Cargo plane * /ˈkɑːrɡoʊ pleɪn/ * Máy bay chở hàng * The cargo plane is wide.
+Private jet * /ˈpraɪvət dʒet/ * Phản lực tư nhân * They own a private jet.
+Seaplane * /ˈsiːpleɪn/ * Thủy phi cơ * The seaplane lands on water.
+Airship * /ˈerʃɪp/ * Khí cầu * An airship floats in sky.
+Blimp * /blɪmp/ * Khí cầu nhỏ * The blimp flies over stadium.
+Glider * /ˈɡlaɪdər/ * Tàu lượn * The glider is very light.
+Paraglider * /ˈpærəɡlaɪdər/ * Dù lượn * Paraglider jumps from hill.
+Hot-air balloon * /hɒt er bəˈluːn/ * Khinh khí cầu * We fly in a balloon.
