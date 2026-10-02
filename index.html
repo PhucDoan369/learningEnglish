@@ -1072,6 +1072,8 @@
           <button onclick="prevWord()">⬅ Trước</button>
           <button onclick="speakWord()">🔊 Phát âm</button>
           <button onclick="nextWord()">Tiếp ➡</button>
+          <!-- Nút Auto Play -->
+<button id="btn-auto-play" class="btn-auto">Auto Play</button>
         </div>
         <button onclick="searchImages()" class="btn-image">🌄 Ảnh liên tưởng</button>
       </div>
@@ -1108,12 +1110,70 @@
 
     function speakWord() {
       if (vocabulary.length !== 0) {
+        if ("speechSynthesis" in window) {
+          window.speechSynthesis.cancel();
+        }
         const utterance = new SpeechSynthesisUtterance(vocabulary[currentIndex].word);
         utterance.lang = "en-US";
-        window.speechSynthesis.speak(utterance);
+        if ("speechSynthesis" in window) {
+          window.speechSynthesis.speak(utterance);
+        }
       }
     }
 
+    let isAutoPlaying = false;
+    let autoPlayTimer = null;
+
+    function updateAutoPlayButton() {
+      const btn = document.getElementById("btn-auto-play");
+      if (!btn) return;
+      btn.textContent = isAutoPlaying ? "Pause Auto" : "Auto Play";
+      btn.classList.toggle("playing", isAutoPlaying);
+    }
+
+    function stopAutoPlay() {
+      isAutoPlaying = false;
+      clearTimeout(autoPlayTimer);
+      if ("speechSynthesis" in window) {
+        window.speechSynthesis.cancel();
+      }
+      updateAutoPlayButton();
+    }
+
+    function runAutoPlayStep() {
+      if (!isAutoPlaying || vocabulary.length === 0) return;
+
+      card.classList.remove("flipped");
+      updateCard();
+
+      autoPlayTimer = setTimeout(() => {
+        if (!isAutoPlaying) return;
+        card.classList.add("flipped");
+        speakWord();
+
+        autoPlayTimer = setTimeout(() => {
+          if (!isAutoPlaying) return;
+          currentIndex = (currentIndex + 1) % vocabulary.length;
+          updateCard();
+          runAutoPlayStep();
+        }, 2200);
+      }, 1100);
+    }
+
+    function toggleAutoPlay() {
+      if (!vocabulary.length) return;
+
+      if (isAutoPlaying) {
+        stopAutoPlay();
+        return;
+      }
+
+      isAutoPlaying = true;
+      updateAutoPlayButton();
+      runAutoPlayStep();
+    }
+
+    document.getElementById("btn-auto-play").addEventListener("click", toggleAutoPlay);
     function searchImages() {
       if (vocabulary.length !== 0) {
         var word = vocabulary[currentIndex].word;
@@ -1141,6 +1201,7 @@
     }
 
     function flipCard() {
+      stopAutoPlay();
       card.classList.toggle("flipped");
     }
 
@@ -1159,6 +1220,7 @@
     }
 
     function nextWord() {
+      stopAutoPlay();
       if (vocabulary.length !== 0) {
         currentIndex = (currentIndex + 1) % vocabulary.length;
         updateCard();
@@ -1166,6 +1228,7 @@
     }
 
     function prevWord() {
+      stopAutoPlay();
       if (vocabulary.length !== 0) {
         currentIndex = (currentIndex - 1 + vocabulary.length) % vocabulary.length;
         updateCard();
@@ -1187,6 +1250,7 @@
     }
 
     async function selectTopic(file, topicName) {
+      stopAutoPlay();
       document.getElementById("current-topic-title").innerText = `Chủ đề: ${topicName}`;
       try {
         let response = await fetch(file);
@@ -1201,6 +1265,7 @@
     }
 
     function backToMenu() {
+      stopAutoPlay();
       document.getElementById("current-topic-title").innerText = "CHỌN CHỦ ĐỀ ĐỂ BẮT ĐẦU HỌC";
       document.getElementById("flashcard-view").style.display = "none";
       document.getElementById("menu-view").style.display = "block";
