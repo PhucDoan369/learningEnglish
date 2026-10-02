@@ -1,4 +1,3 @@
-Word Forms * /wɜːrd fɔːrmz/ * Dạng từ * You need to choose the correct word form in this sentence.
 Noun * /naʊn/ * Danh từ * The company hired a new manager.
 Verb * /vɜːrb/ * Động từ * She manages the sales team.
 Adjective * /ˈædʒəktɪv/ * Tính từ * The company needs an experienced manager.
@@ -6,28 +5,50 @@ Adverb * /ˈædvɜːrb/ * Trạng từ * She works efficiently.
 Subject * /ˈsʌbdʒɪkt/ * Chủ ngữ * The manager approved the proposal.
 Object * /ˈɑːbdʒɪkt/ * Tân ngữ * The manager approved the proposal.
 Word family * /wɜːrd ˈfæməli/ * Họ từ * Decide, decision, decisive, and decisively are in the same word family.
--tion * /ʃən/ * Hậu tố tạo danh từ * The company made a final decision.
--ment * /mənt/ * Hậu tố tạo danh từ * The department needs improvement.
--ness * /nəs/ * Hậu tố tạo danh từ * Her kindness impressed everyone.
--ity * /əti/ * Hậu tố tạo danh từ * The quality of the product is excellent.
--ive * /ɪv/ * Hậu tố tạo tính từ * The new system is effective.
--al * /əl/ * Hậu tố tạo tính từ * The company made several financial changes.
+
+-tion * /ʃən/ * Hậu tố thường tạo danh từ * The company made a final decision.
+-sion * /ʒən/ * Hậu tố thường tạo danh từ * The manager made an important decision.
+-ment * /mənt/ * Hậu tố thường tạo danh từ * The department needs improvement.
+-er * /ər/ * Hậu tố thường tạo danh từ chỉ người thực hiện hành động * The company hired a new worker.
+-or * /ər/ * Hậu tố thường tạo danh từ chỉ người hoặc vật thực hiện hành động * The operator answered the phone.
+-ness * /nəs/ * Hậu tố thường tạo danh từ chỉ trạng thái hoặc tính chất * Her kindness impressed everyone.
+-ity * /əti/ * Hậu tố thường tạo danh từ chỉ tính chất hoặc trạng thái * The quality of the product is excellent.
+-ance * /əns/ * Hậu tố thường tạo danh từ * The company announced an important change.
+-ence * /əns/ * Hậu tố thường tạo danh từ * The manager showed confidence during the meeting.
+
+-ise * /aɪz/ * Hậu tố thường tạo động từ * The company plans to modernise its equipment.
+-ize * /aɪz/ * Hậu tố thường tạo động từ * The company plans to modernize its system.
+-ate * /eɪt/ * Hậu tố thường tạo động từ * The company will operate the new system.
+-fy * /faɪ/ * Hậu tố thường tạo động từ * The software can simplify the process.
+-en * /ən/ * Hậu tố thường tạo động từ * The new policy will strengthen the company.
+
+-ful * /fəl/ * Hậu tố thường tạo tính từ mang nghĩa đầy hoặc có * The training was useful.
+-less * /ləs/ * Hậu tố thường tạo tính từ mang nghĩa không có * The new system is wireless.
+-ive * /ɪv/ * Hậu tố thường tạo tính từ * The new system is effective.
+-ous * /əs/ * Hậu tố thường tạo tính từ * The company developed a successful product.
+-able * /əbəl/ * Hậu tố thường tạo tính từ mang nghĩa có thể * This software is reliable.
+-ible * /əbəl/ * Hậu tố thường tạo tính từ mang nghĩa có thể * The information is accessible online.
+-al * /əl/ * Hậu tố thường tạo tính từ * The company made several financial changes.
+-ent * /ənt/ * Hậu tố thường tạo tính từ * The new system is efficient.
+
 -ly * /li/ * Hậu tố thường tạo trạng từ * She completed the task quickly.
--able * /əbəl/ * Hậu tố tạo tính từ * This software is reliable.
--ful * /fəl/ * Hậu tố tạo tính từ * The training was useful.
--less * /ləs/ * Hậu tố tạo tính từ mang nghĩa không có * The new system is wireless.
-Present Simple * /ˈprezənt ˈsɪmpəl/ * Thì hiện tại đơn * The store opens at eight every morning.
-Present Continuous * /ˈprezənt kənˈtɪnjuəs/ * Thì hiện tại tiếp diễn * The employees are preparing the report.
-Past Simple * /pæst ˈsɪmpəl/ * Thì quá khứ đơn * The company opened a new branch last year.
-Past Continuous * /pæst kənˈtɪnjuəs/ * Thì quá khứ tiếp diễn * They were discussing the problem when I arrived.
-Present Perfect * /ˈprezənt ˈpɜːrfɪkt/ * Thì hiện tại hoàn thành * She has worked here for five years.
-Past Perfect * /pæst ˈpɜːrfɪkt/ * Thì quá khứ hoàn thành * The meeting had already started when he arrived.
-Future Simple * /ˈfjuːtʃər ˈsɪmpəl/ * Thì tương lai đơn * We will contact you tomorrow.
-Future with be going to * /ˈfjuːtʃər wɪð bi ˈɡoʊɪŋ tuː/ * Tương lai gần * The company is going to launch a new product.
-Present Perfect Continuous * /ˈprezənt ˈpɜːrfɪkt kənˈtɪnjuəs/ * Hiện tại hoàn thành tiếp diễn * She has been working here since 2020.
-Past Perfect Continuous * /pæst ˈpɜːrfɪkt kənˈtɪnjuəs/ * Quá khứ hoàn thành tiếp diễn * They had been waiting for an hour before the meeting began.
-Future Perfect Continuous * /ˈfjuːtʃər ˈpɜːrfɪkt kənˈtɪnjuəs/ * Tương lai hoàn thành tiếp diễn * By June, she will have been working here for ten years.
-Passive Voice * /ˈpæsɪv vɔɪs/ * Câu bị động * The report was completed yesterday.
+
+
+Present Simple * /ˈprezənt ˈsɪmpəl/ * S + V(s/es) * The store opens at eight every morning.
+Present Continuous * /ˈprezənt kənˈtɪnjuəs/ * S + am/is/are + V-ing * The employees are preparing the report.
+Past Simple * /pæst ˈsɪmpəl/ * S + V2/ed * The company opened a new branch last year.
+Past Continuous * /pæst kənˈtɪnjuəs/ * S + was/were + V-ing * They were discussing the problem when I arrived.
+Present Perfect * /ˈprezənt ˈpɜːrfɪkt/ * S + have/has + V3/ed * She has worked here for five years.
+Past Perfect * /pæst ˈpɜːrfɪkt/ * S + had + V3/ed * The meeting had already started when he arrived.
+Future Simple * /ˈfjuːtʃər ˈsɪmpəl/ * S + will + V * We will contact you tomorrow.
+Future with be going to * /ˈfjuːtʃər wɪð bi ˈɡoʊɪŋ tuː/ * S + am/is/are + going to + V * The company is going to launch a new product.
+Present Perfect Continuous * /ˈprezənt ˈpɜːrfɪkt kənˈtɪnjuəs/ * S + have/has + been + V-ing * She has been working here since 2020.
+Past Perfect Continuous * /pæst ˈpɜːrfɪkt kənˈtɪnjuəs/ * S + had + been + V-ing * They had been waiting for an hour before the meeting began.
+Future Perfect Continuous * /ˈfjuːtʃər ˈpɜːrfɪkt kənˈtɪnjuəs/ * S + will + have + been + V-ing * By June, she will have been working here for ten years.
+Passive Voice * /ˈpæsɪv vɔɪs/ * S + be + V3/ed * The report was completed yesterday.
+
+
+
 be + V3 * /biː plus viː θriː/ * Cấu trúc bị động cơ bản * The documents are sent every morning.
 is/am/are + V3 * /ɪz æm ɑːr plus viː θriː/ * Bị động hiện tại đơn * The office is cleaned every day.
 was/were + V3 * /wəz wɜːr plus viː θriː/ * Bị động quá khứ đơn * The building was completed in 2020.
